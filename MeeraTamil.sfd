@@ -5,7 +5,7 @@ FamilyName: Meera Tamil
 Weight: Medium
 Copyright: Copyright 2012 Meera Tamil project contributors.\n\nDesigned by Hussain KH (Typography), Santhosh Thottingal (Featuring), Anilan NG (Calligraphy) and AKM Kutty (Linguistics).\n\nDedicated to Wikipedia and Tamil People (Tamil Pesum Nallulakam).\n\nLicensed under the SIL Open Font License 1.1 (see file OFL.txt)
 UComments: "2012-6-9: Created." 
-Version: 0.01alpha1
+Version: 0.01alpha2
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339233494
-ModificationTime: 1339934293
+ModificationTime: 1343552297
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -34,12 +34,12 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 6"  {"'psts' Post Base Substitutions lookup 6-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 2 0 "'abvs' Above Base Substitutions in Tamil lookup 0"  {"'abvs' Above Base Substitutions in Tamil lookup 0-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Tamil lookup 1"  {"'akhn' Akhand in Tamil lookup 1-1"  } ['akhn' ('taml' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' Half Forms in Tamil lookup 2"  {"'half' Half Forms in Tamil lookup 2-1"  } ['half' ('DFLT' <'dflt' > 'taml' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand in Tamil lookup 1"  {"'akhn' Akhand in Tamil lookup 1-1"  } ['akhn' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "'half' form Substitution lookup 5"  {"'half' form Substitution lookup 5-1"  } ['half' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Tamil lookup 3"  {"'blws' Below Base Substitutions in Tamil lookup 3-1"  } ['blws' ('taml' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms in Tamil lookup 4"  {"'haln' Halant Forms in Tamil lookup 4-1"  } ['haln' ('taml' <'dflt' > ) ]
+Lookup: 4 2 0 "'abvs' Above Base Substitutions in Tamil lookup 0"  {"'abvs' Above Base Substitutions in Tamil lookup 0-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 6"  {"'psts' Post Base Substitutions lookup 6-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "'haln' Halant Forms in Tamil lookup 4"  {"'haln' Halant Forms in Tamil lookup 4-1"  } ['haln' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 0 32 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65658 234
@@ -1632,47 +1632,49 @@ StartChar: uni0BB3
 Encoding: 2995 2995 28
 Width: 887
 VWidth: 1048
-Flags: HW
+Flags: W
+HStem: -11 69<261.063 341.489> 1 21G<482 553 693 766> 180 65<261.631 342.369> 381 68<553 693 766 889> 390 71<256.677 423.737>
+VStem: 105 67<121.405 297.779> 200 48<104.537 165.794> 355 70<73.3251 166.139> 482 71<1 337.555> 693 73<1 381>
 LayerCount: 2
 Fore
 SplineSet
-889 381 m 1
+889 381 m 1x37c0
  766 381 l 1
  766 1 l 1
  693 1 l 1
  693 381 l 1
  553 381 l 1
  553 1 l 1
- 482 1 l 1
+ 482 1 l 1x77c0
  482 272 l 2
  482 308 467 337 437 359 c 0
  410 379 378 390 340 390 c 0
- 291 390 250 372 219 335 c 128
+ 291 390 250 372 219 335 c 0
  188 298 172 256 172 206 c 0
  172 166 183 132 206 104 c 1
  202 122 200 133 200 134 c 0
- 200 166 209 193 229 214 c 128
+ 200 166 209 193 229 214 c 0
  249 235 275 245 306 245 c 0
- 341 245 370 232 392 207 c 128
+ 341 245 370 232 392 207 c 0
  414 182 425 152 425 116 c 0
- 425 78 413 48 389 24 c 128
+ 425 78 413 48 389 24 c 0
  365 0 335 -11 297 -11 c 0
  237 -11 189 12 154 58 c 0
  122 101 105 154 105 215 c 0
  105 285 125 342 165 388 c 0
- 207 436 263 461 332 461 c 0
+ 207 436 263 461 332 461 c 0xafc0
  404 461 454 435 482 383 c 1
  482 449 l 1
  889 449 l 1
- 889 381 l 1
+ 889 381 l 1x37c0
 355 120 m 0
- 355 137 351 151 341 163 c 128
+ 355 137 351 151 341 163 c 0
  331 175 318 180 302 180 c 256
- 286 180 273 175 263 163 c 128
+ 286 180 273 175 263 163 c 0
  253 151 248 137 248 120 c 256
  248 103 252 89 262 78 c 1
- 272 65 286 58 302 58 c 256
- 318 58 331 65 341 77 c 128
+ 272 65 286 58 302 58 c 256xa7c0
+ 318 58 331 65 341 77 c 0
  351 89 355 104 355 120 c 0
 EndSplineSet
 Validated: 1
@@ -2356,7 +2358,7 @@ SplineSet
  295.333333333 57 307.833333333 63 317.5 75 c 128
  327.166666667 87 332 101 332 117 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni0BCA
@@ -2812,24 +2814,23 @@ EndChar
 StartChar: uni0BCD
 Encoding: 3021 3021 48
 Width: 522
+GlyphClass: 2
 Flags: HW
-HStem: -9 36<230.233 286 337 390.231> 412 36<236.006 286 338 388.72> 504 159<265.414 357.582>
-VStem: 102 35<130.237 195 243 305.057> 244 135<524.624 642.179> 486 35<132.767 195 243 306.352>
-CounterMasks: 1 1c
+HStem: 504 159<265.414 357.582>
+VStem: 244 135<524.624 642.179>
 LayerCount: 2
 Fore
 SplineSet
-379 584 m 0
- 379 563.333333333 373 545.333333333 361 530 c 0
- 347.666666667 512.666666667 331 504 311 504 c 0
- 291.666666667 504 275.333333333 512.666666667 262 530 c 0
- 250 545.333333333 244 563.333333333 244 584 c 0
- 244 604 250.333333333 622.166666667 263 638.5 c 0
- 275.666666667 654.833333333 291.666666667 663 311 663 c 0
- 331 663 347.333333333 654.833333333 360 638.5 c 0
- 372.666666667 622.166666667 379 604 379 584 c 0
+-165 584 m 4
+ -165 563.333007812 -171 545.333007812 -183 530 c 4
+ -196.333007812 512.666992188 -213 504 -233 504 c 4
+ -252.333007812 504 -268.666992188 512.666992188 -282 530 c 4
+ -294 545.333007812 -300 563.333007812 -300 584 c 4
+ -300 604 -293.666992188 622.166992188 -281 638.5 c 4
+ -268.333007812 654.833007812 -252.333007812 663 -233 663 c 4
+ -213 663 -196.666992188 654.833007812 -184 638.5 c 4
+ -171.333007812 622.166992188 -165 604 -165 584 c 4
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni0BE6
@@ -4109,6 +4110,7 @@ EndChar
 StartChar: k
 Encoding: 65537 -1 72
 Width: 626
+GlyphClass: 2
 Flags: W
 HStem: -12 62<222.65 356.062 468.671 546.595> 186 71<176.814 215 284 382 450 547.078> 369 69<284 382 450 578> 503 132<380.472 461.528>
 VStem: 103 69<93.4062 178.515> 215 69<257 369> 365 112<523.612 622.183> 382 68<76.1641 186 257 369> 557 68<57.3994 177.462>
@@ -4162,7 +4164,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B95 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0B95 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0B95 uni0BCD
 EndChar
 
 StartChar: ng
@@ -4213,29 +4215,31 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B99 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0B99 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0B99 uni0BCD
 EndChar
 
 StartChar: ch
 Encoding: 65539 -1 74
 Width: 575
-Flags: HW
+Flags: W
+HStem: -12 65<214.056 353.876> 186 71<178.463 209 278 377 444 576> 369 69<278 377 444 567> 503 132<385.987 466.013>
+VStem: 103 69<91.6719 178.812> 209 69<257 369> 370 112<523.626 621.982> 377 67<76.0286 186 257 369>
 LayerCount: 2
 Fore
 SplineSet
-482 569 m 0
- 482 551.666666667 476.833333333 536.333333333 466.5 523 c 128
+482 569 m 0xfe
+ 482 551.666666667 476.833333333 536.333333333 466.5 523 c 0
  456.166666667 509.666666667 442.666666667 503 426 503 c 256
- 409.333333333 503 395.833333333 509.666666667 385.5 523 c 128
+ 409.333333333 503 395.833333333 509.666666667 385.5 523 c 0
  375.166666667 536.333333333 370 551.666666667 370 569 c 0
- 370 585.666666667 375.166666667 600.833333333 385.5 614.5 c 128
+ 370 585.666666667 375.166666667 600.833333333 385.5 614.5 c 0
  395.833333333 628.166666667 409.333333333 635 426 635 c 256
- 442.666666667 635 456.166666667 628.166666667 466.5 614.5 c 128
- 476.833333333 600.833333333 482 585.666666667 482 569 c 0
+ 442.666666667 635 456.166666667 628.166666667 466.5 614.5 c 0
+ 476.833333333 600.833333333 482 585.666666667 482 569 c 0xfe
 576 186 m 1
  444 186 l 1
  444 133 l 2
- 444 85.6666666667 429.5 49.6666666667 400.5 25 c 128
+ 444 85.6666666667 429.5 49.6666666667 400.5 25 c 0
  371.5 0.333333333333 333 -12 285 -12 c 0
  239 -12 197.666666667 2.33333333333 161 31 c 1
  122.333333333 62.3333333333 103 100.333333333 103 145 c 0
@@ -4244,7 +4248,7 @@ SplineSet
  567 438 l 1
  567 369 l 1
  444 369 l 1
- 444 257 l 1
+ 444 257 l 1xfd
  576 257 l 1
  576 186 l 1
 377 257 m 1
@@ -4263,7 +4267,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9A uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0B9A uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0B9A uni0BCD
 EndChar
 
 StartChar: j
@@ -4351,7 +4355,7 @@ SplineSet
 EndSplineSet
 Validated: 5
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9C uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0B9C uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0B9C uni0BCD
 EndChar
 
 StartChar: nj
@@ -4424,7 +4428,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9E uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0B9E uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0B9E uni0BCD
 EndChar
 
 StartChar: t
@@ -4453,7 +4457,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9F uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0B9F uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0B9F uni0BCD
 EndChar
 
 StartChar: NameMe.215.1
@@ -4536,44 +4540,46 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA3 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BA3 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BA3 uni0BCD
 EndChar
 
 StartChar: th
 Encoding: 65544 -1 79
 Width: 622
-Flags: HW
+Flags: W
+HStem: -110 64<168.407 485.656> -12 65<208.454 348.407> 186 71<170.43 204 273 371 439 518.813> 369 69<273 371 439 567> 503 132<375.987 456.013>
+VStem: 86 69<-197.86 -118.774> 97 69<91.7609 178.812> 204 69<257 369> 360 112<523.626 621.982> 371 68<131 186 257 369> 549 73<16.5407 155.168>
 LayerCount: 2
 Fore
 SplineSet
-472 569 m 0
- 472 551.666666667 466.833333333 536.333333333 456.5 523 c 128
+472 569 m 0xf9a0
+ 472 551.666666667 466.833333333 536.333333333 456.5 523 c 0
  446.166666667 509.666666667 432.666666667 503 416 503 c 256
- 399.333333333 503 385.833333333 509.666666667 375.5 523 c 128
+ 399.333333333 503 385.833333333 509.666666667 375.5 523 c 0
  365.166666667 536.333333333 360 551.666666667 360 569 c 0
- 360 585.666666667 365.166666667 600.833333333 375.5 614.5 c 128
+ 360 585.666666667 365.166666667 600.833333333 375.5 614.5 c 0
  385.833333333 628.166666667 399.333333333 635 416 635 c 256
- 432.666666667 635 446.166666667 628.166666667 456.5 614.5 c 128
- 466.833333333 600.833333333 472 585.666666667 472 569 c 0
+ 432.666666667 635 446.166666667 628.166666667 456.5 614.5 c 0
+ 466.833333333 600.833333333 472 585.666666667 472 569 c 0xf9a0
 622 87 m 0
  622 27 600.333333333 -21.3333333333 557 -58 c 0
  516.333333333 -92.6666666667 465.666666667 -110 405 -110 c 2
  199 -110 l 2
- 187 -110 176.666666667 -114 168 -122 c 128
+ 187 -110 176.666666667 -114 168 -122 c 0
  159.333333333 -130 155 -140 155 -152 c 0
  155 -169.333333333 163 -180.666666667 179 -186 c 1
  133 -231 l 1
- 101.666666667 -211.666666667 86 -183.333333333 86 -146 c 0
- 86 -118 96.3333333333 -94.3333333333 117 -75 c 128
+ 101.666666667 -211.666666667 86 -183.333333333 86 -146 c 0xfd60
+ 86 -118 96.3333333333 -94.3333333333 117 -75 c 0
  137.666666667 -55.6666666667 162.333333333 -46 191 -46 c 2
  407 -46 l 2
- 446.333333333 -46 479.833333333 -32.8333333333 507.5 -6.5 c 128
+ 446.333333333 -46 479.833333333 -32.8333333333 507.5 -6.5 c 0
  535.166666667 19.8333333333 549 52.3333333333 549 91 c 0
- 549 119.666666667 540.333333333 142.666666667 523 160 c 128
+ 549 119.666666667 540.333333333 142.666666667 523 160 c 0
  505.666666667 177.333333333 482.666666667 186 454 186 c 2
  439 186 l 1
  439 133 l 2
- 439 85.6666666667 424.5 49.6666666667 395.5 25 c 128
+ 439 85.6666666667 424.5 49.6666666667 395.5 25 c 0
  366.5 0.333333333333 327.666666667 -12 279 -12 c 0
  233.666666667 -12 192.666666667 2.66666666667 156 32 c 0
  116.666666667 62.6666666667 97 100.333333333 97 145 c 0
@@ -4582,9 +4588,9 @@ SplineSet
  567 438 l 1
  567 369 l 1
  439 369 l 1
- 439 257 l 1
+ 439 257 l 1xfb60
  471 257 l 2
- 517 257 553.666666667 240.5 581 207.5 c 128
+ 517 257 553.666666667 240.5 581 207.5 c 0
  608.333333333 174.5 622 134.333333333 622 87 c 0
 371 257 m 1
  371 369 l 1
@@ -4595,14 +4601,14 @@ SplineSet
  371 131 l 1
  371 186 l 1
  222 186 l 2
- 184.666666667 186 166 172 166 144 c 0
+ 184.666666667 186 166 172 166 144 c 0xfb60
  166 118 178.666666667 96 204 78 c 0
  227.333333333 61.3333333333 252.333333333 53 279 53 c 0
  337 53 368 78.6666666667 372 130 c 1
 EndSplineSet
 Validated: 33
+Ligature2: "'half' form Substitution lookup 5-1" uni0BA4 uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA4 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BA4 uni0BCD
 EndChar
 
 StartChar: n
@@ -4655,8 +4661,8 @@ SplineSet
  560.333333333 174.666666667 574 132 574 84 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BA8 uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA8 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BA8 uni0BCD
 EndChar
 
 StartChar: nn
@@ -4723,8 +4729,8 @@ SplineSet
  332.166666667 87 337 101 337 117 c 256
 EndSplineSet
 Validated: 1
+Ligature2: "'half' form Substitution lookup 5-1" uni0BA9 uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA9 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BA9 uni0BCD
 EndChar
 
 StartChar: p
@@ -4755,7 +4761,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAA uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BAA uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BAA uni0BCD
 EndChar
 
 StartChar: m
@@ -4797,8 +4803,8 @@ SplineSet
  601.333333333 72 627 106.333333333 627 175 c 0
 EndSplineSet
 Validated: 1
+Ligature2: "'half' form Substitution lookup 5-1" uni0BAE uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAE uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BAE uni0BCD
 EndChar
 
 StartChar: y
@@ -4838,8 +4844,8 @@ SplineSet
  622 -3 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BAF uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAF uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BAF uni0BCD
 EndChar
 
 StartChar: r
@@ -4878,8 +4884,9 @@ SplineSet
  533 372 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB0 uni0BCD
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB0 uni0BCD
+LCarets2: 1 0 
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAF uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BAF uni0BCD
 EndChar
 
 StartChar: rr
@@ -4934,8 +4941,8 @@ SplineSet
  591.666666667 312.666666667 604 254 604 184 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB1 uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB1 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB1 uni0BCD
 EndChar
 
 StartChar: l
@@ -4998,67 +5005,69 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB2 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB2 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB2 uni0BCD
 EndChar
 
 StartChar: ll
 Encoding: 65553 -1 88
 Width: 867
-Flags: HW
+Flags: W
+HStem: -11 68<255.089 333.891> 1 21G<471 540 677 748> 176 63<254.792 333.616> 372 66<540 677 748 868> 381 69<250.809 415.742> 503 132<580.987 661.013>
+VStem: 103 65<117.633 292.354> 195 47<102.65 162.466> 347 68<71.4647 161.993> 471 69<1 330.149> 565 112<523.626 621.982> 677 71<1 372>
 LayerCount: 2
 Fore
 SplineSet
-677 569 m 0
- 677 551.666666667 671.833333333 536.333333333 661.5 523 c 128
+677 569 m 0x27e0
+ 677 551.666666667 671.833333333 536.333333333 661.5 523 c 0
  651.166666667 509.666666667 637.666666667 503 621 503 c 256
- 604.333333333 503 590.833333333 509.666666667 580.5 523 c 128
+ 604.333333333 503 590.833333333 509.666666667 580.5 523 c 0
  570.166666667 536.333333333 565 551.666666667 565 569 c 0
- 565 585.666666667 570.166666667 600.833333333 580.5 614.5 c 128
+ 565 585.666666667 570.166666667 600.833333333 580.5 614.5 c 0
  590.833333333 628.166666667 604.333333333 635 621 635 c 256
- 637.666666667 635 651.166666667 628.166666667 661.5 614.5 c 128
- 671.833333333 600.833333333 677 585.666666667 677 569 c 0
-868 372 m 1
+ 637.666666667 635 651.166666667 628.166666667 661.5 614.5 c 0
+ 671.833333333 600.833333333 677 585.666666667 677 569 c 0x27e0
+868 372 m 1x37d0
  748 372 l 1
  748 1 l 1
  677 1 l 1
  677 372 l 1
  540 372 l 1
  540 1 l 1
- 471 1 l 1
+ 471 1 l 1x77d0
  471 266 l 2
  471 301.333333333 456.333333333 329.666666667 427 351 c 0
  400.333333333 371 368.666666667 381 332 381 c 0
- 284 381 244.666666667 363.166666667 214 327.5 c 128
+ 284 381 244.666666667 363.166666667 214 327.5 c 0
  183.333333333 291.833333333 168 249.666666667 168 201 c 0
  168 162.333333333 179 129.333333333 201 102 c 1
  197 117.333333333 195 127 195 131 c 0
- 195 162.333333333 204.666666667 188.166666667 224 208.5 c 128
+ 195 162.333333333 204.666666667 188.166666667 224 208.5 c 0
  243.333333333 228.833333333 268.333333333 239 299 239 c 0
- 333.666666667 239 361.666666667 226.833333333 383 202.5 c 128
+ 333.666666667 239 361.666666667 226.833333333 383 202.5 c 0
  404.333333333 178.166666667 415 148.333333333 415 113 c 0
- 415 76.3333333333 403.333333333 46.5 380 23.5 c 128
+ 415 76.3333333333 403.333333333 46.5 380 23.5 c 0
  356.666666667 0.5 326.666666667 -11 290 -11 c 0
  231.333333333 -11 184.666666667 11.6666666667 150 57 c 0
  118.666666667 99 103 150 103 210 c 0
  103 278 122.666666667 334.333333333 162 379 c 1
- 202.666666667 426.333333333 256.666666667 450 324 450 c 0
+ 202.666666667 426.333333333 256.666666667 450 324 450 c 0xafd0
  394.666666667 450 443.666666667 424.666666667 471 374 c 1
  471 438 l 1
  868 438 l 1
- 868 372 l 1
+ 868 372 l 1x37d0
 347 117 m 256
- 347 133 342.166666667 146.833333333 332.5 158.5 c 128
+ 347 133 342.166666667 146.833333333 332.5 158.5 c 0
  322.833333333 170.166666667 310.333333333 176 295 176 c 0
- 279 176 266.166666667 170.333333333 256.5 159 c 128
+ 279 176 266.166666667 170.333333333 256.5 159 c 0
  246.833333333 147.666666667 242 133.666666667 242 117 c 0
- 242 101 246.833333333 87 256.5 75 c 128
- 266.166666667 63 279 57 295 57 c 0
- 310.333333333 57 322.833333333 63 332.5 75 c 128
+ 242 101 246.833333333 87 256.5 75 c 0
+ 266.166666667 63 279 57 295 57 c 0xa7c0
+ 310.333333333 57 322.833333333 63 332.5 75 c 0
  342.166666667 87 347 101 347 117 c 256
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB3 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB3 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB3 uni0BCD
 EndChar
 
 StartChar: zh
@@ -5123,8 +5132,8 @@ SplineSet
  601.333333333 72 627 106.333333333 627 175 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB4 uni0BCD
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB4 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB4 uni0BCD
 EndChar
 
 StartChar: v
@@ -5182,7 +5191,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB5 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB5 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB5 uni0BCD
 EndChar
 
 StartChar: sh
@@ -5266,7 +5275,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB7 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB7 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB7 uni0BCD
 EndChar
 
 StartChar: s
@@ -5337,7 +5346,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB8 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB8 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB8 uni0BCD
 EndChar
 
 StartChar: h
@@ -5424,7 +5433,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB9 uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" uni0BB9 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" uni0BB9 uni0BCD
 EndChar
 
 StartChar: ksh
@@ -5534,7 +5543,7 @@ SplineSet
 EndSplineSet
 Validated: 33
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ksha uni0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 2-1" ksha uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ksha uni0BCD
 EndChar
 
 StartChar: ksha
@@ -5897,7 +5906,7 @@ SplineSet
  488.666666667 53 519.333333333 78.6666666667 522 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0B95 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC1
 EndChar
 
 StartChar: ngu
@@ -5940,7 +5949,7 @@ SplineSet
  697 -214 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0B99 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC1
 EndChar
 
 StartChar: chu
@@ -5984,7 +5993,7 @@ SplineSet
  343 53 373.666666667 78.6666666667 377 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0B9A uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC1
 EndChar
 
 StartChar: nju
@@ -6057,7 +6066,7 @@ SplineSet
  584.333333333 -155.666666667 626 -131.333333333 662 -96 c 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0B9E uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC1
 EndChar
 
 StartChar: tu
@@ -6101,7 +6110,7 @@ SplineSet
  780 -11 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0B9F uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC1
 EndChar
 
 StartChar: nnu
@@ -6190,7 +6199,7 @@ SplineSet
  332.166666667 87 337 101 337 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BA3 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC1
 EndChar
 
 StartChar: thu
@@ -6254,7 +6263,7 @@ SplineSet
  407.333333333 -179 476.666666667 -151.333333333 528 -96 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BA4 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC1
 EndChar
 
 StartChar: nu
@@ -6306,7 +6315,7 @@ SplineSet
  375.666666667 -177 434 -150 476 -96 c 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BA8 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC1
 EndChar
 
 StartChar: pu
@@ -6331,21 +6340,23 @@ SplineSet
  588 -214 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BAA uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC1
 EndChar
 
 StartChar: mu
 Encoding: 65573 -1 108
 Width: 895
-Flags: HW
+Flags: W
+HStem: -230 65<300.764 469.506> 0 72<354 535 612 788.247> 380 71<627.284 733.235>
+VStem: 100 68<-1.04822 281.413> 282 72<72 438> 535 77<-93.8196 0 72 361.951> 812 81<94.8572 277.599>
 LayerCount: 2
 Fore
 SplineSet
 893 181 m 0
- 893 126.333333333 877.666666667 82.5 847 49.5 c 128
+ 893 126.333333333 877.666666667 82.5 847 49.5 c 0
  816.333333333 16.5 774 0 720 0 c 0
  693 0 693 0 610 0 c 1
- 610 -66.6666666667 590.166666667 -121.666666667 550.5 -165 c 128
+ 610 -66.6666666667 590.166666667 -121.666666667 550.5 -165 c 0
  510.833333333 -208.333333333 458.333333333 -230 393 -230 c 0
  300.333333333 -230 226.666666667 -190.666666667 172 -112 c 0
  124 -42.6666666667 100 40.6666666667 100 138 c 0
@@ -6362,21 +6373,21 @@ SplineSet
  354 72 l 1
  535 72 l 1
  535 317 l 2
- 535 353.666666667 547.833333333 385.166666667 573.5 411.5 c 128
+ 535 353.666666667 547.833333333 385.166666667 573.5 411.5 c 0
  599.166666667 437.833333333 630.333333333 451 667 451 c 0
  731.666666667 451 786.333333333 421.666666667 831 363 c 0
  872.333333333 309 893 248.333333333 893 181 c 0
 812 175 m 0
  812 220.333333333 800 264 776 306 c 0
  748 355.333333333 713 380 671 380 c 0
- 654.333333333 380 640.333333333 374.166666667 629 362.5 c 128
+ 654.333333333 380 640.333333333 374.166666667 629 362.5 c 0
  617.666666667 350.833333333 612 336.666666667 612 320 c 2
  612 72 l 1
  735 72 l 2
  786.333333333 72 812 106.333333333 812 175 c 0
 EndSplineSet
 Validated: 33
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BAE uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC1
 EndChar
 
 StartChar: yu
@@ -6409,7 +6420,7 @@ SplineSet
  621 -214 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BAF uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC1
 EndChar
 
 StartChar: ru
@@ -6453,7 +6464,7 @@ SplineSet
  760.333333333 168.666666667 775 120 775 62 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BB0 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC1
 EndChar
 
 StartChar: rru
@@ -6506,7 +6517,7 @@ SplineSet
  438.333333333 -138.833333333 464.666666667 -119.333333333 484 -96 c 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BB1 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC1
 EndChar
 
 StartChar: NameMe.207.1
@@ -6571,7 +6582,7 @@ SplineSet
  878.666666667 65.8333333333 890 35 890 -3 c 0xdfe0
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0B99 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC2
 EndChar
 
 StartChar: NameMe.208.1
@@ -6639,7 +6650,7 @@ SplineSet
  343 53 373.666666667 78.6666666667 377 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B95 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC2
 EndChar
 
 StartChar: NameMe.209.1
@@ -6710,6 +6721,7 @@ SplineSet
  340.166666667 87 345 101 345 117 c 256
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC2
 EndChar
 
 StartChar: NameMe.210.1
@@ -6782,7 +6794,7 @@ SplineSet
  305.5 281.666666667 310 295.333333333 310 310 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BAE uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC2
 EndChar
 
 StartChar: NameMe.211.1
@@ -7424,7 +7436,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: NameMe.218
+StartChar: kshu
 Encoding: 65588 -1 123
 Width: 1972
 Flags: HW
@@ -7627,7 +7639,7 @@ SplineSet
  459.666666667 -187 542.666666667 -158.333333333 584 -101 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BB2 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC1
 EndChar
 
 StartChar: vu
@@ -7679,7 +7691,7 @@ SplineSet
  340.333333333 86.6666666667 345 100.333333333 345 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BB5 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC1
 EndChar
 
 StartChar: zhu
@@ -7735,7 +7747,7 @@ SplineSet
  811.333333333 124 817 147 817 175 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BB4 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC1
 EndChar
 
 StartChar: NameMe.190.1
@@ -7806,7 +7818,7 @@ SplineSet
  482.166666667 87 487 101 487 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BB3 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC1
 EndChar
 
 StartChar: NameMe.191.2
@@ -7880,7 +7892,7 @@ SplineSet
  660.666666667 -150.333333333 706.666666667 -126 740 -96 c 1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BA9 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC1
 EndChar
 
 StartChar: su
@@ -8806,6 +8818,7 @@ SplineSet
  305.666666667 281.666666667 310 295.333333333 310 310 c 256
 EndSplineSet
 Validated: 33
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC2
 EndChar
 
 StartChar: NameMe.204.2
@@ -8862,7 +8875,7 @@ SplineSet
  807.666666667 65.8333333333 819 35 819 -3 c 0xdf
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 3-1" uni0BAF uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC2
 EndChar
 
 StartChar: NameMe.205.2
@@ -9058,7 +9071,7 @@ SplineSet
  348 53 378.666666667 78.6666666667 382 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B95 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BBF
 EndChar
 
 StartChar: NameMe.208.2
@@ -9115,7 +9128,7 @@ SplineSet
  919 0 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B99 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BBF
 EndChar
 
 StartChar: chi
@@ -9168,7 +9181,7 @@ SplineSet
  341 53 371.666666667 78.6666666667 375 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B9A uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BBF
 EndChar
 
 StartChar: NameMe.210.2
@@ -9257,7 +9270,7 @@ SplineSet
  257.833333333 236.166666667 262 246.333333333 262 259 c 0
 EndSplineSet
 Validated: 5
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B9C uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BBF
 EndChar
 
 StartChar: NameMe.211.2
@@ -9333,7 +9346,7 @@ SplineSet
  482.166666667 87 487 101 487 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B9E uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BBF
 EndChar
 
 StartChar: ti
@@ -9457,7 +9470,7 @@ SplineSet
  328.333333333 87 333 101 333 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BA3 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BBF
 EndChar
 
 StartChar: thi
@@ -9583,7 +9596,7 @@ SplineSet
  681 0 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BA8 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BBF
 EndChar
 
 StartChar: NameMe.216.1
@@ -9655,7 +9668,7 @@ SplineSet
  327.166666667 87 332 101 332 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BA9 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BBF
 EndChar
 
 StartChar: NameMe.217.1
@@ -9692,7 +9705,7 @@ SplineSet
  716 -5 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BAA uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BBF
 EndChar
 
 StartChar: NameMe.218.1
@@ -9738,7 +9751,7 @@ SplineSet
  601.333333333 72 627 106.333333333 627 175 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BAE uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BBF
 EndChar
 
 StartChar: NameMe.219.1
@@ -9785,32 +9798,32 @@ SplineSet
  784 -5 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BAF uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BBF
 EndChar
 
 StartChar: NameMe.220.1
 Encoding: 65622 -1 157
 Width: 632
-Flags: W
-HStem: 1 20G<101 172 305 375 560 630> 372 69<172 290 375.14 533> 633 75<355.7 512.616>
-VStem: 101 71<1 372> 247 70<470.307 597.07> 305 70<1 372> 560 70<0 587.624>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-630 0 m 1xfa
+630 0 m 1
  560 0 l 1
  560 525 l 2
  560 555.666666667 548 581.333333333 524 602 c 0
  500 622.666666667 472.333333333 633 441 633 c 0
  407 633 378.666666667 625.666666667 356 611 c 0
- 330 594.333333333 317 570 317 538 c 0xfa
+ 330 594.333333333 317 570 317 538 c 0
  317 493.333333333 337 461 377 441 c 1
  533 441 l 1
  533 372 l 1
- 375 372 l 1
- 375 1 l 1
- 305 1 l 1
- 305 372 l 1xf6
+ 396 372 l 1
+ 396 -1 l 1
+ 305.333333333 -29 243.333333333 -87.6666666667 210 -177 c 1
+ 150 -136 l 1
+ 185.333333333 -51.3333333333 244 8.33333333333 326 43 c 1
+ 326 372 l 1
  172 372 l 1
  172 1 l 1
  101 1 l 1
@@ -9821,10 +9834,10 @@ SplineSet
  340.666666667 694.333333333 385.666666667 708 441 708 c 0
  492.333333333 708 536.666666667 691 574 657 c 0
  611.333333333 623 630 580.666666667 630 530 c 2
- 630 0 l 1xfa
+ 630 0 l 1
 EndSplineSet
-Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB0 uni0BBF
+Validated: 524289
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BBF
 EndChar
 
 StartChar: NameMe.221.1
@@ -9883,7 +9896,7 @@ SplineSet
  740 0 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB1 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BBF
 EndChar
 
 StartChar: NameMe.222
@@ -9948,7 +9961,7 @@ SplineSet
  342.166666667 87 347 101 347 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB2 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BBF
 EndChar
 
 StartChar: NameMe.223
@@ -10011,7 +10024,7 @@ SplineSet
  340.166666667 87 345 101 345 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB3 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BBF
 EndChar
 
 StartChar: zhi
@@ -10083,10 +10096,10 @@ SplineSet
  601.333333333 72 627 106.333333333 627 175 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB4 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BBF
 EndChar
 
-StartChar: NameMe.225
+StartChar: vi
 Encoding: 65627 -1 162
 Width: 964
 Flags: HW
@@ -10147,10 +10160,10 @@ SplineSet
  340.333333333 86.6666666667 345 100.333333333 345 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB5 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BBF
 EndChar
 
-StartChar: NameMe.226
+StartChar: shi
 Encoding: 65628 -1 163
 Width: 1169
 Flags: HW
@@ -10233,10 +10246,10 @@ SplineSet
  340.166666667 87 345 101 345 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB7 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BBF
 EndChar
 
-StartChar: NameMe.227
+StartChar: si
 Encoding: 65629 -1 164
 Width: 1112
 Flags: HW
@@ -10307,10 +10320,10 @@ SplineSet
  341.666666667 86.6666666667 346 100.333333333 346 117 c 256
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB8 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BBF
 EndChar
 
-StartChar: NameMe.228
+StartChar: hi
 Encoding: 65630 -1 165
 Width: 1306
 Flags: HW
@@ -10398,10 +10411,10 @@ SplineSet
  340.333333333 86.6666666667 345 100.333333333 345 117 c 256
 EndSplineSet
 Validated: 33
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB9 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BBF
 EndChar
 
-StartChar: NameMe.229
+StartChar: kshi
 Encoding: 65631 -1 166
 Width: 1447
 Flags: HW
@@ -10508,7 +10521,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: NameMe.230
+StartChar: kee
 Encoding: 65632 -1 167
 Width: 625
 Flags: HW
@@ -10578,7 +10591,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC0
 EndChar
 
-StartChar: NameMe.231
+StartChar: ngee
 Encoding: 65633 -1 168
 Width: 879
 Flags: HW
@@ -10644,7 +10657,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC0
 EndChar
 
-StartChar: NameMe.232
+StartChar: chee
 Encoding: 65634 -1 169
 Width: 601
 Flags: W
@@ -10708,7 +10721,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC0
 EndChar
 
-StartChar: NameMe.233
+StartChar: jee
 Encoding: 65635 -1 170
 Width: 814
 Flags: HW
@@ -10805,7 +10818,7 @@ Validated: 5
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC0
 EndChar
 
-StartChar: NameMe.234
+StartChar: nhee
 Encoding: 65636 -1 171
 Width: 949
 Flags: W
@@ -10934,7 +10947,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC0
 EndChar
 
-StartChar: nnee
+StartChar: nnnee
 Encoding: 65638 -1 173
 Width: 1334
 Flags: HW
@@ -11029,7 +11042,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC0
 EndChar
 
-StartChar: NameMe.237
+StartChar: thee
 Encoding: 65639 -1 174
 Width: 629
 Flags: HW
@@ -11108,7 +11121,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC0
 EndChar
 
-StartChar: NameMe.238
+StartChar: nnee
 Encoding: 65640 -1 175
 Width: 584
 Flags: HW
@@ -11175,7 +11188,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC0
 EndChar
 
-StartChar: NameMe.239
+StartChar: nee
 Encoding: 65641 -1 176
 Width: 1007
 Flags: HW
@@ -11256,7 +11269,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC0
 EndChar
 
-StartChar: NameMe.240
+StartChar: pee
 Encoding: 65642 -1 177
 Width: 642
 Flags: HW
@@ -11302,7 +11315,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC0
 EndChar
 
-StartChar: NameMe.241
+StartChar: mee
 Encoding: 65643 -1 178
 Width: 740
 Flags: HW
@@ -11356,7 +11369,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC0
 EndChar
 
-StartChar: NameMe.242
+StartChar: yee
 Encoding: 65644 -1 179
 Width: 724
 Flags: HW
@@ -11412,53 +11425,55 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC0
 EndChar
 
-StartChar: NameMe.243
+StartChar: ree
 Encoding: 65645 -1 180
-Width: 564
+Width: 571
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-563 605 m 0
- 563 570.333333333 553 541.333333333 533 518 c 128
- 513 494.666666667 486 483 452 483 c 0
- 420 483 393.5 493.666666667 372.5 515 c 128
- 351.5 536.333333333 341 563 341 595 c 0
- 341 613 344 629.666666667 350 645 c 1
- 312 623.666666667 293 591.333333333 293 548 c 0
- 293 528 299.166666667 507.666666667 311.5 487 c 128
- 323.833333333 466.333333333 338.666666667 451 356 441 c 1
- 528 441 l 1
- 528 372 l 1
- 375 372 l 1
- 375 -1 l 1
- 305 -1 l 1
- 305 372 l 1
+570 605 m 0
+ 570 570.333333333 560 541.333333333 540 518 c 0
+ 520 494.666666667 493 483 459 483 c 0
+ 427 483 400.5 493.666666667 379.5 515 c 0
+ 358.5 536.333333333 348 563 348 595 c 0
+ 348 613 351 629.666666667 357 645 c 1
+ 319 623.666666667 300 591.333333333 300 548 c 0
+ 300 528 306.166666667 507.833333333 318.5 487.5 c 0
+ 330.833333333 467.166666667 345.666666667 452 363 442 c 1
+ 535 442 l 1
+ 535 372 l 1
+ 382 372 l 1
+ 382 -1 l 1
+ 291.333333333 -29 229.333333333 -87.6666666667 196 -177 c 1
+ 136 -136 l 1
+ 171.333333333 -51.3333333333 230 8.33333333333 312 43 c 1
+ 312 372 l 1
  172 372 l 1
  172 1 l 1
  101 1 l 1
- 101 441 l 1
- 272 441 l 1
- 239.333333333 471.666666667 223 508.666666667 223 552 c 0
- 223 606.666666667 242.666666667 651 282 685 c 0
- 318.666666667 716.333333333 365 732 421 732 c 0
- 461.666666667 732 495.5 720.666666667 522.5 698 c 128
- 549.5 675.333333333 563 644.333333333 563 605 c 0
-491 601 m 0
- 491 614.333333333 486.666666667 626.833333333 478 638.5 c 128
- 469.333333333 650.166666667 458.333333333 656 445 656 c 256
- 431.666666667 656 420.666666667 650.166666667 412 638.5 c 128
- 403.333333333 626.833333333 399 614.333333333 399 601 c 0
- 399 587 403.333333333 574.166666667 412 562.5 c 128
- 420.666666667 550.833333333 431.666666667 545 445 545 c 256
- 458.333333333 545 469.333333333 550.833333333 478 562.5 c 128
- 486.666666667 574.166666667 491 587 491 601 c 0
+ 101 442 l 1
+ 279 442 l 1
+ 246.333333333 472.666666667 230 509.333333333 230 552 c 0
+ 230 606.666666667 249.666666667 651 289 685 c 0
+ 325.666666667 716.333333333 372 732 428 732 c 0
+ 468.666666667 732 502.5 720.666666667 529.5 698 c 0
+ 556.5 675.333333333 570 644.333333333 570 605 c 0
+498 601 m 0
+ 498 614.333333333 493.666666667 626.833333333 485 638.5 c 0
+ 476.333333333 650.166666667 465.333333333 656 452 656 c 0
+ 438.666666667 656 427.666666667 650.166666667 419 638.5 c 0
+ 410.333333333 626.833333333 406 614.333333333 406 601 c 0
+ 406 587 410.333333333 574.166666667 419 562.5 c 0
+ 427.666666667 550.833333333 438.666666667 545 452 545 c 0
+ 465.333333333 545 476.333333333 550.833333333 485 562.5 c 0
+ 493.666666667 574.166666667 498 587 498 601 c 0
 EndSplineSet
-Validated: 1
+Validated: 524289
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC0
 EndChar
 
-StartChar: NameMe.244
+StartChar: rree
 Encoding: 65646 -1 181
 Width: 683
 Flags: HW
@@ -11527,7 +11542,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC0
 EndChar
 
-StartChar: NameMe.245
+StartChar: lee
 Encoding: 65647 -1 182
 Width: 882
 Flags: W
@@ -11603,7 +11618,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC0
 EndChar
 
-StartChar: NameMe.246
+StartChar: llee
 Encoding: 65648 -1 183
 Width: 904
 Flags: HW
@@ -11678,7 +11693,7 @@ Validated: 5
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC0
 EndChar
 
-StartChar: NameMe.247
+StartChar: zhee
 Encoding: 65649 -1 184
 Width: 743
 Flags: HW
@@ -11757,72 +11772,74 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC0
 EndChar
 
-StartChar: NameMe.248
+StartChar: vee
 Encoding: 65650 -1 185
 Width: 892
-Flags: HW
+Flags: W
+HStem: -11 68<251.921 333.62> -1 68<553 768> 176 63<252.535 332.143> 282 70<683.467 768> 382 67<258.776 436.657> 483 62<736.675 809.158> 656 78<736.943 808.701>
+VStem: 100 68<116.194 291.284> 193 47<107.295 162.466> 345 68<67.3061 162.25> 528 70<106.475 289.126> 539 66<433.573 597.812> 669 58<552.885 644.568> 768 71<67 67 353 437> 819 73<552.849 648.027>
 LayerCount: 2
 Fore
 SplineSet
-892 603 m 0
- 892 569.666666667 881.5 541.333333333 860.5 518 c 128
+892 603 m 0x7fda
+ 892 569.666666667 881.5 541.333333333 860.5 518 c 0
  839.5 494.666666667 812.666666667 483 780 483 c 0
- 748.666666667 483 722.333333333 493.833333333 701 515.5 c 128
+ 748.666666667 483 722.333333333 493.833333333 701 515.5 c 0
  679.666666667 537.166666667 669 563.666666667 669 595 c 0
  669 612.333333333 672 629 678 645 c 1
  629.333333333 617 605 575 605 519 c 0
- 605 475 620 436 650 402 c 128
+ 605 475 620 436 650 402 c 0
  680 368 716.666666667 351.333333333 760 352 c 1
  769 353 l 1
  769 437 l 1
  839 437 l 1
  839 -1 l 1
- 463 -1 l 1
+ 463 -1 l 1x7fdc
  459 46 l 1
  505 86 528 136.333333333 528 197 c 0
- 528 250.333333333 510.833333333 294.5 476.5 329.5 c 128
+ 528 250.333333333 510.833333333 294.5 476.5 329.5 c 0
  442.166666667 364.5 398.666666667 382 346 382 c 0
- 296 382 253.833333333 364.833333333 219.5 330.5 c 128
+ 296 382 253.833333333 364.833333333 219.5 330.5 c 0
  185.166666667 296.166666667 168 254 168 204 c 0
  168 170 177 137.666666667 195 107 c 1
  193.666666667 115 193 123 193 131 c 0
- 193 162.333333333 202.666666667 188.166666667 222 208.5 c 128
+ 193 162.333333333 202.666666667 188.166666667 222 208.5 c 0
  241.333333333 228.833333333 266.333333333 239 297 239 c 0
- 332.333333333 239 360.5 226.833333333 381.5 202.5 c 128
+ 332.333333333 239 360.5 226.833333333 381.5 202.5 c 0
  402.5 178.166666667 413 148.333333333 413 113 c 0
- 413 76.3333333333 401.333333333 46.5 378 23.5 c 128
+ 413 76.3333333333 401.333333333 46.5 378 23.5 c 0
  354.666666667 0.5 324.666666667 -11 288 -11 c 0
- 231.333333333 -11 185.333333333 11.6666666667 150 57 c 0
+ 231.333333333 -11 185.333333333 11.6666666667 150 57 c 0xbfec
  116.666666667 99 100 149 100 207 c 0
- 100 278.333333333 123.166666667 336.5 169.5 381.5 c 128
+ 100 278.333333333 123.166666667 336.5 169.5 381.5 c 0
  215.833333333 426.5 275 449 347 449 c 256
- 419 449 478.833333333 426.166666667 526.5 380.5 c 128
+ 419 449 478.833333333 426.166666667 526.5 380.5 c 0
  574.166666667 334.833333333 598 276 598 204 c 0
  598 156 583 110.333333333 553 67 c 1
  768 67 l 1
- 768 282 l 1
- 700 281.333333333 644.833333333 303.666666667 602.5 349 c 128
+ 768 282 l 1x7fec
+ 700 281.333333333 644.833333333 303.666666667 602.5 349 c 0
  560.166666667 394.333333333 539 451 539 519 c 0
- 539 581.666666667 557.666666667 633.166666667 595 673.5 c 128
+ 539 581.666666667 557.666666667 633.166666667 595 673.5 c 0
  632.333333333 713.833333333 681.666666667 734 743 734 c 0
  784.333333333 734 819 722.666666667 847 700 c 0
- 877 675.333333333 892 643 892 603 c 0
-819 601 m 0
- 819 614.333333333 814.666666667 626.833333333 806 638.5 c 128
+ 877 675.333333333 892 643 892 603 c 0x7fda
+819 601 m 0x3fca
+ 819 614.333333333 814.666666667 626.833333333 806 638.5 c 0
  797.333333333 650.166666667 786.333333333 656 773 656 c 256
- 759.666666667 656 748.666666667 650.166666667 740 638.5 c 128
+ 759.666666667 656 748.666666667 650.166666667 740 638.5 c 0
  731.333333333 626.833333333 727 614.333333333 727 601 c 0
- 727 587 731.333333333 574.166666667 740 562.5 c 128
+ 727 587 731.333333333 574.166666667 740 562.5 c 0
  748.666666667 550.833333333 759.666666667 545 773 545 c 256
- 786.333333333 545 797.333333333 550.833333333 806 562.5 c 128
- 814.666666667 574.166666667 819 587 819 601 c 0
+ 786.333333333 545 797.333333333 550.833333333 806 562.5 c 0
+ 814.666666667 574.166666667 819 587 819 601 c 0x3fca
 345 117 m 256
- 345 133.666666667 340.333333333 147.666666667 331 159 c 128
+ 345 133.666666667 340.333333333 147.666666667 331 159 c 0
  321.666666667 170.333333333 309 176 293 176 c 0
- 276.333333333 176 263.333333333 170.333333333 254 159 c 128
+ 276.333333333 176 263.333333333 170.333333333 254 159 c 0
  244.666666667 147.666666667 240 133.666666667 240 117 c 256
  240 100.333333333 244.666666667 86.6666666667 254 76 c 1
- 263.333333333 63.3333333333 276.333333333 57 293 57 c 0
+ 263.333333333 63.3333333333 276.333333333 57 293 57 c 0xbfc8
  309 57 321.666666667 63.3333333333 331 76 c 1
  340.333333333 86.6666666667 345 100.333333333 345 117 c 256
 EndSplineSet
@@ -11830,7 +11847,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC0
 EndChar
 
-StartChar: NameMe.249
+StartChar: shee
 Encoding: 65651 -1 186
 Width: 1052
 Flags: HW
@@ -11929,7 +11946,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC0
 EndChar
 
-StartChar: NameMe.250
+StartChar: see
 Encoding: 65652 -1 187
 Width: 1048
 Flags: HW
@@ -12012,7 +12029,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC0
 EndChar
 
-StartChar: NameMe.251
+StartChar: hee
 Encoding: 65653 -1 188
 Width: 1246
 Flags: HW
@@ -12112,7 +12129,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC0
 EndChar
 
-StartChar: NameMe.252
+StartChar: kshee
 Encoding: 65654 -1 189
 Width: 1333
 Flags: W
