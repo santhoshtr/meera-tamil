@@ -6740,7 +6740,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC2
 EndChar
 
-StartChar: kuu
+StartChar: chuu
 Encoding: 156 -1 113
 Width: 788
 Flags: W
@@ -6805,7 +6805,7 @@ SplineSet
  343 53 373.666666667 78.6666666667 377 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC2
 EndChar
 
 StartChar: vuu
@@ -8483,7 +8483,7 @@ Validated: 33
 Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC1
 EndChar
 
-StartChar: chuu
+StartChar: kuu
 Encoding: 176 -1 133
 Width: 986
 Flags: W
@@ -8552,7 +8552,7 @@ SplineSet
  348 53 378.666666667 78.6666666667 382 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC2
 EndChar
 
 StartChar: nhuu
