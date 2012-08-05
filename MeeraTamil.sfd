@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339233494
-ModificationTime: 1343558885
+ModificationTime: 1344170503
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,20 +44,19 @@ Lookup: 4 0 0 "'haln' Halant Forms in Tamil lookup 4"  {"'haln' Halant Forms in 
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
-Encoding: UnicodeBmp
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -72
+DisplaySize: -96
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 63 21 8
+FitToEm: 0
+WinInfo: 128 16 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65658 234
+BeginChars: 237 237
 
 StartChar: uni0B85
-Encoding: 2949 2949 0
+Encoding: 44 2949 0
 Width: 1030
 VWidth: 1048
 Flags: W
@@ -115,7 +114,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B86
-Encoding: 2950 2950 1
+Encoding: 45 2950 1
 Width: 1312
 VWidth: 1048
 Flags: W
@@ -197,7 +196,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B87
-Encoding: 2951 2951 2
+Encoding: 46 2951 2
 Width: 867
 VWidth: 1048
 Flags: W
@@ -274,7 +273,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B88
-Encoding: 2952 2952 3
+Encoding: 47 2952 3
 Width: 617
 VWidth: 1048
 Flags: W
@@ -317,7 +316,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B89
-Encoding: 2953 2953 4
+Encoding: 48 2953 4
 Width: 862
 VWidth: 1048
 Flags: W
@@ -367,7 +366,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B8A
-Encoding: 2954 2954 5
+Encoding: 49 2954 5
 Width: 1197
 VWidth: 1048
 Flags: W
@@ -451,7 +450,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B8E
-Encoding: 2958 2958 6
+Encoding: 50 2958 6
 Width: 762
 VWidth: 1048
 Flags: W
@@ -496,7 +495,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B8F
-Encoding: 2959 2959 7
+Encoding: 51 2959 7
 Width: 762
 VWidth: 1048
 Flags: W
@@ -545,7 +544,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B90
-Encoding: 2960 2960 8
+Encoding: 52 2960 8
 Width: 764
 VWidth: 1048
 Flags: W
@@ -620,7 +619,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B92
-Encoding: 2962 2962 9
+Encoding: 53 2962 9
 Width: 784
 VWidth: 1048
 Flags: W
@@ -697,7 +696,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B93
-Encoding: 2963 2963 10
+Encoding: 54 2963 10
 Width: 784
 VWidth: 1048
 Flags: W
@@ -777,7 +776,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B94
-Encoding: 2964 2964 11
+Encoding: 55 2964 11
 Width: 1552
 VWidth: 1048
 Flags: W
@@ -896,7 +895,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B95
-Encoding: 2965 2965 12
+Encoding: 56 2965 12
 Width: 641
 VWidth: 1048
 Flags: W
@@ -945,7 +944,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0B99
-Encoding: 2969 2969 13
+Encoding: 57 2969 13
 Width: 713
 VWidth: 1048
 Flags: W
@@ -988,7 +987,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B9A
-Encoding: 2970 2970 14
+Encoding: 58 2970 14
 Width: 588
 VWidth: 1048
 Flags: W
@@ -1030,7 +1029,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0B9C
-Encoding: 2972 2972 15
+Encoding: 59 2972 15
 Width: 764
 VWidth: 1048
 Flags: W
@@ -1108,7 +1107,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B9E
-Encoding: 2974 2974 16
+Encoding: 60 2974 16
 Width: 971
 VWidth: 1048
 Flags: W
@@ -1173,7 +1172,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B9F
-Encoding: 2975 2975 17
+Encoding: 61 2975 17
 Width: 640
 VWidth: 1048
 Flags: W
@@ -1194,7 +1193,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BA3
-Encoding: 2979 2979 18
+Encoding: 62 2979 18
 Width: 1324
 VWidth: 1048
 Flags: W
@@ -1269,7 +1268,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BA4
-Encoding: 2980 2980 19
+Encoding: 63 2980 19
 Width: 636
 VWidth: 1048
 Flags: W
@@ -1327,7 +1326,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BA8
-Encoding: 2984 2984 20
+Encoding: 64 2984 20
 Width: 588
 VWidth: 1048
 Flags: W
@@ -1373,7 +1372,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BA9
-Encoding: 2985 2985 21
+Encoding: 65 2985 21
 Width: 961
 VWidth: 1048
 Flags: W
@@ -1435,7 +1434,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BAA
-Encoding: 2986 2986 22
+Encoding: 66 2986 22
 Width: 604
 VWidth: 1048
 Flags: W
@@ -1458,7 +1457,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BAE
-Encoding: 2990 2990 23
+Encoding: 67 2990 23
 Width: 724
 VWidth: 1048
 Flags: W
@@ -1493,7 +1492,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BAF
-Encoding: 2991 2991 24
+Encoding: 68 2991 24
 Width: 635
 VWidth: 1048
 Flags: W
@@ -1526,7 +1525,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB0
-Encoding: 2992 2992 25
+Encoding: 69 2992 25
 Width: 546
 VWidth: 1048
 Flags: W
@@ -1555,7 +1554,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB1
-Encoding: 2993 2993 26
+Encoding: 70 2993 26
 Width: 617
 VWidth: 1048
 Flags: W
@@ -1603,7 +1602,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB2
-Encoding: 2994 2994 27
+Encoding: 71 2994 27
 Width: 800
 VWidth: 1048
 Flags: W
@@ -1658,7 +1657,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB3
-Encoding: 2995 2995 28
+Encoding: 72 2995 28
 Width: 887
 VWidth: 1048
 Flags: W
@@ -1710,7 +1709,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB4
-Encoding: 2996 2996 29
+Encoding: 73 2996 29
 Width: 724
 VWidth: 1048
 GlyphClass: 2
@@ -1769,7 +1768,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB5
-Encoding: 2997 2997 30
+Encoding: 74 2997 30
 Width: 825
 VWidth: 1048
 Flags: W
@@ -1819,7 +1818,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB6
-Encoding: 2998 2998 31
+Encoding: 75 2998 31
 Width: 767
 Flags: W
 HStem: -7 67<190.785 284.161 597.113 682.295> 370 69<379 506 579 697>
@@ -1862,7 +1861,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB7
-Encoding: 2999 2999 32
+Encoding: 76 2999 32
 Width: 1086
 VWidth: 1048
 Flags: W
@@ -1938,7 +1937,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BB8
-Encoding: 3000 3000 33
+Encoding: 77 3000 33
 Width: 988
 VWidth: 1048
 Flags: W
@@ -2001,7 +2000,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BB9
-Encoding: 3001 3001 34
+Encoding: 78 3001 34
 Width: 1209
 VWidth: 1048
 Flags: W
@@ -2080,7 +2079,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BBE
-Encoding: 3006 3006 35
+Encoding: 79 3006 35
 Width: 531
 Flags: W
 HStem: 1 19G<100 171 299 369> 372 69<171 299 369 507>
@@ -2108,7 +2107,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BBF
-Encoding: 3007 3007 36
+Encoding: 80 3007 36
 Width: 487
 Flags: W
 HStem: 439.3 2.7002<-64.892 -63.4941> 633 75<-83.8282 72.2669>
@@ -2136,7 +2135,7 @@ Validated: 41
 EndChar
 
 StartChar: uni0BC0
-Encoding: 3008 3008 37
+Encoding: 81 3008 37
 Width: 584
 Flags: W
 HStem: 478 62<62.986 134.915> 651 76<25.0842 134.713>
@@ -2176,7 +2175,7 @@ Validated: 37
 EndChar
 
 StartChar: uni0BC1
-Encoding: 3009 3009 38
+Encoding: 82 3009 38
 Width: 522
 Flags: W
 HStem: -232 266<-80.5 -1>
@@ -2194,7 +2193,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BC2
-Encoding: 3010 3010 39
+Encoding: 83 3010 39
 Width: 765
 Flags: W
 HStem: -298 69<-263.762 11.903> -104 69<-326.738 -184.26> 48 77<93.126 181.945>
@@ -2236,7 +2235,7 @@ Validated: 37
 EndChar
 
 StartChar: uni0BC6
-Encoding: 3014 3014 40
+Encoding: 84 3014 40
 Width: 680
 Flags: W
 HStem: -11 68<382.123 480.206> 1 21G<608 677> 225 67<381.323 480.085> 632 70<314.959 518.882>
@@ -2285,7 +2284,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BC7
-Encoding: 3015 3015 41
+Encoding: 85 3015 41
 Width: 638
 Flags: W
 HStem: 0 71<315.006 418> 240 73<457.069 544.619> 392 73<462.069 549.578> 634 71<319.603 421.536>
@@ -2344,7 +2343,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BC8
-Encoding: 3016 3016 42
+Encoding: 86 3016 42
 Width: 891
 Flags: W
 HStem: -11 68<240.759 318.592 526.176 596.479> 176 63<240.155 318.616> 386 69<287.681 487.991 611.171 751.017>
@@ -2403,7 +2402,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BCA
-Encoding: 3018 3018 43
+Encoding: 87 3018 43
 Width: 1566
 GlyphClass: 2
 Flags: W
@@ -2500,7 +2499,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B82
-Encoding: 2946 2946 44
+Encoding: 42 2946 44
 Width: 521
 Flags: W
 HStem: -9 36<230.233 286 337 390.231> 412 36<236.006 286 338 388.72> 477 66<267.103 358.906> 666 63<266.725 355.568>
@@ -2571,7 +2570,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0B83
-Encoding: 2947 2947 45
+Encoding: 43 2947 45
 Width: 735
 Flags: W
 HStem: -13 70<182.907 262.428 577.907 657.428> 171 68<184.173 262.608 579.173 657.608> 442 70<379.848 461.697> 626 68<381.162 459.798>
@@ -2638,7 +2637,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BCB
-Encoding: 3019 3019 46
+Encoding: 88 3019 46
 Width: 1520
 Flags: W
 HStem: -9 36<795.233 851 902 955.231> 0 71<315.006 418> 240 73<457.069 544.619> 372 69<1187 1315 1385 1523> 392 73<462.069 549.578> 412 36<801.006 851 903 953.72> 634 71<319.603 421.536>
@@ -2744,7 +2743,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BCC
-Encoding: 3020 3020 47
+Encoding: 89 3020 47
 Width: 1761
 Flags: W
 HStem: -11 68<382.123 480.206> -9 36<840.233 896 947 1000.23> 1 21G<608 677> 77 58<1281.43 1349.28> 222 53<1281 1349.83> 225 67<381.323 480.085> 372 56<1505 1605 1664 1756> 379 58<1275.44 1414.31> 412 36<846.006 896 948 998.72> 632 70<314.959 518.882>
@@ -2863,7 +2862,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BCD
-Encoding: 3021 3021 48
+Encoding: 90 3021 48
 Width: 522
 GlyphClass: 2
 Flags: W
@@ -2886,7 +2885,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BE6
-Encoding: 3046 3046 49
+Encoding: 93 3046 49
 Width: 465
 Flags: W
 HStem: -10 73<225.801 343.203> 572 73<224.61 343.062>
@@ -2917,7 +2916,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BE7
-Encoding: 3047 3047 50
+Encoding: 94 3047 50
 Width: 631
 Flags: W
 HStem: -9 69<216.319 356.231 486.204 560.585> 282 77<175.206 221 265 397 440 550.624> 558 74<265 397 440 535>
@@ -2968,7 +2967,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BE8
-Encoding: 3048 3048 51
+Encoding: 95 3048 51
 Width: 579
 Flags: W
 HStem: -2 66<144.629 579> 122 77<227.195 353.416> 567 75<221.826 353.416>
@@ -3011,7 +3010,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BE9
-Encoding: 3049 3049 52
+Encoding: 96 3049 52
 Width: 642
 Flags: W
 HStem: 10 67<477 643> 10 55<216 389.809> 378 71<351.2 453.844> 560 72<153 274 318 431>
@@ -3050,7 +3049,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BEA
-Encoding: 3050 3050 53
+Encoding: 97 3050 53
 Width: 648
 Flags: W
 HStem: -9 69<215.25 354.143> 282 77<176.175 221 265 397 440 602> 559 74<265 397 440 535>
@@ -3095,7 +3094,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BEB
-Encoding: 3051 3051 54
+Encoding: 98 3051 54
 Width: 687
 Flags: W
 HStem: -3 59<307.287 509.67> 378 71<497.254 599.477> 560 72<303 419 463 576>
@@ -3139,7 +3138,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BEC
-Encoding: 3052 3052 55
+Encoding: 99 3052 55
 Width: 790
 Flags: W
 HStem: -9 69<216.163 357.03> 0 21G<533 578 663 708> 282 77<175.206 221 265 397 440 514.662 578 663 708 789> 558 74<265 397 440 535>
@@ -3192,7 +3191,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BED
-Encoding: 3053 3053 56
+Encoding: 100 3053 56
 Width: 648
 Flags: W
 HStem: -6 66<255.213 345.413> 278 60<252.828 342.324> 560 73<260 547 597 647>
@@ -3236,7 +3235,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BEE
-Encoding: 3054 3054 57
+Encoding: 101 3054 57
 Width: 959
 Flags: W
 HStem: -10 65<265.677 554.919> 0 21G<906 958> 222 57<164.965 450 510.285 738 810 906> 566 75<504.513 694.132>
@@ -3286,7 +3285,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BEF
-Encoding: 3055 3055 58
+Encoding: 102 3055 58
 Width: 813
 Flags: W
 HStem: -9 69<218.756 354.931 652 714.065> 91 69<541.234 623.983> 282 77<175.206 221 265 397 440 490 671 731.045> 293 66<541.016 623.984> 558 74<265 397 440 570>
@@ -3351,7 +3350,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BF0
-Encoding: 3056 3056 59
+Encoding: 103 3056 59
 Width: 679
 Flags: W
 HStem: -10 73<161.583 289.507 404.597 548.947> 653 72<413.39 534.596>
@@ -3391,7 +3390,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF1
-Encoding: 3057 3057 60
+Encoding: 104 3057 60
 Width: 775
 Flags: W
 HStem: -1 22G<100 150 335 388 561 613> 564 70<366 561 613 776> 573 69<183.413 300.238>
@@ -3427,7 +3426,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF2
-Encoding: 3058 3058 61
+Encoding: 105 3058 61
 Width: 901
 Flags: W
 HStem: -9 69<214.906 354.143> 43 45<606.416 784.059> 110 46<610.078 705.742> 206 49<607.404 706 749 783.53> 282 77<176.175 221 265 397 440 706 749 902> 559 74<265 397 440 535>
@@ -3503,7 +3502,7 @@ Validated: 33
 EndChar
 
 StartChar: uni0BF3
-Encoding: 3059 3059 62
+Encoding: 106 3059 62
 Width: 702
 Flags: W
 HStem: -10 62<187.981 267.084> -1 68<523 708> 176 67<168 272.894> 385 65<245.068 400.501>
@@ -3544,7 +3543,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF4
-Encoding: 3060 3060 63
+Encoding: 107 3060 63
 Width: 1015
 Flags: W
 HStem: 0 72<172 348 425 601.247> 483 62<581.986 653.915> 661 69<549.001 649.468 870.056 964.223>
@@ -3611,7 +3610,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF5
-Encoding: 3061 3061 64
+Encoding: 108 3061 64
 Width: 1754
 Flags: W
 HStem: -264 68<528.775 937.473> -11 68<402.502 482.195> -1 68<703 826 1506.99 1622.31> 176 63<403.944 482.981> 199 72<1084.72 1198.51> 365 72<898 1002 1071 1213> 382 67<409.403 584.596> 629 71<549.279 1003.96>
@@ -3704,7 +3703,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF6
-Encoding: 3062 3062 65
+Encoding: 109 3062 65
 Width: 589
 Flags: W
 HStem: -232 61<159.943 316.184> -101 64<146.128 341 414 518> -5 68<198.926 311.188>
@@ -3751,7 +3750,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF7
-Encoding: 3063 3063 66
+Encoding: 110 3063 66
 Width: 937
 Flags: W
 HStem: -11 68<253.897 334.149> -7 40<650.223 707.596> -2 44<819 895> 1 21G<493 563> 93 37<650.471 707.571> 176 63<254.792 334.567> 193 44<654.187 765.337> 371 68<248.994 493 563 636>
@@ -3825,7 +3824,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF8
-Encoding: 3064 3064 67
+Encoding: 111 3064 67
 Width: 1435
 Flags: W
 HStem: -13 69<356.564 455.102 688.055 745.999> -1 67<933 1210 1279 1366> 130 69<1126.89 1210 1279 1329.32> 224 67<352.829 458.79> 379 70<1094.31 1195.02> 622 74<348.669 588.795>
@@ -3922,7 +3921,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BF9
-Encoding: 3065 3065 68
+Encoding: 112 3065 68
 Width: 1239
 Flags: W
 HStem: -234 74<359.397 588.651> -1 21G<311 383 487 556> 199 70<567.101 680.785> 363 74<383 487 556 728 1080 1238> 585 68<387.404 649.021> 629 73<868.449 996.479>
@@ -3984,7 +3983,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BFA
-Encoding: 3066 3066 69
+Encoding: 113 3066 69
 Width: 1010
 Flags: W
 HStem: -110 64<158.892 433.94> 203 70<356.332 463.47> 369 72<173 277 346 355 417.882 473 850 1008> 579 65<421.989 514.991> 629 73<644.546 772.704>
@@ -4056,7 +4055,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BD7
-Encoding: 3031 3031 70
+Encoding: 92 3031 70
 Width: 600
 Flags: W
 HStem: 77 58<125.435 193.279> 222 53<124.996 193.833> 372 56<349 449 508 600> 379 58<119.444 258.306>
@@ -4103,7 +4102,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0BD0
-Encoding: 3024 3024 71
+Encoding: 91 3024 71
 Width: 766
 Flags: W
 HStem: -285 58<188.879 409.309> -193 39<249 301 341 380.534> -83 39<341.594 373.205> -76 76<556.328 712> -56 47<258.021 299.979> -44 41<179.336 209.95> 6 67<225.379 299.188> 42 67<602.265 685.96> 182 68<224.936 299.234> 374 74<303.899 560.736>
@@ -4205,7 +4204,7 @@ Validated: 1
 EndChar
 
 StartChar: k
-Encoding: 65537 -1 72
+Encoding: 115 -1 72
 Width: 626
 GlyphClass: 2
 Flags: W
@@ -4265,7 +4264,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0B95 uni0BCD
 EndChar
 
 StartChar: ng
-Encoding: 65538 -1 73
+Encoding: 116 -1 73
 Width: 697
 Flags: W
 HStem: 0 64<278 448.795 511 626> 206 69<359.25 455.227> 366 72<171 278 347 505> 503 132<370.987 451.013>
@@ -4318,7 +4317,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0B99 uni0BCD
 EndChar
 
 StartChar: ch
-Encoding: 65539 -1 74
+Encoding: 117 -1 74
 Width: 575
 Flags: W
 HStem: -12 65<214.056 353.876> 186 71<178.463 209 278 377 444 576> 369 69<278 377 444 567> 503 132<385.987 466.013>
@@ -4370,7 +4369,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0B9A uni0BCD
 EndChar
 
 StartChar: j
-Encoding: 65540 -1 75
+Encoding: 118 -1 75
 Width: 747
 Flags: W
 HStem: -241 68<217.164 354.482 564.751 659.699> -16 67<534.861 656.393> 61 69<219.796 619.382> 153 64<183.272 253.275> 302 52<195.32 252.115> 378 70<209.164 376.002 502.816 638.296> 503 132<400.987 481.013>
@@ -4458,7 +4457,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0B9C uni0BCD
 EndChar
 
 StartChar: nj
-Encoding: 65541 -1 76
+Encoding: 119 -1 76
 Width: 949
 Flags: W
 HStem: -248 61<410.056 698.027> -11 68<395.455 473.891> 176 63<395.364 473.616> 203 70<731.98 840.373> 370 69<389.561 653 721 902> 503 132<630.987 711.013>
@@ -4533,7 +4532,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0B9E uni0BCD
 EndChar
 
 StartChar: t
-Encoding: 65542 -1 77
+Encoding: 120 -1 77
 Width: 634
 Flags: W
 HStem: -1 70<171 635> 488 132<365.987 446.013>
@@ -4564,7 +4563,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0B9F uni0BCD
 EndChar
 
 StartChar: nnn
-Encoding: 65543 -1 78
+Encoding: 121 -1 78
 Width: 1293
 Flags: W
 HStem: -11 73<244.415 325.317 527.418 605.539 843.074 916.404> -1 21G<1081 1154> 176 63<245.374 323.616> 372 68<936.923 1081 1154 1291> 384 66<289.493 489.637 632.708 815.157> 503 132<695.987 776.013>
@@ -4649,7 +4648,7 @@ Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA3 uni0BCD
 EndChar
 
 StartChar: th
-Encoding: 65544 -1 79
+Encoding: 122 -1 79
 Width: 622
 Flags: W
 HStem: -110 64<168.407 485.656> -12 65<208.454 348.407> 186 71<170.43 204 273 371 439 518.813> 369 69<273 371 439 567> 503 132<375.987 456.013>
@@ -4717,7 +4716,7 @@ Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA4 uni0BCD
 EndChar
 
 StartChar: n
-Encoding: 65545 -1 80
+Encoding: 123 -1 80
 Width: 575
 Flags: W
 HStem: -110 64<158.892 433.94> 203 70<356.332 463.47> 369 72<173 277 346 518> 503 132<285.987 366.013>
@@ -4773,7 +4772,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BA8 uni0BCD
 EndChar
 
 StartChar: nn
-Encoding: 65546 -1 81
+Encoding: 124 -1 81
 Width: 939
 Flags: W
 HStem: -11 68<245.552 323.891 531.858 601.659> 176 63<245.374 323.616> 372 69<627.211 767 839 941> 382 67<283.783 494.41> 503 132<520.987 601.013>
@@ -4843,7 +4842,7 @@ Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA9 uni0BCD
 EndChar
 
 StartChar: p
-Encoding: 65547 -1 82
+Encoding: 125 -1 82
 Width: 590
 Flags: W
 HStem: -1 70<171 518> 503 132<310.987 391.013>
@@ -4877,7 +4876,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BAA uni0BCD
 EndChar
 
 StartChar: m
-Encoding: 65548 -1 83
+Encoding: 126 -1 83
 Width: 708
 Flags: W
 HStem: 0 72<174 350 427 603.247> 380 71<442.765 548.465> 503 132<430.987 511.013>
@@ -4922,7 +4921,7 @@ Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAE uni0BCD
 EndChar
 
 StartChar: y
-Encoding: 65549 -1 84
+Encoding: 127 -1 84
 Width: 621
 Flags: W
 HStem: -10 69<190.07 271.525 359 554> 503 132<415.987 496.013>
@@ -4966,7 +4965,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BAF uni0BCD
 EndChar
 
 StartChar: r
-Encoding: 65550 -1 85
+Encoding: 128 -1 85
 Width: 534
 Flags: W
 HStem: 1 21G<101 172> 372 69<172 305 375 533> 503 132<305.987 386.013>
@@ -5006,7 +5005,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB0 uni0BCD
 EndChar
 
 StartChar: rr
-Encoding: 65551 -1 86
+Encoding: 129 -1 86
 Width: 603
 Flags: W
 HStem: -110 65<157.892 447.609> -1 21G<100 175 286 361> 380 71<188.698 270.674 378.527 482.558> 503 132<295.987 376.013>
@@ -5065,7 +5064,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB1 uni0BCD
 EndChar
 
 StartChar: l
-Encoding: 65552 -1 87
+Encoding: 130 -1 87
 Width: 782
 Flags: W
 HStem: -11 68<255.455 333.891 550.082 665.984> 176 63<255.364 333.616> 382 68<259.766 425.342> 503 132<445.987 526.013>
@@ -5131,7 +5130,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB2 uni0BCD
 EndChar
 
 StartChar: ll
-Encoding: 65553 -1 88
+Encoding: 131 -1 88
 Width: 867
 Flags: W
 HStem: -11 68<255.089 333.891> 1 21G<471 540 677 748> 176 63<254.792 333.616> 372 66<540 677 748 868> 381 69<250.809 415.742> 503 132<580.987 661.013>
@@ -5194,7 +5193,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB3 uni0BCD
 EndChar
 
 StartChar: zh
-Encoding: 65554 -1 89
+Encoding: 132 -1 89
 Width: 708
 Flags: W
 HStem: -288 67<184.632 327.286> -129 76<470.303 596> -112 69<165.673 293> 0 72<174 350 428 603.247> 380 71<442.765 548.465> 503 132<435.987 516.013>
@@ -5263,7 +5262,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB4 uni0BCD
 EndChar
 
 StartChar: v
-Encoding: 65555 -1 90
+Encoding: 133 -1 90
 Width: 806
 Flags: W
 HStem: -11 68<251.921 332.149> -1 68<553 738> 176 63<252.792 332.567> 382 67<258.776 436.657> 503 132<540.987 621.013>
@@ -5323,7 +5322,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB5 uni0BCD
 EndChar
 
 StartChar: sh
-Encoding: 65556 -1 91
+Encoding: 134 -1 91
 Width: 1052
 Flags: W
 HStem: -11 68<251.921 333.62> -1 70<543 820 892 979> 130 69<735.602 820 892 944.222> 176 63<252.535 332.143> 381 68<261.527 440.984 704.962 803.994> 503 132<560.987 641.013>
@@ -5409,7 +5408,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB7 uni0BCD
 EndChar
 
 StartChar: s
-Encoding: 65557 -1 92
+Encoding: 135 -1 92
 Width: 965
 Flags: W
 HStem: -11 68<249.578 328.984 735.611 854.307> 0 21G<463 532> 176 63<249.708 328.374> 383 67<255.364 428.46 542.179 638.273> 503 132<445.987 526.013>
@@ -5482,7 +5481,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB8 uni0BCD
 EndChar
 
 StartChar: h
-Encoding: 65558 -1 93
+Encoding: 136 -1 93
 Width: 1181
 Flags: W
 HStem: -110 65<172.892 1022.61> -11 68<251.921 333.62> -1 70<543 675> 176 63<252.535 332.143> 380 71<259.15 443.209 763.698 845.674 953.527 1057.56> 503 132<850.987 931.013>
@@ -5571,7 +5570,7 @@ Ligature2: "'half' form Substitution lookup 5-1" uni0BB9 uni0BCD
 EndChar
 
 StartChar: ksh
-Encoding: 65559 -1 94
+Encoding: 137 -1 94
 Width: 1333
 Flags: W
 HStem: -12 65<217.309 359.266 576.027 642.872> -1 70<823 1100 1172 1259> 130 69<1016.1 1100 1172 1224> 186 71<176.937 215 284 382 450 497> 264 69<611.397 742.733> 369 69<284 382 450 578> 379 70<983.802 1085.72> 503 132<825.987 906.013>
@@ -5681,7 +5680,7 @@ Ligature2: "'half' form Substitution lookup 5-1" ksha uni0BCD
 EndChar
 
 StartChar: ksha
-Encoding: 65560 -1 95
+Encoding: 138 -1 95
 Width: 1364
 VWidth: 1048
 Flags: W
@@ -5782,7 +5781,7 @@ Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B95 uni0BCD uni0BB7
 EndChar
 
 StartChar: NameMe.191.1
-Encoding: 65561 -1 96
+Encoding: 139 -1 96
 Width: 1084
 VWidth: 1048
 Flags: W
@@ -5850,7 +5849,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.192.1
-Encoding: 65562 -1 97
+Encoding: 140 -1 97
 Width: 1367
 VWidth: 1048
 Flags: W
@@ -5934,7 +5933,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.193.1
-Encoding: 65563 -1 98
+Encoding: 141 -1 98
 Width: 783
 VWidth: 1048
 Flags: W
@@ -5992,7 +5991,7 @@ Validated: 1
 EndChar
 
 StartChar: ku
-Encoding: 65564 -1 99
+Encoding: 142 -1 99
 Width: 768
 Flags: W
 HStem: -210 68<335.124 564.833> -12 65<356.406 500.01> 186 71<332.564 354 423 522 589 681.863> 369 69<423 522 589 717>
@@ -6050,7 +6049,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC1
 EndChar
 
 StartChar: ngu
-Encoding: 65565 -1 100
+Encoding: 143 -1 100
 Width: 697
 Flags: W
 HStem: 0 64<278 448.795 511 624> 206 69<359.992 454.957> 366 72<171 278 347 505>
@@ -6095,7 +6094,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC1
 EndChar
 
 StartChar: chu
-Encoding: 65566 -1 101
+Encoding: 144 -1 101
 Width: 636
 Flags: W
 HStem: -12 65<213.998 354.536> 1 21G<504 577> 186 71<178.463 209 278 377 444 504 577 636> 369 69<278 377 444 567>
@@ -6141,7 +6140,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC1
 EndChar
 
 StartChar: nju
-Encoding: 65567 -1 102
+Encoding: 145 -1 102
 Width: 940
 Flags: W
 HStem: -251 65<217.751 554.336> -96 64<152.164 662 785 873> -11 68<250.455 328.891> 176 63<250.364 328.616> 203 70<586.98 695.373> 370 69<244.561 508 576 757>
@@ -6214,7 +6213,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC1
 EndChar
 
 StartChar: tu
-Encoding: 65568 -1 103
+Encoding: 146 -1 103
 Width: 782
 Flags: W
 HStem: -213 67<336.822 509.34> -11 21G<710 780> 1 21G<350 421> 203 70<433.457 547.574> 633 72<343.147 551.734>
@@ -6260,7 +6259,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC1
 EndChar
 
 StartChar: NameMe.191.2
-Encoding: 65569 -1 104
+Encoding: 147 -1 104
 Width: 1338
 Flags: W
 HStem: -283 70<321.28 787.041> -96 64<162.43 992 1136 1263> -11 73<244.603 325.008 527.418 601.287 851.165 922.95> 176 63<245.155 323.616> 379 70<278.128 498.587 629.154 819.491 932.812 1052.06>
@@ -6351,7 +6350,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC1
 EndChar
 
 StartChar: thu
-Encoding: 65570 -1 105
+Encoding: 148 -1 105
 Width: 787
 Flags: W
 HStem: -245 66<206.049 439.954> -96 64<157.164 528 639 718> -12 65<239.454 379.266> 186 71<201.43 235 304 402 470 540.215> 369 69<304 402 470 598>
@@ -6417,7 +6416,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC1
 EndChar
 
 StartChar: nu
-Encoding: 65571 -1 106
+Encoding: 149 -1 106
 Width: 749
 Flags: W
 HStem: -245 68<197.423 402.787> -96 64<157.164 476 591 678> 203 70<391.332 499.196> 369 72<208 312 381 553>
@@ -6471,7 +6470,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC1
 EndChar
 
 StartChar: pu
-Encoding: 65572 -1 107
+Encoding: 150 -1 107
 Width: 590
 Flags: W
 HStem: -1 70<171 517>
@@ -6496,7 +6495,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC1
 EndChar
 
 StartChar: mu
-Encoding: 65573 -1 108
+Encoding: 151 -1 108
 Width: 895
 Flags: W
 HStem: -230 65<300.764 469.506> 0 72<354 535 612 788.247> 380 71<627.284 733.235>
@@ -6543,7 +6542,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC1
 EndChar
 
 StartChar: yu
-Encoding: 65574 -1 109
+Encoding: 152 -1 109
 Width: 621
 Flags: W
 HStem: -10 69<190.07 271.525 359 553>
@@ -6578,7 +6577,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC1
 EndChar
 
 StartChar: ru
-Encoding: 65575 -1 110
+Encoding: 153 -1 110
 Width: 775
 Flags: W
 HStem: -248 67<347.248 568.671> 1 21G<293 364 463 531> 203 70<543.036 654.955> 370 69<364 463 531 712>
@@ -6622,7 +6621,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC1
 EndChar
 
 StartChar: rru
-Encoding: 65576 -1 111
+Encoding: 154 -1 111
 Width: 781
 Flags: W
 HStem: -245 67<212.639 401.441> -96 64<172.164 484 600 713> -1 21G<140 215 326 401> 380 71<228.698 311.914 418.527 523.016>
@@ -6677,7 +6676,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC1
 EndChar
 
 StartChar: nguu
-Encoding: 65577 -1 112
+Encoding: 155 -1 112
 Width: 893
 Flags: W
 HStem: -295 64<247.92 588.116> -104 69<182.887 322.515> 0 64<278 448.795 511 624> 48 77<710.976 809.242> 205 70<358.592 454.714> 366 72<171 278 347 505>
@@ -6742,7 +6741,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC2
 EndChar
 
 StartChar: kuu
-Encoding: 65578 -1 113
+Encoding: 156 -1 113
 Width: 788
 Flags: W
 HStem: -298 69<241.473 514.643> -104 69<180.262 322.74> -12 65<214.056 353.876> 48 77<606.185 698.945> 186 71<178.463 209 278 377 444 519 592 661> 369 69<278 377 444 577>
@@ -6810,7 +6809,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC2
 EndChar
 
 StartChar: vuu
-Encoding: 65579 -1 114
+Encoding: 157 -1 114
 Width: 993
 Flags: W
 HStem: -295 64<273.859 664.917> -99 64<185.57 326.293> -11 68<253.65 331.891> -1 68<553 724> 48 77<811.886 910.093> 176 63<253.364 331.616> 382 67<258.776 435.223>
@@ -6883,7 +6882,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC2
 EndChar
 
 StartChar: zhuu
-Encoding: 65580 -1 115
+Encoding: 158 -1 115
 Width: 1030
 Flags: W
 HStem: -293 70<474.974 815.944> -91 70<760.889 854.833> 0 72<493 674 752 924.622> 175 75<225.846 298.418> 370 78<226.148 298.047> 380 71<766.267 872.965>
@@ -6956,7 +6955,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC2
 EndChar
 
 StartChar: lluu
-Encoding: 65581 -1 116
+Encoding: 159 -1 116
 Width: 1298
 Flags: W
 HStem: -264 68<518.311 924.496> -11 68<574.137 654.195> 1 21G<791 860> 175 75<225.498 298.889> 176 63<575.944 654.981> 203 70<1078.46 1188.24> 370 83<225.674 298.472> 372 66<860 997 1068 1187> 381 69<571.494 734.132>
@@ -7042,7 +7041,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC2
 EndChar
 
 StartChar: rruu
-Encoding: 65582 -1 117
+Encoding: 160 -1 117
 Width: 1056
 Flags: W
 HStem: -245 67<212.639 401.441> -96 64<172.164 484 600 713> -1 21G<140 215 326 401> 372 67<776 882 952 1056> 380 71<228.698 311.914 418.527 523.016>
@@ -7103,7 +7102,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC2
 EndChar
 
 StartChar: nnuu
-Encoding: 65583 -1 118
+Encoding: 161 -1 118
 Width: 1313
 Flags: W
 HStem: -265 68<255.835 579.865> -96 64<169.229 740 864 968> -11 68<250.552 328.891 536.858 606.686> 176 63<250.374 328.616> 372 67<1031 1137 1207 1311> 382 67<289.032 505.177 627.524 749.627>
@@ -7185,7 +7184,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC2
 EndChar
 
 StartChar: suu
-Encoding: 65584 -1 119
+Encoding: 162 -1 119
 Width: 1556
 Flags: W
 HStem: -11 68<249.578 328.984 735.611 854.307> 0 21G<463 532> 39 73<1138.59 1348.41> 176 63<249.708 328.374> 182 71<1146.89 1241.99> 383 67<255.364 428.211 542.179 638.273> 386 72<926 1054 1125 1247.41> 636 70<1214.24 1398.35>
@@ -7281,7 +7280,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC2
 EndChar
 
 StartChar: juu
-Encoding: 65585 -1 120
+Encoding: 163 -1 120
 Width: 1374
 Flags: W
 HStem: -241 68<217.164 354.482 564.571 659.127> -16 67<534.861 656.151> 19 73<918.589 1135.65> 61 69<219.796 619.382> 153 64<183.272 253.275> 162 71<912.337 1007> 302 52<195.336 252.115> 366 74<717 834 905 1013.22> 378 70<209.164 376.002 502.816 637.976> 639 70<1000.97 1181.34>
@@ -7389,11 +7388,11 @@ SplineSet
  257.833333333 236.166666667 262 246.333333333 262 259 c 0
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B90 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC2
 EndChar
 
 StartChar: shuu
-Encoding: 65586 -1 121
+Encoding: 164 -1 121
 Width: 1683
 Flags: W
 HStem: -11 68<253.392 333.62> -1 70<543 820 892 979> 19 73<1228.59 1445.65> 132 71<729.063 820 892 949.089> 162 71<1236.89 1331.99> 176 63<252.535 332.143> 366 74<887 1144 1215 1337.41> 381 68<260.408 441.228 703.856 803.911> 639 70<1310.97 1491.34>
@@ -7503,7 +7502,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC2
 EndChar
 
 StartChar: huu
-Encoding: 65587 -1 122
+Encoding: 165 -1 122
 Width: 1812
 Flags: W
 HStem: -110 65<172.892 1022.61> -11 68<253.392 333.62> -1 70<543 675> 19 73<1358.59 1575.65> 162 71<1366.89 1461.99> 176 63<252.535 332.143> 366 74<1139 1274 1345 1467.41> 380 71<259.454 443.424 763.698 845.674 953.527 1057.54> 639 70<1440.97 1621.34>
@@ -7612,10 +7611,11 @@ SplineSet
  340.333333333 86.6666666667 345 100.333333333 345 117 c 256
 EndSplineSet
 Validated: 33
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC2
 EndChar
 
 StartChar: kshuu
-Encoding: 65588 -1 123
+Encoding: 166 -1 123
 Width: 1972
 Flags: W
 HStem: -12 65<217.309 359.266 575.668 642.872> -1 70<823 1100 1172 1259> 19 73<1518.59 1735.65> 132 70<1011.72 1100 1172 1229.09> 162 71<1526.89 1621.99> 186 71<176.937 215 284 382 450 497> 264 69<611.382 743.245> 366 74<284 382 450 578 1167 1434 1505 1627.41> 379 70<983.59 1085.11> 639 70<1600.97 1781.34>
@@ -7623,27 +7623,27 @@ VStem: 103 69<93.5269 178.299> 215 69<257 369> 382 68<76.0286 186 257 369> 492 6
 LayerCount: 2
 Fore
 SplineSet
-1973 384 m 0x037fde
- 1973 284 1940.66666667 198.666666667 1876 128 c 0
- 1809.33333333 55.3333333333 1726.66666667 19 1628 19 c 0
- 1536.66666667 19 1458 52.3333333333 1392 119 c 1
- 1433 174 l 1
- 1486.33333333 119.333333333 1550.33333333 92 1625 92 c 0
- 1705 92 1771.66666667 121 1825 179 c 1
- 1877.66666667 235 1904 303 1904 383 c 0
- 1904 451 1885.66666667 509.333333333 1849 558 c 0
- 1809 612 1756.33333333 639 1691 639 c 0
- 1635.66666667 639 1590.83333333 619.833333333 1556.5 581.5 c 0
- 1522.16666667 543.166666667 1505 496 1505 440 c 1
- 1584 440 l 2
- 1622.66666667 440 1653.83333333 428 1677.5 404 c 0
- 1701.16666667 380 1713 349 1713 311 c 0
- 1713 269.666666667 1700 234.5 1674 205.5 c 0
- 1648 176.5 1614.66666667 162 1574 162 c 0x2b7fde
- 1534 162 1500.66666667 177.5 1474 208.5 c 0
- 1447.33333333 239.5 1434 275.333333333 1434 316 c 2
- 1434 366 l 1
- 1167 366 l 1
+1973 384 m 4x037fde
+ 1973 284 1940.66666667 198.666666667 1876 128 c 4
+ 1809.33333333 55.3333333333 1726.66666667 19 1628 19 c 4
+ 1536.66666667 19 1458 52.3333333333 1392 119 c 5
+ 1433 174 l 5
+ 1486.33333333 119.333333333 1550.33333333 92 1625 92 c 4
+ 1705 92 1771.66666667 121 1825 179 c 5
+ 1877.66666667 235 1904 303 1904 383 c 4
+ 1904 451 1885.66666667 509.333333333 1849 558 c 4
+ 1809 612 1756.33333333 639 1691 639 c 4
+ 1635.66666667 639 1590.83333333 619.833333333 1556.5 581.5 c 4
+ 1522.16666667 543.166666667 1505 496 1505 440 c 5
+ 1584 440 l 6
+ 1622.66666667 440 1653.83333333 428 1677.5 404 c 4
+ 1701.16666667 380 1713 349 1713 311 c 4
+ 1713 269.666666667 1700 234.5 1674 205.5 c 4
+ 1648 176.5 1614.66666667 162 1574 162 c 4x2b7fde
+ 1534 162 1500.66666667 177.5 1474 208.5 c 4
+ 1447.33333333 239.5 1434 275.333333333 1434 316 c 6
+ 1434 366 l 5
+ 1167 366 l 5
  1170.33333333 354.666666667 1172 342.333333333 1172 329 c 2
  1172 202 l 1x137fde
  1199.33333333 207.333333333 1222.33333333 217.666666667 1241 233 c 0
@@ -7692,20 +7692,20 @@ SplineSet
  893 351.666666667 907.5 385.666666667 936.5 411 c 0
  965.5 436.333333333 1001.66666667 449 1045 449 c 0x46ffde
  1093 449 1128.66666667 432.333333333 1152 399 c 1
- 1152 440 l 1
- 1434 440 l 1
- 1434 516.666666667 1457.83333333 580.666666667 1505.5 632 c 0
- 1553.16666667 683.333333333 1615 709 1691 709 c 0
- 1777 709 1846.33333333 675.333333333 1899 608 c 1
- 1948.33333333 546.666666667 1973 472 1973 384 c 0x037fde
-1641 311 m 0
- 1641 345 1615.33333333 362 1564 362 c 2
- 1505 362 l 1
- 1505 316 l 2
- 1505 294.666666667 1511 276 1523 260 c 0
- 1536.33333333 242 1553.33333333 233 1574 233 c 256
- 1594.66666667 233 1611 240.666666667 1623 256 c 0
- 1635 271.333333333 1641 289.666666667 1641 311 c 0
+ 1152 440 l 5
+ 1434 440 l 5
+ 1434 516.666666667 1457.83333333 580.666666667 1505.5 632 c 4
+ 1553.16666667 683.333333333 1615 709 1691 709 c 4
+ 1777 709 1846.33333333 675.333333333 1899 608 c 5
+ 1948.33333333 546.666666667 1973 472 1973 384 c 4x037fde
+1641 311 m 4
+ 1641 345 1615.33333333 362 1564 362 c 6
+ 1505 362 l 5
+ 1505 316 l 6
+ 1505 294.666666667 1511 276 1523 260 c 4
+ 1536.33333333 242 1553.33333333 233 1574 233 c 260
+ 1594.66666667 233 1611 240.666666667 1623 256 c 4
+ 1635 271.333333333 1641 289.666666667 1641 311 c 4
 1259 69 m 1x527fee
  1259 171 l 1
  1232.33333333 147.666666667 1203.33333333 134.666666667 1172 132 c 1
@@ -7745,11 +7745,12 @@ SplineSet
  348 53 378.666666667 78.6666666667 382 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksh uni0BC2
+LCarets2: 1 0 
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC2
 EndChar
 
 StartChar: lu
-Encoding: 65589 -1 124
+Encoding: 167 -1 124
 Width: 923
 Flags: W
 HStem: -250 63<220.547 490.465> -101 64<162.164 584 676 853> -11 68<255.455 333.891 549.961 605.533> 176 63<255.364 333.616> 382 68<259.766 425.342>
@@ -7826,7 +7827,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC1
 EndChar
 
 StartChar: vu
-Encoding: 65590 -1 125
+Encoding: 168 -1 125
 Width: 812
 Flags: W
 HStem: -11 68<251.921 333.62> -1 68<553 738> 176 63<252.535 332.143> 385 66<259.71 435.223>
@@ -7878,7 +7879,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC1
 EndChar
 
 StartChar: zhu
-Encoding: 65591 -1 126
+Encoding: 169 -1 126
 Width: 897
 Flags: W
 HStem: -292 69<415.766 685.945> -91 70<627.44 718.495> 0 72<359 540 617 790.622> 380 71<630.741 738.483>
@@ -7936,7 +7937,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC1
 EndChar
 
 StartChar: llu
-Encoding: 65592 -1 127
+Encoding: 170 -1 127
 Width: 1117
 Flags: W
 HStem: -263 64<442.863 776.399> -11 68<395.284 473.592> 1 21G<611 680> 176 63<395.364 473.616> 203 70<898.036 1010.3> 372 66<680 817 886.598 1007> 381 69<391.38 554.872>
@@ -8009,7 +8010,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC1
 EndChar
 
 StartChar: nnu
-Encoding: 65593 -1 128
+Encoding: 171 -1 128
 Width: 1036
 Flags: W
 HStem: -265 68<255.835 579.865> -96 64<169.229 740 864 968> -11 68<250.552 328.891 535.641 606.686> 176 63<250.374 328.616> 382 67<289.032 505.177 627.524 749.627>
@@ -8085,7 +8086,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC1
 EndChar
 
 StartChar: su
-Encoding: 65594 -1 129
+Encoding: 172 -1 129
 Width: 1340
 Flags: W
 HStem: -11 68<249.805 328.984 732.501 853.855> 0 21G<463 532> 164 71<1139.83 1247.09> 176 63<249.451 328.374> 383 79<928 1063 1139.72 1247.79> 383 67<255.498 427.821 542.067 638.522>
@@ -8163,11 +8164,11 @@ SplineSet
  336.666666667 86.6666666667 341 100.333333333 341 117 c 256
 EndSplineSet
 Validated: 33
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0-1" uni0BB8 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC1
 EndChar
 
 StartChar: ju
-Encoding: 65595 -1 130
+Encoding: 173 -1 130
 Width: 1109
 Flags: W
 HStem: -241 68<217.164 354.482 564.571 659.127> -16 67<534.861 656.151> 61 69<219.796 619.382> 142 71<904.83 1012.09> 153 64<183.272 253.275> 302 52<195.336 252.115> 361 79<720 828 904.721 1012.79> 378 70<209.164 376.002 502.816 637.976>
@@ -8260,11 +8261,11 @@ SplineSet
  257.833333333 236.166666667 262 246.333333333 262 259 c 0
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0-1" uni0B9C uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC1
 EndChar
 
 StartChar: hu
-Encoding: 65596 -1 131
+Encoding: 174 -1 131
 Width: 1584
 Flags: W
 HStem: -110 65<172.892 1022.61> -11 68<253.392 333.62> -1 70<543 675> 142 71<1379.83 1487.09> 176 63<252.535 332.143> 361 79<1142 1303 1379.72 1487.79> 380 71<259.454 443.424 763.698 845.674 953.527 1057.38>
@@ -8358,11 +8359,11 @@ SplineSet
  340.333333333 86.6666666667 345 100.333333333 345 117 c 256
 EndSplineSet
 Validated: 33
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0-1" uni0BB9 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC1
 EndChar
 
 StartChar: kshu
-Encoding: 65597 -1 132
+Encoding: 175 -1 132
 Width: 1700
 Flags: W
 HStem: -12 65<217.309 359.266 575.668 642.872> -1 70<823 1100 1172 1259> 132 70<1011.72 1100 1172 1229.09> 142 71<1494.83 1602.09> 186 71<176.937 215 284 382 450 497> 264 69<611.382 743.245> 369 69<284 382 450 578 1495.45 1601.39> 379 70<983.59 1085.4>
@@ -8479,11 +8480,11 @@ SplineSet
  348 53 378.666666667 78.6666666667 382 130 c 1
 EndSplineSet
 Validated: 33
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0-1" ksh uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC1
 EndChar
 
 StartChar: chuu
-Encoding: 65598 -1 133
+Encoding: 176 -1 133
 Width: 986
 Flags: W
 HStem: -12 65<217.309 359.266 575.668 642.872> -1 70<820 985> 186 71<176.937 215 284 382 450 497> 268 67<614.554 736.482> 369 69<284 382 450 578>
@@ -8555,7 +8556,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC2
 EndChar
 
 StartChar: nhuu
-Encoding: 65599 -1 134
+Encoding: 177 -1 134
 Width: 1203
 Flags: W
 HStem: -251 65<217.751 554.336> -96 64<152.164 662 785 873> -11 68<250.455 328.891> 176 63<250.364 328.616> 203 70<586.98 695.373> 370 69<244.561 508 576 757 936 1028 1098 1202>
@@ -8634,7 +8635,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC2
 EndChar
 
 StartChar: tuu
-Encoding: 65600 -1 135
+Encoding: 178 -1 135
 Width: 709
 Flags: W
 HStem: -213 67<336.822 509.34> 1 21G<350 421> 203 70<433.457 547.574> 376 72<559.904 633.049> 633 72<343.147 539.64>
@@ -8690,7 +8691,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC2
 EndChar
 
 StartChar: nnnuu
-Encoding: 65601 -1 136
+Encoding: 179 -1 136
 Width: 1602
 Flags: W
 HStem: -283 70<316.56 787.041> -96 64<167.43 992 1136 1263> -11 73<244.603 325.008 527.418 601.287 851.495 927.469> 176 63<245.155 323.616> 372 66<1326 1427 1497 1601> 379 70<278.128 498.587 629.154 819.491 932.812 1052.06>
@@ -8786,7 +8787,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC2
 EndChar
 
 StartChar: thuu
-Encoding: 65602 -1 137
+Encoding: 180 -1 137
 Width: 1070
 Flags: W
 HStem: -245 66<221.049 454.954> -96 64<172.164 543 654 733> -12 65<254.454 394.266> 186 71<216.43 250 319 417 485 555.215> 369 69<319 417 485 613 796 897 967 1071>
@@ -8858,7 +8859,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC2
 EndChar
 
 StartChar: nuu
-Encoding: 65603 -1 138
+Encoding: 181 -1 138
 Width: 1034
 Flags: W
 HStem: -245 68<212.423 417.787> -96 64<172.164 491 606 693> 203 70<406.332 514.196> 369 72<223 327 396 568 756 862 932 1036>
@@ -8920,7 +8921,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC2
 EndChar
 
 StartChar: puu
-Encoding: 65604 -1 139
+Encoding: 182 -1 139
 Width: 785
 Flags: W
 HStem: -298 69<241.473 514.643> -104 69<180.262 322.74> -1 70<171 518> 48 77<606.185 698.945>
@@ -8967,7 +8968,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC2
 EndChar
 
 StartChar: muu
-Encoding: 65605 -1 140
+Encoding: 183 -1 140
 Width: 1037
 Flags: W
 HStem: -247 64<349.283 570.057> 0 72<494 675 752 926.22> 175 75<225.455 298.929> 370 80<225.686 299.082> 380 71<766.215 873.235>
@@ -9029,7 +9030,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC2
 EndChar
 
 StartChar: yuu
-Encoding: 65606 -1 141
+Encoding: 184 -1 141
 Width: 820
 Flags: W
 HStem: -295 65<237.368 517.974> -104 69<182.675 316.515> -10 69<190.07 271.525 359 553> 48 77<640.185 738.242>
@@ -9086,7 +9087,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC2
 EndChar
 
 StartChar: ruu
-Encoding: 65607 -1 142
+Encoding: 185 -1 142
 Width: 910
 Flags: W
 HStem: -264 66<388.897 658.54> 1 21G<428 499 598 666> 175 75<225.498 298.889> 203 72<682.797 790.74> 370 78<225.445 298.528> 370 69<499 598 666 847>
@@ -9144,7 +9145,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC2
 EndChar
 
 StartChar: luu
-Encoding: 65608 -1 143
+Encoding: 186 -1 143
 Width: 1191
 Flags: W
 HStem: -250 63<220.547 490.465> -101 64<162.164 584 676 853> -11 68<255.455 333.891 549.961 605.533> 176 63<255.364 333.616> 372 64<916 1017 1087 1191> 382 68<259.766 425.342>
@@ -9227,7 +9228,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC2
 EndChar
 
 StartChar: ki
-Encoding: 65609 -1 144
+Encoding: 187 -1 144
 Width: 742
 Flags: W
 HStem: -12 62<222.056 356.586 468.558 547.659> 0 21G<670 741> 186 71<179.123 214 283 382 449 546.844> 369 69<283 382 458.25 577> 633 75<464.335 621.941>
@@ -9290,7 +9291,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BBF
 EndChar
 
 StartChar: ngi
-Encoding: 65610 -1 145
+Encoding: 188 -1 145
 Width: 919
 Flags: W
 HStem: 0 64<278 448.795 511 721> 206 69<359.25 455.227> 282 71<655.066 721> 366 72<171 278 347 505> 633 73<650.259 797.889>
@@ -9349,7 +9350,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BBF
 EndChar
 
 StartChar: chi
-Encoding: 65611 -1 146
+Encoding: 189 -1 146
 Width: 676
 Flags: W
 HStem: -12 65<212.056 351.876> 0 21G<607 676> 186 71<173.694 207 276 374 442 574> 369 69<276 340 442 565> 633 75<396.101 559.553>
@@ -9404,7 +9405,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BBF
 EndChar
 
 StartChar: NameMe.210.2
-Encoding: 65612 -1 147
+Encoding: 190 -1 147
 Width: 864
 Flags: W
 HStem: -241 68<217.164 354.482 564.751 659.699> -16 67<534.861 656.393> 0 21G<795 865> 61 69<219.796 618.891> 153 64<183.272 253.275> 302 52<195.32 252.115> 380 67<211.983 373.066> 633 75<589.335 747.616>
@@ -9495,7 +9496,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BBF
 EndChar
 
 StartChar: nhi
-Encoding: 65613 -1 148
+Encoding: 191 -1 148
 Width: 1066
 Flags: W
 HStem: -248 61<410.056 699.844> -11 68<395.455 473.891> 0 21G<995 1065> 176 63<395.364 473.616> 203 70<731.98 840.373> 370 69<389.561 653 721 728 782.25 902> 633 75<785.476 947.616>
@@ -9573,7 +9574,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BBF
 EndChar
 
 StartChar: ti
-Encoding: 65614 -1 149
+Encoding: 192 -1 149
 Width: 700
 Flags: W
 HStem: -1 70<171 358 415.573 531 601 699> 273 68<399.338 505.278>
@@ -9612,7 +9613,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BBF
 EndChar
 
 StartChar: nnni
-Encoding: 65615 -1 150
+Encoding: 193 -1 150
 Width: 1367
 Flags: W
 HStem: -11 73<240.689 321.633 524.508 599.543 839.799 912.553> -1 22G<1078 1151 1297 1367> 176 63<241.568 320.374> 372 68<933.691 1029 1151 1253> 384 66<286.247 486.035 629.215 811.255> 633 75<1087.48 1249.62>
@@ -9699,7 +9700,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BBF
 EndChar
 
 StartChar: thi
-Encoding: 65616 -1 151
+Encoding: 194 -1 151
 Width: 734
 Flags: W
 HStem: -110 64<173.892 489.768> -12 65<214.454 353.876> 0 21G<665 735> 186 71<178.463 209 278 377 444 524.259> 369 69<278 377 454.135 572> 633 75<455.476 617.616>
@@ -9770,7 +9771,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BBF
 EndChar
 
 StartChar: ni
-Encoding: 65617 -1 152
+Encoding: 195 -1 152
 Width: 683
 Flags: W
 HStem: -110 64<153.892 439.223> 0 21G<611 681> 203 70<361.42 469.29> 369 72<178 283 397.169 524> 633 75<401.476 563.616>
@@ -9829,7 +9830,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BBF
 EndChar
 
 StartChar: nni
-Encoding: 65618 -1 153
+Encoding: 196 -1 153
 Width: 1046
 Flags: W
 HStem: -11 68<240.552 318.891 526.858 596.659> 0 21G<975 1045> 176 63<240.374 318.616> 372 67<621.629 708 834 921> 382 67<278.783 489.41> 633 75<769.561 927.616>
@@ -9903,7 +9904,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BBF
 EndChar
 
 StartChar: pi
-Encoding: 65619 -1 154
+Encoding: 197 -1 154
 Width: 717
 Flags: W
 HStem: -1 70<171 518> 282 70<452.324 518> 633 73<448.101 595.538>
@@ -9942,7 +9943,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BBF
 EndChar
 
 StartChar: mi
-Encoding: 65620 -1 155
+Encoding: 198 -1 155
 Width: 829
 Flags: W
 HStem: 0 72<174 350 427 603.247> 633 75<551.914 712.616>
@@ -9990,7 +9991,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BBF
 EndChar
 
 StartChar: yi
-Encoding: 65621 -1 156
+Encoding: 199 -1 156
 Width: 782
 Flags: W
 HStem: -10 69<190.07 271.525 359 586> 283 71<519.527 586> 633 73<515.259 662.889>
@@ -10039,7 +10040,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BBF
 EndChar
 
 StartChar: ri
-Encoding: 65622 -1 157
+Encoding: 200 -1 157
 Width: 632
 Flags: W
 HStem: 1 20G<101 172 560 630> 372 69<172 290 396 533> 633 75<355.7 512.616>
@@ -10080,7 +10081,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BBF
 EndChar
 
 StartChar: rri
-Encoding: 65623 -1 158
+Encoding: 201 -1 158
 Width: 741
 Flags: W
 HStem: -110 65<157.892 457.609> -1 22G<110 185 296 371 670 740> 380 71<198.698 280.674> 633 75<464.335 622.616>
@@ -10141,7 +10142,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BBF
 EndChar
 
 StartChar: li
-Encoding: 65624 -1 159
+Encoding: 202 -1 159
 Width: 918
 Flags: W
 HStem: -11 68<255.455 333.891 545.315 662.185> 0 21G<845 915> 176 63<255.364 333.616> 382 68<259.766 425.342> 633 75<641.267 800.391>
@@ -10208,7 +10209,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BBF
 EndChar
 
 StartChar: lli
-Encoding: 65625 -1 160
+Encoding: 203 -1 160
 Width: 974
 Flags: W
 HStem: -11 68<253.089 331.891> 1 20G<469 538 675 746 903 973> 176 63<252.792 331.616> 372 66<538 637 746 866> 381 69<248.809 413.742> 633 75<692.898 855.616>
@@ -10273,7 +10274,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BBF
 EndChar
 
 StartChar: zhi
-Encoding: 65626 -1 161
+Encoding: 204 -1 161
 Width: 829
 GlyphClass: 2
 Flags: W
@@ -10345,7 +10346,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BBF
 EndChar
 
 StartChar: vi
-Encoding: 65627 -1 162
+Encoding: 205 -1 162
 Width: 964
 Flags: W
 HStem: -11 68<251.921 333.62> -1 68<553 765> 176 63<252.535 332.143> 283 69<699.324 765> 382 67<258.776 436.657> 633 73<695.259 842.889>
@@ -10411,7 +10412,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BBF
 EndChar
 
 StartChar: shi
-Encoding: 65628 -1 163
+Encoding: 206 -1 163
 Width: 1169
 Flags: W
 HStem: -11 68<253.65 331.891> -1 70<543 820 892 974> 122 71<726.908 820 892 946.264> 176 63<253.364 331.616> 381 68<261.681 441.532> 634 74<818.886 1002.75>
@@ -10499,7 +10500,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BBF
 EndChar
 
 StartChar: si
-Encoding: 65629 -1 164
+Encoding: 207 -1 164
 Width: 1112
 Flags: W
 HStem: -11 68<254.578 333.984 740.611 858.683> 0 21G<468 537 1040 1110> 176 63<254.708 333.374> 383 67<260.364 433.211 547.179 643.273> 633 75<836.267 995.391>
@@ -10575,7 +10576,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BBF
 EndChar
 
 StartChar: hi
-Encoding: 65630 -1 165
+Encoding: 208 -1 165
 Width: 1306
 Flags: W
 HStem: -110 65<172.892 1022.61> -11 68<251.921 333.62> -1 70<543 675> 176 63<252.535 332.143> 380 71<259.15 443.209 763.698 845.674> 633 75<1029.34 1187.62>
@@ -10668,7 +10669,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BBF
 EndChar
 
 StartChar: kshi
-Encoding: 65631 -1 166
+Encoding: 209 -1 166
 Width: 1447
 Flags: W
 HStem: -12 65<217.309 359.515 575.525 644.162> -1 70<823 1100 1172 1254> 122 71<1006.91 1100 1172 1226.26> 186 71<193.533 215 284 382 450 497> 264 69<611.397 741.456> 369 69<284 382 450 578> 634 74<1098.89 1282.75>
@@ -10778,7 +10779,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BBF
 EndChar
 
 StartChar: kee
-Encoding: 65632 -1 167
+Encoding: 210 -1 167
 Width: 625
 Flags: W
 HStem: -12 62<220.056 354.586 466.558 545.659> 186 71<177.123 212 281 380 447 544.844> 369 69<281 327 447 590> 481 62<468.946 540.088> 654 76<430.637 540.021>
@@ -10850,7 +10851,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC0
 EndChar
 
 StartChar: ngee
-Encoding: 65633 -1 168
+Encoding: 211 -1 168
 Width: 879
 Flags: W
 HStem: 0 64<278 448.795 511 756> 206 69<359.253 453.957> 282 70<668.725 756> 366 72<171 278 347 505> 480 62<723.502 796.331> 653 77<723.943 795.952>
@@ -10918,7 +10919,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC0
 EndChar
 
 StartChar: chee
-Encoding: 65634 -1 169
+Encoding: 212 -1 169
 Width: 601
 Flags: W
 HStem: -12 65<211.998 351.696> 186 71<173.694 207 276 374 442 599> 369 69<276 310 366.299 374 442 590> 481 62<443.986 515.915> 654 76<406.084 515.713>
@@ -10982,7 +10983,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC0
 EndChar
 
 StartChar: jee
-Encoding: 65635 -1 170
+Encoding: 213 -1 170
 Width: 814
 Flags: W
 HStem: -241 68<217.481 354.482 564.751 659.699> -16 67<534.861 656.393> 61 69<219.796 619.382> 153 64<183.272 253.275> 302 52<195.32 252.115> 380 67<211.983 373.066> 481 62<658.813 731.132> 654 76<622.138 731.269>
@@ -11081,7 +11082,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC0
 EndChar
 
 StartChar: nhee
-Encoding: 65636 -1 171
+Encoding: 214 -1 171
 Width: 949
 Flags: W
 HStem: -248 61<410.056 698.027> -11 68<395.455 473.891> 176 63<395.364 473.616> 203 70<731.98 840.373> 370 69<389.561 630 721 902> 483 62<763.986 835.915> 656 76<726.084 835.713>
@@ -11169,7 +11170,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC0
 EndChar
 
 StartChar: tee
-Encoding: 65637 -1 172
+Encoding: 215 -1 172
 Width: 700
 Flags: W
 HStem: -1 70<171 358 417.295 700> 113 62<489.743 561.915> 286 76<452.122 562.123>
@@ -11212,7 +11213,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC0
 EndChar
 
 StartChar: nnnee
-Encoding: 65638 -1 173
+Encoding: 216 -1 173
 Width: 1334
 Flags: W
 HStem: -11 73<244.415 325.317 527.418 601.287 843.074 916.404> -1 21G<1081 1154> 176 63<245.374 323.616> 372 68<936.722 1044 1154 1296> 384 66<289.493 490.675 632.708 814.913> 483 62<1178.99 1250.91> 656 76<1141.08 1250.71>
@@ -11309,7 +11310,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC0
 EndChar
 
 StartChar: thee
-Encoding: 65639 -1 174
+Encoding: 217 -1 174
 Width: 629
 Flags: W
 HStem: -110 64<173.892 489.768> -12 65<214.454 353.876> 186 71<178.463 209 278 377 444 524.259> 369 69<278 335 444 572> 483 62<468.986 540.915> 656 76<431.084 540.713>
@@ -11390,7 +11391,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC0
 EndChar
 
 StartChar: nnee
-Encoding: 65640 -1 175
+Encoding: 218 -1 175
 Width: 584
 Flags: W
 HStem: -110 64<158.892 443.94> 203 70<366.332 473.47> 369 72<183 257 356 513> 483 62<393.986 465.915> 656 76<356.084 465.713>
@@ -11459,7 +11460,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC0
 EndChar
 
 StartChar: nee
-Encoding: 65641 -1 176
+Encoding: 219 -1 176
 Width: 1007
 Flags: W
 HStem: -11 68<245.552 323.891 531.858 598.17> 176 63<245.374 323.616> 372 67<626.629 720 839 956> 382 67<283.783 494.41> 483 62<853.986 925.915> 656 76<816.084 925.713>
@@ -11542,7 +11543,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC0
 EndChar
 
 StartChar: pee
-Encoding: 65642 -1 177
+Encoding: 220 -1 177
 Width: 642
 Flags: W
 HStem: -1 70<171 518> 282 70<431.442 518> 483 62<485.8 557.953> 656 78<485.943 557.945>
@@ -11590,7 +11591,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC0
 EndChar
 
 StartChar: mee
-Encoding: 65643 -1 178
+Encoding: 221 -1 178
 Width: 740
 Flags: W
 HStem: 0 72<174 350 427 603.247> 483 62<583.986 655.915> 656 76<546.084 655.713>
@@ -11646,7 +11647,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC0
 EndChar
 
 StartChar: yee
-Encoding: 65644 -1 179
+Encoding: 222 -1 179
 Width: 724
 Flags: W
 HStem: -10 69<190.07 271.525 359 599> 282 70<512.442 599> 483 62<567.743 640.133> 656 78<567.259 640.228>
@@ -11704,7 +11705,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC0
 EndChar
 
 StartChar: ree
-Encoding: 65645 -1 180
+Encoding: 223 -1 180
 Width: 571
 Flags: W
 HStem: 1 21G<101 172> 372 70<172 279 382 535> 483 62<415.986 487.915> 656 76<378.084 487.713>
@@ -11754,7 +11755,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC0
 EndChar
 
 StartChar: rree
-Encoding: 65646 -1 181
+Encoding: 224 -1 181
 Width: 683
 Flags: W
 HStem: -110 65<157.892 447.609> -1 21G<100 175 286 361> 380 71<188.698 270.674> 483 62<528.986 600.915> 656 76<491.084 600.713>
@@ -11825,7 +11826,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC0
 EndChar
 
 StartChar: lee
-Encoding: 65647 -1 182
+Encoding: 225 -1 182
 Width: 882
 Flags: W
 HStem: -11 68<255.455 333.891 545.315 662.185> 176 63<255.364 333.616> 382 68<259.766 425.342> 483 62<725.743 797.915> 656 76<687.503 798.171>
@@ -11901,7 +11902,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC0
 EndChar
 
 StartChar: llee
-Encoding: 65648 -1 183
+Encoding: 226 -1 183
 Width: 904
 Flags: W
 HStem: -11 68<255.089 333.891> 1 21G<471 540 677 748> 176 63<254.792 333.616> 372 66<540 616 671.299 677 748 868> 381 69<250.809 415.742> 483 62<748.986 820.915> 656 76<711.084 820.713>
@@ -11977,7 +11978,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC0
 EndChar
 
 StartChar: zhee
-Encoding: 65649 -1 184
+Encoding: 227 -1 184
 Width: 743
 Flags: W
 HStem: -288 67<184.632 327.286> -129 76<470.303 596> -112 69<165.673 293> 0 72<174 350 428 603.247> 483 62<588.986 660.915> 656 76<551.084 660.713>
@@ -12058,7 +12059,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC0
 EndChar
 
 StartChar: vee
-Encoding: 65650 -1 185
+Encoding: 228 -1 185
 Width: 892
 Flags: W
 HStem: -11 68<251.921 333.62> -1 68<553 768> 176 63<252.535 332.143> 282 70<683.467 768> 382 67<258.776 436.657> 483 62<736.675 809.158> 656 78<736.943 808.701>
@@ -12133,7 +12134,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC0
 EndChar
 
 StartChar: shee
-Encoding: 65651 -1 186
+Encoding: 229 -1 186
 Width: 1052
 Flags: W
 HStem: -11 68<251.921 333.62> -1 70<543 820 892 979> 130 69<735.602 820 892 944.222> 176 63<252.535 332.143> 381 68<261.527 440.984> 483 62<868.986 940.915> 656 76<831.084 940.713>
@@ -12234,7 +12235,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC0
 EndChar
 
 StartChar: see
-Encoding: 65652 -1 187
+Encoding: 230 -1 187
 Width: 1048
 Flags: W
 HStem: -11 68<254.578 333.2 740.611 862.007> 0 21G<468 537> 176 63<254.708 333.374> 383 67<260.364 433.211 547.179 643.273> 483 62<893.986 965.915> 656 76<856.61 965.713>
@@ -12319,7 +12320,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC0
 EndChar
 
 StartChar: hee
-Encoding: 65653 -1 188
+Encoding: 231 -1 188
 Width: 1246
 Flags: W
 HStem: -110 65<172.892 1022.61> -11 68<251.921 333.62> -1 70<543 675> 176 63<252.535 332.143> 380 71<259.15 443.209 763.698 845.674> 483 62<1093.99 1165.91> 656 76<1056.08 1165.71>
@@ -12421,7 +12422,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC0
 EndChar
 
 StartChar: kshee
-Encoding: 65654 -1 189
+Encoding: 232 -1 189
 Width: 1333
 Flags: W
 HStem: -12 65<217.309 359.266 576.027 642.872> -1 70<823 1100 1172 1259> 130 69<1016.1 1100 1172 1224> 186 71<176.937 215 284 382 450 497> 264 69<611.397 743.245> 369 69<284 382 450 578> 483 62<1148.99 1220.91> 656 76<1111.08 1220.71>
@@ -12543,7 +12544,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC0
 EndChar
 
 StartChar: uni25CC
-Encoding: 9676 9676 190
+Encoding: 114 9676 190
 Width: 522
 Flags: W
 HStem: -9 36<230.233 286 337 390.231> 412 36<236.006 286 338 388.72>
@@ -12596,7 +12597,7 @@ Validated: 1
 EndChar
 
 StartChar: space
-Encoding: 32 32 191
+Encoding: 0 32 191
 Width: 512
 VWidth: 0
 GlyphClass: 2
@@ -12605,7 +12606,7 @@ LayerCount: 2
 EndChar
 
 StartChar: .notdef
-Encoding: 65655 -1 192
+Encoding: 233 -1 192
 Width: 512
 Flags: W
 LayerCount: 2
@@ -12626,7 +12627,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 48 48 193
+Encoding: 15 48 193
 Width: 499
 Flags: W
 LayerCount: 2
@@ -12647,7 +12648,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 49 49 194
+Encoding: 16 49 194
 Width: 284
 Flags: W
 LayerCount: 2
@@ -12667,7 +12668,7 @@ Validated: 1
 EndChar
 
 StartChar: two
-Encoding: 50 50 195
+Encoding: 17 50 195
 Width: 476
 Flags: W
 LayerCount: 2
@@ -12696,7 +12697,7 @@ Validated: 1
 EndChar
 
 StartChar: three
-Encoding: 51 51 196
+Encoding: 18 51 196
 Width: 460
 Flags: W
 LayerCount: 2
@@ -12733,7 +12734,7 @@ Validated: 1
 EndChar
 
 StartChar: four
-Encoding: 52 52 197
+Encoding: 19 52 197
 Width: 463
 Flags: W
 LayerCount: 2
@@ -12760,7 +12761,7 @@ Validated: 1
 EndChar
 
 StartChar: five
-Encoding: 53 53 198
+Encoding: 20 53 198
 Width: 478
 Flags: W
 LayerCount: 2
@@ -12792,7 +12793,7 @@ Validated: 1
 EndChar
 
 StartChar: six
-Encoding: 54 54 199
+Encoding: 21 54 199
 Width: 493
 Flags: W
 LayerCount: 2
@@ -12826,7 +12827,7 @@ Validated: 1
 EndChar
 
 StartChar: seven
-Encoding: 55 55 200
+Encoding: 22 55 200
 Width: 430
 Flags: W
 LayerCount: 2
@@ -12848,7 +12849,7 @@ Validated: 1
 EndChar
 
 StartChar: eight
-Encoding: 56 56 201
+Encoding: 23 56 201
 Width: 471
 Flags: W
 LayerCount: 2
@@ -12890,7 +12891,7 @@ Validated: 1
 EndChar
 
 StartChar: nine
-Encoding: 57 57 202
+Encoding: 24 57 202
 Width: 480
 Flags: W
 LayerCount: 2
@@ -12928,7 +12929,7 @@ Validated: 1
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 203
+Encoding: 26 59 203
 Width: 190
 Flags: W
 HStem: -23 88<93.9237 128> 108 95<91.168 175.94>
@@ -12957,7 +12958,7 @@ Validated: 1
 EndChar
 
 StartChar: less
-Encoding: 60 60 204
+Encoding: 27 60 204
 Width: 491
 Flags: W
 LayerCount: 2
@@ -12976,7 +12977,7 @@ Validated: 1
 EndChar
 
 StartChar: equal
-Encoding: 61 61 205
+Encoding: 28 61 205
 Width: 514
 Flags: W
 HStem: 70 65<95 513> 269 65<95 513>
@@ -12998,7 +12999,7 @@ Validated: 1
 EndChar
 
 StartChar: greater
-Encoding: 62 62 206
+Encoding: 29 62 206
 Width: 507
 Flags: W
 LayerCount: 2
@@ -13017,7 +13018,7 @@ Validated: 1
 EndChar
 
 StartChar: question
-Encoding: 63 63 207
+Encoding: 30 63 207
 Width: 455
 Flags: W
 HStem: -15 95<224.168 310.724> 583 59<196.244 351.279>
@@ -13051,7 +13052,7 @@ Validated: 1
 EndChar
 
 StartChar: at
-Encoding: 64 64 208
+Encoding: 31 64 208
 Width: 908
 Flags: W
 HStem: -186 68<381.573 685.856> -3 77<610.333 716.536> -2 68<383.103 494.473> 400 69<429.629 553.79> 577 68<392.393 648.122>
@@ -13108,7 +13109,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 209
+Encoding: 8 40 209
 Width: 274
 Flags: W
 LayerCount: 2
@@ -13127,7 +13128,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 210
+Encoding: 9 41 210
 Width: 280
 Flags: W
 LayerCount: 2
@@ -13146,7 +13147,7 @@ Validated: 1
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 211
+Encoding: 10 42 211
 Width: 354
 Flags: W
 LayerCount: 2
@@ -13173,7 +13174,7 @@ Validated: 1
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 212
+Encoding: 3 35 212
 Width: 498
 Flags: W
 HStem: -11 21G<105 165.064 310 370.064> 176 55<67 143 210 348 415 539> 401 55<67 189 256 394 462 539>
@@ -13219,7 +13220,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 43 43 213
+Encoding: 11 43 213
 Width: 517
 Flags: W
 HStem: 280 64<100 277 342 518>
@@ -13245,7 +13246,7 @@ Validated: 1
 EndChar
 
 StartChar: comma
-Encoding: 44 44 214
+Encoding: 12 44 214
 Width: 198
 Flags: W
 HStem: -23 88<103.924 138>
@@ -13269,7 +13270,7 @@ Validated: 1
 EndChar
 
 StartChar: period
-Encoding: 46 46 215
+Encoding: 13 46 215
 Width: 177
 Flags: W
 HStem: -14 94<45.5899 131.312>
@@ -13287,7 +13288,7 @@ Validated: 1
 EndChar
 
 StartChar: slash
-Encoding: 47 47 216
+Encoding: 14 47 216
 Width: 287
 Flags: W
 LayerCount: 2
@@ -13303,7 +13304,7 @@ Validated: 1
 EndChar
 
 StartChar: grave
-Encoding: 96 96 217
+Encoding: 37 96 217
 Width: 165
 Flags: W
 HStem: 534 191<125.75 170>
@@ -13323,7 +13324,7 @@ Validated: 1
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 218
+Encoding: 38 123 218
 Width: 333
 Flags: W
 LayerCount: 2
@@ -13362,7 +13363,7 @@ Validated: 33
 EndChar
 
 StartChar: bar
-Encoding: 124 124 219
+Encoding: 39 124 219
 Width: 168
 Flags: W
 LayerCount: 2
@@ -13378,7 +13379,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 220
+Encoding: 40 125 220
 Width: 336
 Flags: W
 LayerCount: 2
@@ -13417,7 +13418,7 @@ Validated: 37
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 221
+Encoding: 41 126 221
 Width: 537
 Flags: W
 LayerCount: 2
@@ -13439,7 +13440,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 222
+Encoding: 32 91 222
 Width: 252
 Flags: W
 HStem: -176 55<173 273> 578 55<173 273>
@@ -13461,7 +13462,7 @@ Validated: 1
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 223
+Encoding: 33 92 223
 Width: 293
 Flags: W
 VStem: 69 253
@@ -13478,7 +13479,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 224
+Encoding: 34 93 224
 Width: 254
 Flags: W
 HStem: -176 55<83 182> 578 55<83 182>
@@ -13500,7 +13501,7 @@ Validated: 1
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 225
+Encoding: 35 94 225
 Width: 428
 Flags: W
 LayerCount: 2
@@ -13519,7 +13520,7 @@ Validated: 1
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 226
+Encoding: 4 36 226
 Width: 503
 Flags: W
 HStem: -13 56<216.374 278> 592 54<216.953 278 315 366.75>
@@ -13566,7 +13567,7 @@ Validated: 1
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 227
+Encoding: 1 33 227
 Width: 190
 Flags: W
 HStem: -2 94<98.5898 184.312>
@@ -13593,7 +13594,7 @@ Validated: 33
 EndChar
 
 StartChar: percent
-Encoding: 37 37 228
+Encoding: 5 37 228
 Width: 837
 Flags: W
 HStem: -143 60<619.309 730.165> 192 62<620.12 731.72> 225 62<205.787 317.274> 560 62<207.005 318.23>
@@ -13639,7 +13640,7 @@ Validated: 1
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 229
+Encoding: 6 38 229
 Width: 615
 Flags: W
 HStem: -11 60<230.745 376.186> 589 55<276.822 389.412>
@@ -13686,7 +13687,7 @@ Validated: 1
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 230
+Encoding: 7 39 230
 Width: 172
 Flags: W
 HStem: 534 191<108 145>
@@ -13706,7 +13707,7 @@ Validated: 1
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 231
+Encoding: 36 95 231
 Width: 616
 Flags: W
 HStem: -77 56<99 615>
@@ -13723,7 +13724,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 232
+Encoding: 2 34 232
 Width: 280
 Flags: W
 HStem: 534 191<94 130 211 245>
@@ -13752,7 +13753,7 @@ Validated: 1
 EndChar
 
 StartChar: colon
-Encoding: 58 58 233
+Encoding: 25 58 233
 Width: 187
 Flags: W
 HStem: 35 94<92.5898 177.41> 268 94<92.5898 177.41>
@@ -13772,6 +13773,242 @@ SplineSet
  166.333333333 129 182 113.333333333 182 82 c 256
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: shu
+Encoding: 234 -1 234
+Width: 1436
+Flags: W
+HStem: -11 68<251.921 332.149> -1 70<543 820 892 979> 130 69<735.602 820 892 944.222> 142 71<1232.83 1340.09> 176 63<252.792 332.567> 361 79<920 1156 1232.72 1340.79> 381 68<261.527 440.984 704.962 803.994>
+VStem: 100 68<116.194 290.292> 193 47<107.295 162.466> 345 68<71.4647 162.25> 518 69<107.078 301.347> 613 70<245.794 359.455> 820 72<-222 -1 69 130 203 363.529> 979 72<69 171> 994 57<243.852 299> 1138 71<236.83 344.522> 1364 72<236.83 344.623>
+LayerCount: 2
+Fore
+SplineSet
+1436 291 m 4x15f980
+ 1436 249.666666667 1421.5 214.5 1392.5 185.5 c 4
+ 1363.5 156.5 1328.33333333 142 1287 142 c 4
+ 1245.66666667 142 1210.5 156.5 1181.5 185.5 c 4
+ 1152.5 214.5 1138 249.666666667 1138 291 c 4
+ 1138 315.666666667 1144 339 1156 361 c 5
+ 920 361 l 5
+ 920 440 l 5
+ 1287 440 l 6
+ 1328.33333333 440 1363.5 425.333333333 1392.5 396 c 4
+ 1421.5 366.666666667 1436 331.666666667 1436 291 c 4x15f980
+1051 -1 m 1x63fb80
+ 892 -1 l 1
+ 892 -222 l 1
+ 820 -222 l 1
+ 820 -1 l 1
+ 453 -1 l 1x63fb80
+ 448 48 l 1
+ 494.666666667 87.3333333333 518 138.666666667 518 202 c 0
+ 518 256 504 299 476 331 c 0
+ 446 364.333333333 404.333333333 381 351 381 c 0
+ 300.333333333 381 257.166666667 364.166666667 221.5 330.5 c 0
+ 185.833333333 296.833333333 168 254.666666667 168 204 c 0
+ 168 170 177 137.666666667 195 107 c 1
+ 193.666666667 115 193 123 193 131 c 0
+ 193 162.333333333 202.666666667 188.166666667 222 208.5 c 0
+ 241.333333333 228.833333333 266.333333333 239 297 239 c 0
+ 331.666666667 239 359.666666667 226.833333333 381 202.5 c 0
+ 402.333333333 178.166666667 413 148.333333333 413 113 c 0
+ 413 76.3333333333 401.333333333 46.5 378 23.5 c 0
+ 354.666666667 0.5 324.666666667 -11 288 -11 c 0
+ 231.333333333 -11 185.333333333 11.6666666667 150 57 c 0x8bfb80
+ 116.666666667 99 100 149 100 207 c 0
+ 100 277.666666667 124.166666667 335.666666667 172.5 381 c 0
+ 220.833333333 426.333333333 280.666666667 449 352 449 c 0
+ 421.333333333 449 477.833333333 426.333333333 521.5 381 c 0
+ 565.166666667 335.666666667 587 278.333333333 587 209 c 0
+ 587 157.666666667 572.333333333 111 543 69 c 1
+ 820 69 l 1
+ 820 130 l 1
+ 764 130 716.333333333 145.666666667 677 177 c 0
+ 634.333333333 210.333333333 613 254.333333333 613 309 c 0
+ 613 351.666666667 627.333333333 385.666666667 656 411 c 0
+ 684.666666667 436.333333333 721 449 765 449 c 0
+ 801.666666667 449 832 438.166666667 856 416.5 c 0
+ 880 394.833333333 892 365.666666667 892 329 c 2
+ 892 203 l 1
+ 919.333333333 207.666666667 942.333333333 217.666666667 961 233 c 0
+ 983 251.666666667 994 273.666666667 994 299 c 1
+ 1051 299 l 1
+ 1051 -1 l 1x63fb80
+1364 291 m 4
+ 1364 312.333333333 1356.5 330.5 1341.5 345.5 c 4
+ 1326.5 360.5 1308.33333333 368 1287 368 c 4
+ 1265.66666667 368 1247.33333333 360.5 1232 345.5 c 4
+ 1216.66666667 330.5 1209 312.333333333 1209 291 c 4
+ 1209 269.666666667 1216.66666667 251.333333333 1232 236 c 4
+ 1247.33333333 220.666666667 1265.66666667 213 1287 213 c 4x11f980
+ 1308.33333333 213 1326.5 220.666666667 1341.5 236 c 4
+ 1356.5 251.333333333 1364 269.666666667 1364 291 c 4
+979 69 m 1x41fd80
+ 979 171 l 1
+ 953 147.666666667 924 134.666666667 892 132 c 1
+ 892 69 l 1
+ 979 69 l 1x41fd80
+820 324 m 2
+ 820 340.666666667 814 354 802 364 c 0
+ 790 374 775.666666667 379 759 379 c 0
+ 737 379 718.833333333 372.5 704.5 359.5 c 0
+ 690.166666667 346.5 683 329 683 307 c 0
+ 683 273.666666667 697.666666667 246.666666667 727 226 c 0
+ 753.666666667 208 784.666666667 199 820 199 c 1x21f980
+ 820 324 l 2
+345 117 m 0
+ 345 133.666666667 340.333333333 147.666666667 331 159 c 0
+ 321.666666667 170.333333333 309 176 293 176 c 0
+ 277 176 264.166666667 170.333333333 254.5 159 c 0
+ 244.833333333 147.666666667 240 133.666666667 240 117 c 0
+ 240 100.333333333 244.666666667 86.6666666667 254 76 c 1
+ 264 63.3333333333 277 57 293 57 c 0x89f980
+ 309 57 321.666666667 63 331 75 c 0
+ 340.333333333 87 345 101 345 117 c 0
+EndSplineSet
+LCarets2: 1 0 
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC1
+EndChar
+
+StartChar: ssu
+Encoding: 235 -1 235
+Width: 1293
+Flags: W
+HStem: -7 67<190.785 284.161 597.113 682.295> 142 71<1081.83 1189.09> 361 79<769 1005 1081.72 1189.79> 370 69<379 506 579 697>
+VStem: 101 73<77.6406 439> 307 72<82.9688 370> 506 73<90.7832 370> 697 72<79.08 361> 987 71<236.831 344.522> 1213 72<236.831 344.623>
+LayerCount: 2
+Fore
+SplineSet
+1285 291 m 0xefc0
+ 1285 249.666992188 1270.5 214.5 1241.5 185.5 c 0
+ 1212.5 156.5 1177.33300781 142 1136 142 c 0
+ 1094.66699219 142 1059.5 156.5 1030.5 185.5 c 0
+ 1001.5 214.5 987 249.666992188 987 291 c 0
+ 987 315.666992188 993 339 1005 361 c 1
+ 769 361 l 1
+ 769 440 l 1
+ 1136 440 l 2
+ 1177.33300781 440 1212.5 425.333007812 1241.5 396 c 0
+ 1270.5 366.666992188 1285 331.666992188 1285 291 c 0xefc0
+1213 291 m 0
+ 1213 312.333007812 1205.5 330.5 1190.5 345.5 c 0
+ 1175.5 360.5 1157.33300781 368 1136 368 c 0
+ 1114.66699219 368 1096.33300781 360.5 1081 345.5 c 0
+ 1065.66699219 330.5 1058 312.333007812 1058 291 c 0
+ 1058 269.666992188 1065.66699219 251.333007812 1081 236 c 0
+ 1096.33300781 220.666992188 1114.66699219 213 1136 213 c 0
+ 1157.33300781 213 1175.5 220.666992188 1190.5 236 c 0
+ 1205.5 251.333007812 1213 269.666992188 1213 291 c 0
+769 115 m 2
+ 769 79.6666666667 756.5 50.5 731.5 27.5 c 0
+ 706.5 4.5 676 -7 640 -7 c 0
+ 600.666666667 -7 568.5 6 543.5 32 c 0
+ 518.5 58 506 90.6666666667 506 130 c 2
+ 506 370 l 1
+ 379 370 l 1
+ 379 130 l 2
+ 379 90.6666666667 365.5 58 338.5 32 c 0
+ 311.5 6 278.333333333 -7 239 -7 c 0
+ 202.333333333 -7 170.666666667 4 144 26 c 0
+ 115.333333333 50 101 79.6666666667 101 115 c 2
+ 101 439 l 1
+ 174 439 l 1
+ 174 123 l 2
+ 174 105.666666667 180.833333333 90.8333333333 194.5 78.5 c 0
+ 208.166666667 66.1666666667 223.666666667 60 241 60 c 0
+ 261 60 277.333333333 70 290 90 c 0
+ 301.333333333 107.333333333 307 126.666666667 307 148 c 2
+ 307 439 l 1
+ 769 439 l 1xdfc0
+ 769 115 l 2
+697 123 m 2
+ 697 370 l 1
+ 579 370 l 1
+ 579 148 l 2
+ 579 126 583.333333333 106.666666667 592 90 c 1
+ 603.333333333 70 619 60 639 60 c 0
+ 656.333333333 60 670.333333333 66.1666666667 681 78.5 c 0
+ 691.666666667 90.8333333333 697 105.666666667 697 123 c 2
+EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB6 uni0BC1
+EndChar
+
+StartChar: ssuu
+Encoding: 236 -1 236
+Width: 1637
+Flags: W
+HStem: -7 67<190.785 284.161 597.113 682.295> 19 73<1122.59 1339.65> 162 71<1130.89 1225.99> 370 69<379 506 579 697 771 1038> 639 70<1204.97 1385.34>
+VStem: 101 73<77.6406 439> 307 72<82.9688 370> 506 73<90.7832 370> 697 74<121.697 366> 1038 71<255.28 362 440 538.838> 1245 72<254.351 350.795> 1508 69<265.464 499.066>
+LayerCount: 2
+Fore
+SplineSet
+577 507 m 25,0,-1
+307 439 m 0,1,-1
+ 908 440 673.610351562 439.610351562 908 440 c 17,4,-1
+ 1038 440 l 1,5,-1
+ 1038 516.666992188 1061.83300781 580.666992188 1109.5 632 c 0,8,-1
+ 1157.16699219 683.333007812 1219 709 1295 709 c 0,11,-1
+ 1381 709 1450.33300781 675.333007812 1503 608 c 1,14,-1
+ 1552.33300781 546.666992188 1577 472 1577 384 c 0,17,-1
+ 1577 284 1544.66699219 198.666992188 1480 128 c 0,20,-1
+ 1413.33300781 55.3330078125 1330.66699219 19 1232 19 c 0,23,-1
+ 1140.66699219 19 1062 52.3330078125 996 119 c 1,26,-1
+ 1037 174 l 1,27,-1
+ 1090.33300781 119.333007812 1154.33300781 92 1229 92 c 0,30,-1
+ 1309 92 1375.66699219 121 1429 179 c 1,33,-1
+ 1481.66699219 235 1508 303 1508 383 c 0,36,-1
+ 1508 451 1489.66699219 509.333007812 1453 558 c 0,39,-1
+ 1413 612 1360.33300781 639 1295 639 c 0,42,-1
+ 1239.66699219 639 1194.83300781 619.833007812 1160.5 581.5 c 0,45,-1
+ 1126.16699219 543.166992188 1109 496 1109 440 c 1,48,-1
+ 1188 440 l 2,49,-1
+ 1226.66699219 440 1257.83300781 428 1281.5 404 c 0,52,-1
+ 1305.16699219 380 1317 349 1317 311 c 0,55,-1
+ 1317 269.666992188 1304 234.5 1278 205.5 c 0,58,-1
+ 1252 176.5 1218.66699219 162 1178 162 c 0,61,-1
+ 1138 162 1104.66699219 177.5 1078 208.5 c 0,64,-1
+ 1051.33300781 239.5 1038 275.333007812 1038 316 c 2,67,-1
+ 1038 366 l 1,68,-1
+ 771 366 l 4,69,-1
+ 764.830078125 105 771 115 771 115 c 17,72,-1
+ 760.385742188 86.341796875 753.896491303 48.1047719989 731.5 27.5 c 0,75,-1
+ 706.5 4.5 676 -7 640 -7 c 0,78,-1
+ 600.666666667 -7 568.5 6 543.5 32 c 0,81,-1
+ 518.5 58 506 90.6666666667 506 130 c 2,84,-1
+ 506 370 l 1,85,-1
+ 379 370 l 1,86,-1
+ 379 130 l 2,87,-1
+ 379 90.6666666667 365.5 58 338.5 32 c 0,90,-1
+ 311.5 6 278.333333333 -7 239 -7 c 0,93,-1
+ 202.333333333 -7 170.666666667 4 144 26 c 0,96,-1
+ 115.333333333 50 101 79.6666666667 101 115 c 2,99,-1
+ 101 439 l 1,100,-1
+ 174 439 l 1,101,-1
+ 174 123 l 2,102,-1
+ 174 105.666666667 180.833333333 90.8333333333 194.5 78.5 c 0,105,-1
+ 208.166666667 66.1666666667 223.666666667 60 241 60 c 0,108,-1
+ 261 60 277.333333333 70 290 90 c 0,111,-1
+ 301.333333333 107.333333333 307 126.666992188 307 148 c 2,114,-1
+ 307 439 l 0,1,-1
+1245 311 m 0,115,-1
+ 1245 345 1219.33300781 362 1168 362 c 2,118,-1
+ 1109 362 l 1,119,-1
+ 1109 316 l 2,120,-1
+ 1109 294.666992188 1115 276 1127 260 c 0,123,-1
+ 1140.33300781 242 1157.33300781 233 1178 233 c 256,126,-1
+ 1198.66699219 233 1215 240.666992188 1227 256 c 0,129,-1
+ 1239 271.333007812 1245 289.666992188 1245 311 c 0,115,-1
+697 123 m 2,132,-1
+ 697 370 l 1,133,-1
+ 579 370 l 1,134,-1
+ 579 148 l 2,135,-1
+ 579 126 583.333333333 106.666666667 592 90 c 1,138,-1
+ 603.333333333 70 619 60 639 60 c 0,141,-1
+ 656.333333333 60 670.333333333 66.1666666667 681 78.5 c 0,144,-1
+ 691.666666667 90.8333333333 697 105.666666667 697 123 c 2,132,-1
+EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB6 uni0BC2
 EndChar
 EndChars
 EndSplineFont
