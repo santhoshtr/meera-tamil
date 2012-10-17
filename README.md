@@ -1,6 +1,11 @@
 Meera Tamil Font
 ================
 
+A free licensed font *in developement* for Tamil.
+
+
+[Download ](https://github.com/santhoshtr/meera-tamil/raw/master/MeeraTamil.ttf) latest version in development
+
 Design
 ------
 
