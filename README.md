@@ -8,7 +8,7 @@ A free licensed font for Tamil.
 
 Sample text rendered using Meera Tamil
 
-![Wikipedia Article about Tamil rendered using Meera Tamil](http://thottingal.in/images/MeeraTamil.png "Wikipedia Article about Tamil rendered using Meera Tamil")
+![Wikipedia Article about Tamil rendered using Meera Tamil](http://thottingal.in/fonts/MeeraTamil/samples/MeeraTamil-Wiki-2.png "Wikipedia Article about Tamil rendered using Meera Tamil")
 
 Design
 ------
