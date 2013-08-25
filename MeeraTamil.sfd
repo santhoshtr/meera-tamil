@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339233494
-ModificationTime: 1377423433
+ModificationTime: 1377424866
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,13 +47,13 @@ LangName: 1033
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -72
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 84 21 8
+WinInfo: 0 32 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 241 241
+BeginChars: 245 245
 
 StartChar: uni0B85
 Encoding: 44 2949 0
@@ -14101,7 +14101,7 @@ StartChar: ZWJ
 Encoding: 239 8205 239
 Width: 2048
 VWidth: 2048
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -14201,6 +14201,99 @@ EndSplineSet
 LCarets2: 3 0 0 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0-1" uni0BB8 uni0BCD uni0BB0 uni0BC0
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0-1" s uni0BB0 uni0BC0
+EndChar
+
+StartChar: quoteleft
+Encoding: 241 8216 241
+Width: 169
+Flags: HW
+HStem: 534 191<94 130 211 245>
+VStem: 92 38<534 558.576> 208 37<534 558.576>
+LayerCount: 2
+Fore
+SplineSet
+89 534 m 1
+ 90 556 91 584 94 618 c 1
+ 96 625 99 637 104 653 c 2
+ 125 725 l 1
+ 163 725 l 1
+ 166 618 l 257
+ 166 618 166 618 161 534 c 1
+ 89 534 l 1
+EndSplineSet
+EndChar
+
+StartChar: NameMe.242
+Encoding: 242 8217 242
+Width: 169
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+166 725 m 1
+ 165 703 164 675 161 641 c 1
+ 159 634 156 622 151 606 c 2
+ 130 534 l 1
+ 92 534 l 1
+ 89 641 l 257
+ 89 641 89 641 94 725 c 1
+ 166 725 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft
+Encoding: 243 8220 243
+Width: 343
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+89 534 m 5
+ 90 557 91 585 94 618 c 5
+ 96 625 100 637 105 653 c 6
+ 126 725 l 5
+ 163 725 l 5
+ 165 618 l 261
+ 165 618 165 618 160 534 c 5
+ 89 534 l 5
+205 534 m 5
+ 206 556 207 584 210 618 c 5
+ 212 625 215 637 220 653 c 6
+ 241 725 l 5
+ 279 725 l 5
+ 282 618 l 261
+ 282 618 282 618 277 534 c 5
+ 205 534 l 5
+EndSplineSet
+EndChar
+
+StartChar: quotedblright
+Encoding: 244 8221 244
+Width: 327
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+282 725 m 1
+ 281 702 280 674 277 641 c 1
+ 275 634 271 622 266 606 c 2
+ 245 534 l 1
+ 208 534 l 1
+ 206 641 l 257
+ 206 641 206 641 211 725 c 1
+ 282 725 l 1
+166 725 m 1
+ 165 703 164 675 161 641 c 1
+ 159 634 156 622 151 606 c 2
+ 130 534 l 1
+ 92 534 l 1
+ 89 641 l 257
+ 89 641 89 641 94 725 c 1
+ 166 725 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
