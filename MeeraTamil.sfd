@@ -5,7 +5,7 @@ FamilyName: Meera Tamil
 Weight: Medium
 Copyright: Copyright 2012 Meera Tamil project contributors.\n\nDesigned by Hussain KH (Typography), Santhosh Thottingal (Featuring), Anilan NG (Calligraphy) and AKM Kutty (Linguistics).\n\nDedicated to Wikipedia and Tamil People (Tamil Pesum Nallulakam).\n\nLicensed under the SIL Open Font License 1.1 (see file OFL.txt)
 UComments: "2012-6-9: Created." 
-Version: 0.01alpha2
+Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 102
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339233494
-ModificationTime: 1377427660
+ModificationTime: 1377429128
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,7 +37,6 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "'akhn' Akhand in Tamil lookup 1"  {"'akhn' Akhand in Tamil lookup 1-1"  } ['akhn' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'half' form Substitution lookup 5"  {"'half' form Substitution lookup 5-1"  } ['half' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions in Tamil lookup 3"  {"'blws' Below Base Substitutions in Tamil lookup 3-1"  } ['blws' ('taml' <'dflt' > ) ]
 Lookup: 4 2 0 "'abvs' Above Base Substitutions in Tamil lookup 0"  {"'abvs' Above Base Substitutions in Tamil lookup 0-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 6"  {"'psts' Post Base Substitutions lookup 6-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Tamil lookup 4"  {"'haln' Halant Forms in Tamil lookup 4-1"  } ['haln' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
@@ -4304,6 +4303,7 @@ SplineSet
  512 148 572 128 636 128 c 0
  776 128 848 188 856 312 c 1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9A uni0BCD
 Ligature2: "'half' form Substitution lookup 5-1" uni0B9A uni0BCD
 EndChar
@@ -12427,7 +12427,7 @@ Encoding: 0 32 191
 Width: 600
 VWidth: 0
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 LayerCount: 2
 EndChar
 
