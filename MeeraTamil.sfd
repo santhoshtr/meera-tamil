@@ -44,17 +44,18 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
 Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
-FitToEm: 0
+FitToEm: 1
 WinInfo: 0 27 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 247 247
+BeginChars: 247 244
 
-StartChar: uni0B85
+StartChar: ta_a
 Encoding: 44 2949 0
 Width: 2446
 VWidth: 2096
@@ -111,7 +112,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B86
+StartChar: ta_aa
 Encoding: 45 2950 1
 Width: 3128
 VWidth: 2096
@@ -192,7 +193,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B87
+StartChar: ta_i
 Encoding: 46 2951 2
 Width: 2064
 VWidth: 2096
@@ -268,7 +269,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B88
+StartChar: ta_ii
 Encoding: 47 2952 3
 Width: 1434
 VWidth: 2096
@@ -310,7 +311,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B89
+StartChar: ta_u
 Encoding: 48 2953 4
 Width: 2014
 VWidth: 2096
@@ -359,7 +360,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B8A
+StartChar: ta_uu
 Encoding: 49 2954 5
 Width: 2824
 VWidth: 2096
@@ -442,7 +443,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B8E
+StartChar: ta_e
 Encoding: 50 2958 6
 Width: 1786
 VWidth: 2096
@@ -486,7 +487,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B8F
+StartChar: ta_ee
 Encoding: 51 2959 7
 Width: 1786
 VWidth: 2096
@@ -534,7 +535,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B90
+StartChar: ta_ai
 Encoding: 52 2960 8
 Width: 1788
 VWidth: 2096
@@ -608,7 +609,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B92
+StartChar: ta_o
 Encoding: 53 2962 9
 Width: 1836
 VWidth: 2096
@@ -684,7 +685,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B93
+StartChar: ta_oo
 Encoding: 54 2963 10
 Width: 1836
 VWidth: 2096
@@ -763,7 +764,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B94
+StartChar: ta_au
 Encoding: 55 2964 11
 Width: 3676
 VWidth: 2096
@@ -881,7 +882,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B95
+StartChar: ta_ka
 Encoding: 56 2965 12
 Width: 1484
 VWidth: 2096
@@ -929,7 +930,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B99
+StartChar: ta_nga
 Encoding: 57 2969 13
 Width: 1666
 VWidth: 2096
@@ -971,7 +972,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B9A
+StartChar: ta_cha
 Encoding: 58 2970 14
 Width: 1364
 VWidth: 2096
@@ -1012,7 +1013,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B9C
+StartChar: ta_ja
 Encoding: 59 2972 15
 Width: 1788
 VWidth: 2096
@@ -1089,7 +1090,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B9E
+StartChar: ta_nja
 Encoding: 60 2974 16
 Width: 2292
 VWidth: 2096
@@ -1153,7 +1154,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B9F
+StartChar: ta_ta
 Encoding: 61 2975 17
 Width: 1486
 VWidth: 2096
@@ -1173,22 +1174,22 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BA3
+StartChar: ta_nna
 Encoding: 62 2979 18
 Width: 3118
 VWidth: 2096
-Flags: HW
-HStem: -26 178<546 752 1246 1434 2018 2196> -2 50G<2602 2782> 432 156<548 746> 914 168<2248 2602 2782 3118> 944 164<660 1146 1504 1952>
-VStem: 200 170<272 692> 404 112<272 398> 774 168<168 406> 1030 170<190 676> 1478 182<190 650> 1804 172<188 672> 2238 184<186 672> 2602 180<-2 914>
+Flags: W
+HStem: -26 178<548.428 742.086 1249.83 1428.95 2023.16 2190.1> 432 156<550.794 737.185> 914 168<2253.09 2602 2782 3118> 944 162<683.323 1120.8 1520.28 1933.99>
+VStem: 200 170<286.697 673.175> 404 114<273.54 392.962> 774 168<180.708 391.717> 1030 172<200.342 661.1> 1478 182<203.797 627.888> 1804 172<198.183 657.418> 2238 184<198.154 649.927> 2602 180<-2 914>
 LayerCount: 2
 Fore
 SplineSet
-3118 914 m 1x37f8
+3118 914 m 1xeff0
  2782 914 l 1
  2782 -2 l 1
  2602 -2 l 1
  2602 914 l 1
- 2394 914 l 2x77f8
+ 2394 914 l 2xeff0
  2332 914 2282 898 2246 866 c 1
  2364 738 2422 588 2422 406 c 0
  2422 118 2326 -26 2126 -26 c 0
@@ -1219,16 +1220,16 @@ SplineSet
  200 664 268 818 404 936 c 1
  536 1046 702 1104 904 1104 c 0
  1056 1104 1192 1064 1314 984 c 1
- 1436 1066 1566 1106 1706 1106 c 0xaff8
+ 1436 1066 1566 1106 1706 1106 c 0xdff0
  1852 1106 1986 1068 2104 988 c 1
  2106 988 l 1
  2188 1050 2284 1082 2394 1082 c 2
  3118 1082 l 1
- 3118 914 l 1x37f8
+ 3118 914 l 1xeff0
 2238 418 m 0
  2238 570 2194 692 2110 780 c 1
  2018 700 1976 582 1976 418 c 0
- 1976 240 2018 152 2110 152 c 0xa7f8
+ 1976 240 2018 152 2110 152 c 0
  2194 152 2238 240 2238 418 c 0
 1478 418 m 0
  1478 554 1428 676 1330 780 c 1
@@ -1247,7 +1248,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BA4
+StartChar: ta_tha
 Encoding: 63 2980 19
 Width: 1516
 VWidth: 2096
@@ -1304,7 +1305,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BA8
+StartChar: ta_na
 Encoding: 64 2984 20
 Width: 1424
 VWidth: 2096
@@ -1349,7 +1350,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BA9
+StartChar: ta_nnna
 Encoding: 65 2985 21
 Width: 2260
 VWidth: 2096
@@ -1410,7 +1411,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BAA
+StartChar: ta_pa
 Encoding: 66 2986 22
 Width: 1396
 VWidth: 2096
@@ -1432,7 +1433,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BAE
+StartChar: ta_ma
 Encoding: 67 2990 23
 Width: 1690
 VWidth: 2096
@@ -1466,7 +1467,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BAF
+StartChar: ta_ya
 Encoding: 68 2991 24
 Width: 1480
 VWidth: 2096
@@ -1498,7 +1499,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB0
+StartChar: ta_ra
 Encoding: 69 2992 25
 Width: 1262
 VWidth: 2096
@@ -1526,7 +1527,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB1
+StartChar: ta_rra
 Encoding: 70 2993 26
 Width: 1500
 VWidth: 2096
@@ -1573,7 +1574,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB2
+StartChar: ta_la
 Encoding: 71 2994 27
 Width: 1868
 VWidth: 2096
@@ -1627,7 +1628,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB3
+StartChar: ta_lla
 Encoding: 72 2995 28
 Width: 2082
 VWidth: 2096
@@ -1678,7 +1679,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB4
+StartChar: ta_zha
 Encoding: 73 2996 29
 Width: 1720
 VWidth: 2096
@@ -1736,7 +1737,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB5
+StartChar: ta_va
 Encoding: 74 2997 30
 Width: 1938
 VWidth: 2096
@@ -1785,7 +1786,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB6
+StartChar: ta_ssa
 Encoding: 75 2998 31
 Width: 1804
 Flags: HW
@@ -1827,7 +1828,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB7
+StartChar: ta_sha
 Encoding: 76 2999 32
 Width: 2538
 VWidth: 2096
@@ -1902,7 +1903,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB8
+StartChar: ta_sa
 Encoding: 77 3000 33
 Width: 2334
 VWidth: 2096
@@ -1964,7 +1965,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BB9
+StartChar: ta_ha
 Encoding: 78 3001 34
 Width: 2876
 VWidth: 2096
@@ -2042,7 +2043,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BBE
+StartChar: ta_aa_sign
 Encoding: 79 3006 35
 Width: 1176
 Flags: HW
@@ -2069,7 +2070,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BBF
+StartChar: ta_i_sign
 Encoding: 80 3007 36
 Width: 1128
 Flags: HW
@@ -2096,7 +2097,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BC0
+StartChar: ta_ii_sign
 Encoding: 81 3008 37
 Width: 1016
 Flags: W
@@ -2135,39 +2136,39 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BC1
+StartChar: ta_u_sign
 Encoding: 82 3009 38
 Width: 1438
-Flags: HW
-HStem: -556 638<-474 -282>
-VStem: -476 194<-556 82>
+Flags: W
+HStem: 362 170<961.349 1199.04> 888 190<200 766> 904 174<958.336 1201.66>
+VStem: 724 170<598.053 838.896> 1266 172<598.053 838.135>
 LayerCount: 2
 Fore
 SplineSet
-1438 720 m 0x15f980
+1438 720 m 0xb8
  1438 620 1404 536 1334 466 c 0
  1264 396 1180 362 1080 362 c 0
  980 362 898 396 828 466 c 0
  758 536 724 620 724 720 c 0
  724 780 738 836 766 888 c 1
  200 888 l 1
- 200 1078 l 1
+ 200 1078 l 1xd8
  1080 1078 l 2
  1180 1078 1264 1042 1334 972 c 0
- 1404 902 1438 818 1438 720 c 0x15f980
+ 1404 902 1438 818 1438 720 c 0xb8
 1266 720 m 0
  1266 772 1248 814 1212 850 c 0
- 1176 886 1132 904 1080 904 c 0
+ 1176 886 1132 904 1080 904 c 0xb8
  1028 904 984 886 948 850 c 0
  912 814 894 772 894 720 c 0
  894 668 912 624 948 588 c 0
- 984 552 1028 532 1080 532 c 0x11f980
+ 984 552 1028 532 1080 532 c 0
  1132 532 1176 552 1212 588 c 0
  1248 624 1266 668 1266 720 c 0
 EndSplineSet
 EndChar
 
-StartChar: uni0BC2
+StartChar: ta_uu_sign
 Encoding: 83 3010 39
 Width: 2194
 Flags: HW
@@ -2214,7 +2215,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BC6
+StartChar: ta_e_sign
 Encoding: 84 3014 40
 Width: 1588
 Flags: HW
@@ -2258,7 +2259,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BC7
+StartChar: ta_ee_sign
 Encoding: 85 3015 41
 Width: 1492
 Flags: HW
@@ -2312,7 +2313,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BC8
+StartChar: ta_ai_sign
 Encoding: 86 3016 42
 Width: 2024
 Flags: HW
@@ -2370,7 +2371,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BCA
+StartChar: ta_o_sign
 Encoding: 87 3018 43
 Width: 3728
 GlyphClass: 2
@@ -2466,7 +2467,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B82
+StartChar: ta_anuswara
 Encoding: 42 2946 44
 Width: 1206
 Flags: HW
@@ -2536,7 +2537,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B83
+StartChar: ta_visarga
 Encoding: 43 2947 45
 Width: 1710
 Flags: HW
@@ -2602,7 +2603,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BCB
+StartChar: ta_oo_sign
 Encoding: 88 3019 46
 Width: 3616
 Flags: HW
@@ -2707,7 +2708,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BCC
+StartChar: ta_au_sign
 Encoding: 89 3020 47
 Width: 4178
 Flags: HW
@@ -2825,7 +2826,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BCD
+StartChar: ta_virama
 Encoding: 90 3021 48
 Width: 524
 GlyphClass: 2
@@ -2847,7 +2848,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BE6
+StartChar: ta_zero
 Encoding: 93 3046 49
 Width: 1064
 Flags: HW
@@ -2877,7 +2878,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BE7
+StartChar: ta_one
 Encoding: 94 3047 50
 Width: 1464
 Flags: HW
@@ -2927,7 +2928,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BE8
+StartChar: ta_two
 Encoding: 95 3048 51
 Width: 1348
 Flags: HW
@@ -2969,7 +2970,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BE9
+StartChar: ta_three
 Encoding: 96 3049 52
 Width: 1484
 Flags: HW
@@ -3007,7 +3008,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BEA
+StartChar: ta_four
 Encoding: 97 3050 53
 Width: 1508
 Flags: HW
@@ -3051,7 +3052,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BEB
+StartChar: ta_five
 Encoding: 98 3051 54
 Width: 1604
 Flags: HW
@@ -3094,7 +3095,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BEC
+StartChar: ta_six
 Encoding: 99 3052 55
 Width: 1846
 Flags: HW
@@ -3146,7 +3147,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BED
+StartChar: ta_seven
 Encoding: 100 3053 56
 Width: 1498
 Flags: HW
@@ -3189,7 +3190,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BEE
+StartChar: ta_eight
 Encoding: 101 3054 57
 Width: 2240
 Flags: HW
@@ -3238,7 +3239,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BEF
+StartChar: ta_nine
 Encoding: 102 3055 58
 Width: 1904
 Flags: HW
@@ -3302,7 +3303,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF0
+StartChar: ta_ten
 Encoding: 103 3056 59
 Width: 1590
 Flags: HW
@@ -3341,7 +3342,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF1
+StartChar: ta_hundred
 Encoding: 104 3057 60
 Width: 1822
 Flags: HW
@@ -3376,7 +3377,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF2
+StartChar: ta_thousand
 Encoding: 105 3058 61
 Width: 2112
 Flags: HW
@@ -3451,7 +3452,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF3
+StartChar: ta_day_sign
 Encoding: 106 3059 62
 Width: 1668
 Flags: HW
@@ -3491,7 +3492,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF4
+StartChar: ta_month_sign
 Encoding: 107 3060 63
 Width: 2392
 Flags: HW
@@ -3557,7 +3558,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF5
+StartChar: ta_year_sign
 Encoding: 108 3061 64
 Width: 4176
 Flags: HW
@@ -3649,7 +3650,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF6
+StartChar: ta_debit_sign
 Encoding: 109 3062 65
 Width: 1430
 Flags: HW
@@ -3695,7 +3696,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF7
+StartChar: ta_credit_sign
 Encoding: 110 3063 66
 Width: 2210
 Flags: HW
@@ -3768,7 +3769,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF8
+StartChar: ta_as_above
 Encoding: 111 3064 67
 Width: 3398
 Flags: HW
@@ -3864,7 +3865,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BF9
+StartChar: ta_rupee
 Encoding: 112 3065 68
 Width: 2910
 Flags: HW
@@ -3925,7 +3926,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BFA
+StartChar: ta_number_sign
 Encoding: 113 3066 69
 Width: 2438
 Flags: HW
@@ -3996,7 +3997,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BD7
+StartChar: ta_au_short_sign
 Encoding: 92 3031 70
 Width: 1616
 Flags: HW
@@ -4042,7 +4043,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0BD0
+StartChar: ta_om
 Encoding: 91 3024 71
 Width: 1796
 Flags: HW
@@ -4143,7 +4144,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: k
+StartChar: ta_k
 Encoding: 115 -1 72
 Width: 1452
 GlyphClass: 2
@@ -4198,12 +4199,11 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 190 868 312 c 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B95 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0B95 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ka ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ka ta_virama
 EndChar
 
-StartChar: ng
+StartChar: ta_ng
 Encoding: 116 -1 73
 Width: 1630
 Flags: HW
@@ -4251,12 +4251,11 @@ SplineSet
  1630 1048 l 1
  1630 0 l 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B99 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0B99 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_nga ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nga ta_virama
 EndChar
 
-StartChar: ch
+StartChar: ta_ch
 Encoding: 117 -1 74
 Width: 1334
 Flags: HW
@@ -4303,12 +4302,11 @@ SplineSet
  512 148 572 128 636 128 c 0
  776 128 848 188 856 312 c 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9A uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0B9A uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_cha ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_cha ta_virama
 EndChar
 
-StartChar: j
+StartChar: ta_j
 Encoding: 118 -1 75
 Width: 1750
 Flags: HW
@@ -4391,11 +4389,11 @@ SplineSet
  512 520 536 530 556 548 c 0
  576 566 586 592 586 622 c 0
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9C uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0B9C uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ja ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ja ta_virama
 EndChar
 
-StartChar: nj
+StartChar: ta_nj
 Encoding: 119 -1 76
 Width: 2240
 Flags: HW
@@ -4465,11 +4463,11 @@ SplineSet
  1040 136 1070 152 1094 180 c 0
  1118 208 1128 242 1128 280 c 256
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9E uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0B9E uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_nja ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nja ta_virama
 EndChar
 
-StartChar: t
+StartChar: ta_t
 Encoding: 120 -1 77
 Width: 1482
 Flags: HW
@@ -4495,11 +4493,11 @@ SplineSet
  1482 166 l 1
  1482 -2 l 1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0B9F uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0B9F uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ta ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ta ta_virama
 EndChar
 
-StartChar: nnn
+StartChar: ta_nnn
 Encoding: 121 -1 78
 Width: 3048
 Flags: HW
@@ -4579,11 +4577,11 @@ SplineSet
  670 136 700 152 724 180 c 0
  748 208 758 242 758 280 c 256
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" uni0BA3 uni0BCD
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA3 uni0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nna ta_virama
+Ligature2: "'half' form Substitution lookup 5-1" ta_nna ta_virama
 EndChar
 
-StartChar: th
+StartChar: ta_th
 Encoding: 122 -1 79
 Width: 1486
 Flags: HW
@@ -4646,11 +4644,11 @@ SplineSet
  540 148 600 128 664 128 c 0
  804 128 876 188 886 312 c 1
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" uni0BA4 uni0BCD
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA4 uni0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_tha ta_virama
+Ligature2: "'half' form Substitution lookup 5-1" ta_tha ta_virama
 EndChar
 
-StartChar: n
+StartChar: ta_n
 Encoding: 123 -1 80
 Width: 1396
 Flags: HW
@@ -4701,11 +4699,11 @@ SplineSet
  1134 656 1226 606 1298 508 c 0
  1364 418 1396 318 1396 202 c 0
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA8 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BA8 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_na ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_na ta_virama
 EndChar
 
-StartChar: nn
+StartChar: ta_nn
 Encoding: 124 -1 81
 Width: 2208
 Flags: HW
@@ -4770,11 +4768,11 @@ SplineSet
  670 136 700 152 724 180 c 0
  748 208 758 242 758 280 c 256
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" uni0BA9 uni0BCD
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BA9 uni0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nnna ta_virama
+Ligature2: "'half' form Substitution lookup 5-1" ta_nnna ta_virama
 EndChar
 
-StartChar: p
+StartChar: ta_p
 Encoding: 125 -1 82
 Width: 1370
 Flags: HW
@@ -4802,12 +4800,11 @@ SplineSet
  1370 1056 l 1
  1370 -2 l 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAA uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BAA uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_pa ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_pa ta_virama
 EndChar
 
-StartChar: m
+StartChar: ta_m
 Encoding: 126 -1 83
 Width: 1656
 Flags: HW
@@ -4847,11 +4844,11 @@ SplineSet
  1276 172 l 2
  1400 172 1460 256 1460 420 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" uni0BAE uni0BCD
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAE uni0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ma ta_virama
+Ligature2: "'half' form Substitution lookup 5-1" ta_ma ta_virama
 EndChar
 
-StartChar: y
+StartChar: ta_y
 Encoding: 127 -1 84
 Width: 1450
 Flags: HW
@@ -4889,12 +4886,11 @@ SplineSet
  1450 1054 l 1
  1450 -8 l 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BAF uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BAF uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ya ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ya ta_virama
 EndChar
 
-StartChar: r
+StartChar: ta_r
 Encoding: 128 -1 85
 Width: 1238
 Flags: HW
@@ -4929,11 +4925,11 @@ SplineSet
  1238 1058 l 1
  1238 892 l 1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB0 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB0 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ra ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ra ta_virama
 EndChar
 
-StartChar: rr
+StartChar: ta_rr
 Encoding: 129 -1 86
 Width: 1470
 Flags: HW
@@ -4986,12 +4982,11 @@ SplineSet
  1194 1082 1306 1010 1380 864 c 0
  1440 750 1470 610 1470 442 c 0
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB1 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB1 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_rra ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_rra ta_virama
 EndChar
 
-StartChar: l
+StartChar: ta_l
 Encoding: 130 -1 87
 Width: 1826
 Flags: HW
@@ -5051,12 +5046,11 @@ SplineSet
  696 136 726 152 750 180 c 0
  774 208 784 242 784 280 c 256
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB2 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB2 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_la ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_la ta_virama
 EndChar
 
-StartChar: ll
+StartChar: ta_ll
 Encoding: 131 -1 88
 Width: 2036
 Flags: HW
@@ -5113,12 +5107,11 @@ SplineSet
  696 136 726 152 750 180 c 0
  774 208 784 242 784 280 c 256
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB3 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB3 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_lla ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_lla ta_virama
 EndChar
 
-StartChar: zh
+StartChar: ta_zh
 Encoding: 132 -1 89
 Width: 1684
 Flags: HW
@@ -5181,12 +5174,11 @@ SplineSet
  1304 172 l 2
  1428 172 1488 256 1488 420 c 0
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB4 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB4 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_zha ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_zha ta_virama
 EndChar
 
-StartChar: v
+StartChar: ta_v
 Encoding: 133 -1 90
 Width: 1896
 Flags: HW
@@ -5241,12 +5233,11 @@ SplineSet
  702 136 732 152 754 180 c 4
  776 208 788 242 788 280 c 4
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB5 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB5 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_va ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_va ta_virama
 EndChar
 
-StartChar: sh
+StartChar: ta_sh
 Encoding: 134 -1 91
 Width: 2482
 Flags: HW
@@ -5327,11 +5318,11 @@ SplineSet
  702 136 732 152 754 182 c 1
  776 208 788 240 788 280 c 256
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB7 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB7 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_sha ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_sha ta_virama
 EndChar
 
-StartChar: s
+StartChar: ta_s
 Encoding: 135 -1 92
 Width: 2284
 Flags: W
@@ -5399,11 +5390,11 @@ SplineSet
  700 136 732 152 756 182 c 0
  776 208 786 240 786 280 c 256
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB8 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB8 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_sa ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_sa ta_virama
 EndChar
 
-StartChar: h
+StartChar: ta_h
 Encoding: 136 -1 93
 Width: 2814
 Flags: HW
@@ -5487,11 +5478,11 @@ SplineSet
  726 136 756 152 778 182 c 1
  800 208 812 240 812 280 c 256
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB9 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB9 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ha ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ha ta_virama
 EndChar
 
-StartChar: ksh
+StartChar: ta_ksh
 Encoding: 137 -1 94
 Width: 3146
 Flags: HW
@@ -5596,11 +5587,11 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1xa9f880
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ksha uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" ksha uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ksha ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ksha ta_virama
 EndChar
 
-StartChar: ksha
+StartChar: ta_ksha
 Encoding: 138 -1 95
 Width: 3220
 VWidth: 2096
@@ -5697,218 +5688,11 @@ SplineSet
  532 152 596 130 660 130 c 0
  802 130 878 192 886 320 c 1xa9fe
 EndSplineSet
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0B95 uni0BCD uni0BB7
+Ligature2: "'akhn' Akhand in Tamil lookup 1-1" ta_ka ta_virama ta_sha
 EndChar
 
-StartChar: NameMe.191.1
-Encoding: 139 -1 96
-Width: 2550
-VWidth: 2096
-Flags: HW
-HStem: -634 168<996 1796> -26 166<934 1128 1636 1808> 432 156<932 1128> 938 166<1030 1562 1860 2162>
-VStem: 200 168<106 720> 584 170<272 694> 788 110<272 396> 1158 166<168 406> 1412 172<188 678> 1860 180<192 688> 2382 168<78 690>
-LayerCount: 2
-Fore
-SplineSet
-2550 422 m 0
- 2550 86 2452 -174 2252 -358 c 0
- 2052 -542 1772 -634 1412 -634 c 0
- 1024 -634 722 -538 514 -346 c 1
- 306 -158 200 104 200 444 c 0
- 200 676 276 898 428 1104 c 1
- 588 1024 l 1
- 442 820 368 626 368 444 c 0
- 368 156 460 -68 642 -226 c 0
- 824 -384 1078 -466 1412 -466 c 0
- 1716 -466 1954 -386 2124 -232 c 0
- 2294 -78 2382 138 2382 422 c 0
- 2382 554 2350 670 2286 766 c 0
- 2214 874 2114 928 1990 928 c 0
- 1932 928 1890 922 1858 902 c 1
- 1980 784 2040 620 2040 406 c 0
- 2040 288 2020 190 1980 116 c 1
- 1924 20 1844 -26 1734 -26 c 0
- 1622 -26 1538 24 1482 128 c 0
- 1436 210 1412 310 1412 432 c 0
- 1412 614 1464 768 1564 886 c 1
- 1478 922 1384 938 1288 938 c 0
- 1146 938 1022 898 918 818 c 0
- 808 734 754 622 754 482 c 0
- 754 396 768 328 802 272 c 1
- 792 300 788 324 788 346 c 0
- 788 416 812 474 860 520 c 0
- 908 566 970 588 1040 588 c 0
- 1124 588 1194 556 1246 496 c 0
- 1298 436 1324 364 1324 278 c 0
- 1324 186 1298 116 1240 58 c 0
- 1182 0 1108 -26 1016 -26 c 0
- 884 -26 778 22 696 122 c 0
- 622 214 584 330 584 464 c 0
- 584 664 652 818 788 936 c 1
- 920 1046 1086 1104 1288 1104 c 0
- 1460 1104 1598 1068 1698 998 c 1
- 1774 1068 1872 1104 1984 1104 c 0
- 2162 1104 2302 1036 2408 896 c 1
- 2504 768 2550 610 2550 422 c 0
-1860 418 m 0
- 1860 608 1810 732 1714 794 c 1
- 1628 698 1584 574 1584 418 c 0
- 1584 240 1628 152 1720 152 c 0
- 1814 152 1860 240 1860 418 c 0
-1158 288 m 256
- 1158 326 1146 360 1122 388 c 0
- 1098 416 1068 432 1030 432 c 0
- 992 432 958 416 934 388 c 0
- 910 360 898 326 898 288 c 256
- 898 250 910 212 934 184 c 0
- 958 156 992 140 1030 140 c 0
- 1068 140 1098 156 1122 184 c 0
- 1146 212 1158 250 1158 288 c 256
-EndSplineSet
-EndChar
-
-StartChar: NameMe.192.1
-Encoding: 140 -1 97
-Width: 3232
-VWidth: 2096
-Flags: HW
-HStem: -624 156<1266 2236> -26 178<884 1088 1584 1770 2378 2564> 432 156<888 1082> 932 172<974 1504 1836 2298 2578 2870>
-VStem: 200 176<176 806> 540 168<274 688> 744 110<272 396> 1112 168<168 406> 1368 172<188 654> 1814 182<188 650> 2150 172<204 680> 2604 170<188 640> 3058 176<166 712>
-LayerCount: 2
-Fore
-SplineSet
-3232 470 m 0
- 3232 106 3074 -178 2762 -374 c 0
- 2496 -542 2170 -624 1774 -624 c 0
- 1364 -624 1014 -544 724 -384 c 0
- 376 -190 200 88 200 448 c 0
- 200 692 252 914 356 1104 c 1
- 520 1030 l 1
- 424 848 374 656 374 456 c 0
- 374 144 534 -98 854 -266 c 1
- 1114 -400 1416 -468 1764 -468 c 0
- 2102 -468 2390 -398 2628 -262 c 1
- 2914 -94 3058 152 3058 466 c 0
- 3058 586 3026 690 2966 778 c 0
- 2896 882 2804 932 2688 932 c 0
- 2654 932 2620 922 2576 900 c 1
- 2708 752 2774 586 2774 406 c 0
- 2774 290 2754 192 2710 116 c 0
- 2654 20 2574 -26 2464 -26 c 0
- 2354 -26 2272 24 2216 128 c 0
- 2172 208 2150 308 2150 430 c 0
- 2150 600 2202 750 2302 880 c 1
- 2232 914 2156 932 2072 932 c 256
- 1988 932 1898 910 1810 866 c 1
- 1934 734 1996 582 1996 406 c 0
- 1996 290 1976 192 1932 116 c 0
- 1880 20 1800 -26 1690 -26 c 0
- 1580 -26 1494 24 1436 128 c 0
- 1390 212 1368 312 1368 432 c 0
- 1368 590 1424 734 1536 862 c 1
- 1442 912 1348 938 1244 938 c 0
- 1102 938 976 898 876 818 c 0
- 766 732 708 618 708 482 c 0
- 708 398 724 330 758 272 c 1
- 748 296 744 320 744 346 c 0
- 744 416 768 472 816 518 c 0
- 864 564 924 588 994 588 c 0
- 1078 588 1148 556 1200 496 c 0
- 1252 436 1280 362 1280 278 c 0
- 1280 190 1250 118 1192 60 c 0
- 1134 2 1060 -26 972 -26 c 0
- 840 -26 734 22 652 122 c 0
- 578 216 540 332 540 464 c 0
- 540 664 610 818 746 936 c 0
- 876 1046 1042 1104 1244 1104 c 0
- 1404 1104 1544 1064 1666 980 c 1
- 1790 1064 1914 1106 2042 1106 c 0
- 2174 1106 2302 1072 2424 1008 c 1
- 2508 1072 2596 1104 2688 1104 c 0
- 2856 1104 2990 1036 3094 904 c 0
- 3188 782 3232 638 3232 470 c 0
-2604 396 m 256
- 2604 560 2548 686 2440 782 c 1
- 2360 686 2324 570 2324 436 c 0
- 2324 372 2330 314 2350 262 c 0
- 2374 190 2412 152 2462 152 c 0
- 2558 152 2604 232 2604 396 c 256
-1814 418 m 0
- 1814 554 1772 670 1680 766 c 1
- 1586 682 1540 566 1540 418 c 0
- 1540 240 1584 152 1676 152 c 0
- 1770 152 1814 240 1814 418 c 0
-1112 288 m 256
- 1112 326 1100 360 1076 388 c 0
- 1052 416 1022 432 984 432 c 0
- 946 432 914 416 890 388 c 0
- 866 360 854 326 854 288 c 256
- 854 250 866 212 890 184 c 0
- 914 156 946 140 984 140 c 0
- 1022 140 1052 156 1076 184 c 0
- 1100 212 1112 250 1112 288 c 256
-EndSplineSet
-EndChar
-
-StartChar: NameMe.193.1
-Encoding: 141 -1 98
-Width: 1838
-VWidth: 2096
-Flags: HW
-HStem: -502 158<786 1436> -2 50G<594 780 1052 1238> 196 140<1504 1638> 480 132<1500 1644> 948 166<826 1006 1296 1622>
-VStem: 200 170<96 800> 594 184<-2 902> 1052 184<-2 886> 1346 154<338 478> 1676 158<-164 160 646 892>
-LayerCount: 2
-Fore
-SplineSet
-1838 754 m 0
- 1838 674 1818 614 1778 566 c 0
- 1730 508 1658 480 1562 480 c 0
- 1522 480 1500 460 1500 416 c 0
- 1500 364 1522 336 1562 336 c 0
- 1654 336 1722 304 1770 236 c 0
- 1814 176 1836 98 1836 2 c 0
- 1836 -152 1770 -272 1636 -364 c 0
- 1502 -456 1324 -502 1104 -502 c 0
- 794 -502 560 -402 402 -206 c 0
- 268 -38 200 182 200 456 c 0
- 200 718 266 936 396 1104 c 1
- 542 1016 l 1
- 430 880 372 688 372 448 c 0
- 372 218 424 38 530 -98 c 0
- 658 -262 846 -344 1108 -344 c 0
- 1280 -344 1420 -312 1524 -250 c 0
- 1628 -188 1676 -106 1676 -2 c 0
- 1676 130 1624 196 1520 196 c 0
- 1464 196 1422 220 1388 266 c 0
- 1360 306 1346 356 1346 416 c 0
- 1346 472 1358 516 1386 554 c 0
- 1414 592 1454 612 1502 612 c 0
- 1620 612 1680 666 1680 772 c 0
- 1680 820 1660 858 1624 892 c 0
- 1580 930 1526 948 1454 948 c 0
- 1394 948 1340 936 1302 908 c 0
- 1258 880 1238 836 1238 780 c 2
- 1238 -2 l 1
- 1052 -2 l 1
- 1052 780 l 2
- 1052 820 1038 856 1012 888 c 0
- 986 920 952 934 912 934 c 0
- 874 934 844 918 818 886 c 0
- 792 854 780 818 780 780 c 2
- 780 -2 l 1
- 594 -2 l 1
- 594 792 l 2
- 594 878 626 954 690 1016 c 0
- 754 1078 830 1108 916 1108 c 0
- 1008 1108 1086 1074 1146 1004 c 1
- 1208 1078 1300 1114 1424 1114 c 0
- 1556 1114 1660 1074 1736 998 c 0
- 1804 928 1838 848 1838 754 c 0
-EndSplineSet
-EndChar
-
-StartChar: ku
-Encoding: 142 -1 99
+StartChar: ta_ku
+Encoding: 142 -1 96
 Width: 1802
 Flags: HW
 HStem: -504 164<766 1318> -28 156<818 1162> 446 170<760 812 978 1214 1376 1598> 886 166<978 1214 1376 1682>
@@ -5961,11 +5745,11 @@ SplineSet
  866 148 928 128 994 128 c 0
  1134 128 1208 188 1214 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_u_sign
 EndChar
 
-StartChar: ngu
-Encoding: 143 -1 100
+StartChar: ta_ngu
+Encoding: 143 -1 97
 Width: 1630
 Flags: HW
 HStem: 0 154<626 1036 1184 1456> 494 166<822 1050> 878 172<368 626 790 1170>
@@ -6005,12 +5789,11 @@ SplineSet
  1630 1048 l 1
  1630 -514 l 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nga ta_u_sign
 EndChar
 
-StartChar: chu
-Encoding: 144 -1 101
+StartChar: ta_chu
+Encoding: 144 -1 98
 Width: 1478
 Flags: HW
 HStem: -28 156<466 802> 2 50G<1162 1336> 446 170<380 454 620 856 1018 1162 1336 1478> 886 166<620 856 1018 1312>
@@ -6051,11 +5834,11 @@ SplineSet
  510 148 570 128 636 128 c 0xbf
  776 128 848 188 856 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_u_sign
 EndChar
 
-StartChar: nju
-Encoding: 145 -1 102
+StartChar: ta_nju
+Encoding: 145 -1 99
 Width: 2258
 Flags: HW
 HStem: -602 156<522 1330> -230 154<366 1588 1884 2096> -26 164<602 790> 422 152<600 788> 488 168<1408 1668> 888 166<586 1220 1382 1816>
@@ -6123,11 +5906,11 @@ SplineSet
  1076 -446 1196 -434 1288 -406 c 0
  1402 -374 1502 -314 1588 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_u_sign
 EndChar
 
-StartChar: tu
-Encoding: 146 -1 103
+StartChar: ta_tu
+Encoding: 146 -1 100
 Width: 1834
 Flags: HW
 HStem: -512 160<770 1184> -26 50G<1666 1834> 2 50G<802 972> 488 168<1002 1276> 1520 172<786 1286>
@@ -6168,15 +5951,15 @@ SplineSet
  1782 1150 1834 898 1834 580 c 2
  1834 -26 l 1xdf80
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_u_sign
 EndChar
 
-StartChar: NameMe.191.2
-Encoding: 147 -1 104
+StartChar: ta_nnu
+Encoding: 147 -1 101
 Width: 3182
-Flags: HW
-HStem: -680 168<748 1864> -230 154<366 2356 2702 3008> -26 176<564 756 1242 1420 2018 2192> 422 152<564 752> 910 168<644 1172 1486 1942 2214 2500>
-VStem: 200 166<-362 -232> 226 166<266 674> 424 108<266 388> 784 164<172 388> 1034 168<186 644> 1460 178<180 652> 1800 168<196 666> 2230 166<180 640> 2674 170<156 708> 3008 176<-76 1054>
+Flags: W
+HStem: -680 168<803.836 1809.29> -230 154<365.37 2356 2702 3008> -26 174<566.081 754.187 1249.31 1415.54 2023.33 2187.28> 422 152<568.27 749.639> 910 168<665.412 1151.83 1507.21 1931.95 2214.36 2488.74>
+VStem: 200 164<-350.208 -230.055> 226 166<270.608 659.693> 424 108<264.668 382.717> 784 164<176.049 384.478> 1034 168<196.05 623.51> 1460 176<191.509 633.102> 1800 168<211.242 647.563> 2230 166<191.14 623.572> 2674 170<180.507 687.682> 3008 174<-76 1054>
 LayerCount: 2
 Fore
 SplineSet
@@ -6258,11 +6041,11 @@ SplineSet
  696 136 726 152 750 180 c 0
  774 208 784 242 784 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_u_sign
 EndChar
 
-StartChar: thu
-Encoding: 148 -1 105
+StartChar: ta_thu
+Encoding: 148 -1 102
 Width: 1874
 Flags: HW
 HStem: -588 158<482 1044> -230 154<366 1256 1522 1712> -28 156<562 898> 446 170<472 552 718 952 1116 1284> 886 166<718 952 1116 1424>
@@ -6323,11 +6106,11 @@ SplineSet
  650 -424 702 -430 756 -430 c 0
  966 -430 1132 -362 1256 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_u_sign
 EndChar
 
-StartChar: nu
-Encoding: 149 -1 106
+StartChar: ta_nu
+Encoding: 149 -1 103
 Width: 1778
 Flags: HW
 HStem: -588 164<462 954> -230 154<366 1130 1406 1616> 488 168<928 1186> 886 172<488 736 902 1316>
@@ -6376,11 +6159,11 @@ SplineSet
  620 -420 666 -424 710 -424 c 0
  890 -424 1030 -360 1130 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_u_sign
 EndChar
 
-StartChar: pu
-Encoding: 150 -1 107
+StartChar: ta_pu
+Encoding: 150 -1 104
 Width: 1370
 Flags: HW
 HStem: -2 168<368 1198>
@@ -6400,11 +6183,11 @@ SplineSet
  1370 1056 l 1
  1370 -514 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_u_sign
 EndChar
 
-StartChar: mu
-Encoding: 151 -1 108
+StartChar: ta_mu
+Encoding: 151 -1 105
 Width: 2104
 Flags: HW
 HStem: -552 156<682 1086> 0 172<810 1244 1428 1852> 912 170<1466 1720>
@@ -6446,11 +6229,11 @@ SplineSet
  1724 172 l 2
  1848 172 1908 256 1908 420 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_u_sign
 EndChar
 
-StartChar: yu
-Encoding: 152 -1 109
+StartChar: ta_yu
+Encoding: 152 -1 106
 Width: 1448
 Flags: HW
 HStem: -24 166<414 610 820 1286>
@@ -6480,11 +6263,11 @@ SplineSet
  1448 1054 l 1
  1448 -514 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_u_sign
 EndChar
 
-StartChar: ru
-Encoding: 153 -1 110
+StartChar: ta_ru
+Encoding: 153 -1 107
 Width: 1820
 Flags: HW
 HStem: -596 160<794 1324> 2 50G<664 834 1072 1234> 488 168<1264 1532> 888 166<834 1072 1234 1668>
@@ -6523,11 +6306,11 @@ SplineSet
  1532 656 1638 604 1714 500 c 0
  1784 406 1820 288 1820 148 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_u_sign
 EndChar
 
-StartChar: rru
-Encoding: 154 -1 111
+StartChar: ta_rru
+Encoding: 154 -1 108
 Width: 1828
 Flags: HW
 HStem: -588 160<462 916> -230 154<366 1114 1392 1664> -2 50G<288 468 734 914> 912 170<500 700 956 1208>
@@ -6577,11 +6360,11 @@ SplineSet
  768 -428 844 -408 924 -370 c 0
  1004 -332 1068 -286 1114 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_u_sign
 EndChar
 
-StartChar: nguu
-Encoding: 155 -1 112
+StartChar: ta_nguu
+Encoding: 155 -1 109
 Width: 2094
 Flags: HW
 HStem: -708 154<554 1370> -250 166<396 732> 0 154<626 1036 1184 1456> 116 184<1664 1900> 492 168<818 1050> 878 172<368 626 790 1170>
@@ -6641,11 +6424,11 @@ SplineSet
  1886 300 1958 270 2012 214 c 0
  2066 158 2094 84 2094 -8 c 0xdfe0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nga ta_uu_sign
 EndChar
 
-StartChar: chuu
-Encoding: 156 -1 113
+StartChar: ta_chuu
+Encoding: 156 -1 110
 Width: 1840
 Flags: HW
 HStem: -716 166<536 1192> -250 166<388 730> -28 156<470 806> 116 184<1410 1634> 446 170<384 458 624 860 1022 1202 1376 1542> 886 166<624 860 1022 1340>
@@ -6708,11 +6491,11 @@ SplineSet
  516 148 576 128 640 128 c 0xefe0
  780 128 852 188 860 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_uu_sign
 EndChar
 
-StartChar: vuu
-Encoding: 157 -1 114
+StartChar: ta_vuu
+Encoding: 157 -1 111
 Width: 2340
 Flags: HW
 HStem: -708 154<618 1556> -238 154<406 744> -26 164<568 756> -2 164<1288 1698> 116 184<1908 2144> 422 152<568 756> 916 160<582 1004>
@@ -6780,11 +6563,11 @@ SplineSet
  700 136 730 152 754 180 c 0
  778 208 788 242 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_uu_sign
 EndChar
 
-StartChar: zhuu
-Encoding: 158 -1 115
+StartChar: ta_zhuu
+Encoding: 158 -1 112
 Width: 2434
 Flags: HW
 HStem: -704 168<1098 1916> -218 168<1784 2010> 0 172<1142 1576 1762 2178> 420 180<500 674> 888 188<500 674> 912 170<1798 2054>
@@ -6852,11 +6635,11 @@ SplineSet
  620 600 648 616 670 646 c 0
  692 676 702 708 702 744 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_uu_sign
 EndChar
 
-StartChar: lluu
-Encoding: 159 -1 116
+StartChar: ta_lluu
+Encoding: 159 -1 113
 Width: 3044
 Flags: HW
 HStem: -634 164<1180 2154> -26 164<1314 1506> 2 50G<1834 2000> 420 180<478 654> 422 152<1318 1508> 488 168<2524 2788> 888 200<478 652> 892 158<2000 2328 2500 2784> 914 166<1308 1698>
@@ -6937,11 +6720,11 @@ SplineSet
  600 600 628 616 648 646 c 0
  668 676 680 708 680 744 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_uu_sign
 EndChar
 
-StartChar: rruu
-Encoding: 160 -1 117
+StartChar: ta_rruu
+Encoding: 160 -1 114
 Width: 2486
 Flags: HW
 HStem: -588 160<462 916> -230 154<366 1114 1392 1664> -2 50G<288 468 734 914> 892 160<1814 2068 2236 2486> 912 170<500 700 956 1208>
@@ -6997,11 +6780,11 @@ SplineSet
  768 -428 844 -408 924 -370 c 0
  1004 -332 1068 -286 1114 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_uu_sign
 EndChar
 
-StartChar: nnuu
-Encoding: 161 -1 118
+StartChar: ta_nnuu
+Encoding: 161 -1 115
 Width: 3110
 Flags: HW
 HStem: -636 164<578 1356> -230 154<370 1740 2038 2288> -26 164<566 754 1252 1420> 422 152<564 752> 892 160<2438 2692 2860 3110> 916 160<658 1176 1470 1764>
@@ -7078,11 +6861,11 @@ SplineSet
  1122 -472 1268 -450 1408 -406 c 0
  1548 -362 1660 -302 1740 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_uu_sign
 EndChar
 
-StartChar: suu
-Encoding: 162 -1 119
+StartChar: ta_suu
+Encoding: 162 -1 116
 Width: 3708
 Flags: HW
 HStem: -26 164<566 758 1734 2018> 0 50G<1080 1244> 94 176<2700 3204> 422 152<568 756> 436 170<2720 2948> 920 160<580 996 1270 1500> 926 172<2190 2498 2668 2962> 1526 168<2882 3324>
@@ -7173,11 +6956,11 @@ SplineSet
  700 136 732 152 756 182 c 0
  776 208 786 240 786 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_uu_sign
 EndChar
 
-StartChar: juu
-Encoding: 163 -1 120
+StartChar: ta_juu
+Encoding: 163 -1 117
 Width: 3254
 Flags: HW
 HStem: -578 164<480 808 1312 1540> -38 160<1242 1532> 46 176<2162 2684> 146 166<486 1444> 368 154<398 566> 388 170<2148 2374> 724 124<426 564> 878 178<1678 1960 2130 2390> 908 168<460 860 1164 1490> 1534 168<2360 2794>
@@ -7284,11 +7067,11 @@ SplineSet
  512 520 536 530 556 548 c 0
  576 566 586 592 586 622 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_uu_sign
 EndChar
 
-StartChar: shuu
-Encoding: 164 -1 121
+StartChar: ta_shuu
+Encoding: 164 -1 118
 Width: 4000
 Flags: HW
 HStem: -26 164<568 760> -2 168<1264 1928 2100 2310> 46 176<2908 3430> 316 170<1710 1928 2100 2238> 388 170<2928 3156> 422 152<566 758> 878 178<2088 2706 2876 3170> 914 164<584 1018 1650 1890> 1534 168<3106 3540>
@@ -7393,11 +7176,11 @@ SplineSet
  702 136 732 152 754 182 c 1
  776 208 788 240 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_uu_sign
 EndChar
 
-StartChar: huu
-Encoding: 165 -1 122
+StartChar: ta_huu
+Encoding: 165 -1 119
 Width: 4336
 Flags: HW
 HStem: -264 156<398 2438> -26 164<592 784> -2 168<1288 1604> 46 176<3244 3766> 388 170<3264 3492> 422 152<590 782> 878 178<2718 3042 3212 3506> 912 170<606 1048 1816 2014 2272 2522> 1534 168<3442 3876>
@@ -7505,11 +7288,11 @@ SplineSet
  726 136 756 152 778 182 c 1
  800 208 812 240 812 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_uu_sign
 EndChar
 
-StartChar: kshuu
-Encoding: 166 -1 123
+StartChar: ta_kshuu
+Encoding: 166 -1 120
 Width: 4688
 Flags: HW
 HStem: -28 156<474 814 1334 1494> -2 168<1928 2592 2764 2974> 46 176<3596 4118> 316 168<2380 2592 2764 2902> 388 170<3616 3844> 446 170<376 468 634 868 1032 1144> 634 166<1420 1736> 878 178<634 868 1032 1340 2752 3394 3564 3858> 910 168<2312 2556> 1534 168<3794 4228>
@@ -7638,12 +7421,11 @@ SplineSet
  524 148 584 128 648 128 c 0x867fce
  788 128 860 188 868 312 c 1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_uu_sign
 EndChar
 
-StartChar: lu
-Encoding: 167 -1 124
+StartChar: ta_lu
+Encoding: 167 -1 121
 Width: 2186
 Flags: HW
 HStem: -600 152<506 1154> -242 154<366 1378 1598 2024> -26 164<590 778 1296 1430> 422 152<588 776> 916 164<600 996>
@@ -7715,11 +7497,11 @@ SplineSet
  630 -434 710 -448 780 -448 c 0
  1080 -448 1278 -380 1378 -242 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_u_sign
 EndChar
 
-StartChar: vu
-Encoding: 168 -1 125
+StartChar: ta_vu
+Encoding: 168 -1 122
 Width: 1906
 Flags: HW
 HStem: -26 164<564 760> -2 164<1288 1732> 422 152<566 758> 924 158<584 1004>
@@ -7766,11 +7548,11 @@ SplineSet
  702 136 732 152 754 182 c 1
  776 208 788 240 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_u_sign
 EndChar
 
-StartChar: zhu
-Encoding: 169 -1 126
+StartChar: ta_zhu
+Encoding: 169 -1 123
 Width: 2108
 Flags: HW
 HStem: -700 166<950 1598> -218 168<1458 1676> 0 172<814 1248 1432 1850> 912 170<1466 1724>
@@ -7823,11 +7605,11 @@ SplineSet
  1790 172 1838 200 1872 254 c 0
  1900 298 1912 352 1912 420 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_u_sign
 EndChar
 
-StartChar: llu
-Encoding: 170 -1 127
+StartChar: ta_llu
+Encoding: 170 -1 124
 Width: 2634
 Flags: HW
 HStem: -632 154<1020 1822> -26 164<906 1094> 2 50G<1424 1590> 422 152<906 1094> 488 168<2114 2382> 892 158<1590 1918 2086 2374> 914 166<898 1290>
@@ -7895,11 +7677,11 @@ SplineSet
  1038 136 1068 152 1092 180 c 0
  1116 208 1126 242 1126 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_u_sign
 EndChar
 
-StartChar: nnu
-Encoding: 171 -1 128
+StartChar: ta_nnnu
+Encoding: 171 -1 125
 Width: 2450
 Flags: HW
 HStem: -636 164<578 1356> -230 154<370 1740 2038 2288> -26 164<566 754 1250 1420> 422 152<564 752> 916 160<658 1176 1470 1764>
@@ -7970,11 +7752,11 @@ SplineSet
  1122 -472 1268 -450 1408 -406 c 0
  1548 -362 1660 -302 1740 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_u_sign
 EndChar
 
-StartChar: su
-Encoding: 172 -1 129
+StartChar: ta_su
+Encoding: 172 -1 126
 Width: 3192
 Flags: HW
 HStem: -26 164<568 758 1726 2018> 0 50G<1080 1244> 394 170<2704 2962> 422 152<566 756> 920 190<2196 2520 2704 2962> 920 160<582 994 1268 1500>
@@ -8051,11 +7833,11 @@ SplineSet
  700 136 732 152 756 182 c 0
  776 208 786 240 786 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_u_sign
 EndChar
 
-StartChar: ju
-Encoding: 173 -1 130
+StartChar: ta_ju
+Encoding: 173 -1 127
 Width: 2618
 Flags: HW
 HStem: -578 164<480 808 1312 1540> -38 160<1242 1532> 146 166<486 1444> 340 170<2130 2388> 368 154<398 566> 724 124<426 564> 866 190<1686 1946 2130 2388> 908 168<460 860 1164 1490>
@@ -8147,11 +7929,11 @@ SplineSet
  512 520 536 530 556 548 c 0
  576 566 586 592 586 622 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_u_sign
 EndChar
 
-StartChar: hu
-Encoding: 174 -1 131
+StartChar: ta_hu
+Encoding: 174 -1 128
 Width: 3784
 Flags: HW
 HStem: -264 156<398 2438> -26 164<592 784> -2 168<1288 1604> 340 170<3296 3554> 422 152<590 782> 866 190<2724 3112 3296 3554> 912 170<606 1048 1816 2014 2272 2522>
@@ -8244,11 +8026,11 @@ SplineSet
  726 136 756 152 778 182 c 1
  800 208 812 240 812 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_u_sign
 EndChar
 
-StartChar: kshu
-Encoding: 175 -1 132
+StartChar: ta_kshu
+Encoding: 175 -1 129
 Width: 4028
 Flags: HW
 HStem: -28 156<474 814 1334 1494> -2 168<1928 2592 2764 2974> 316 168<2380 2592 2764 2902> 340 170<3540 3798> 446 170<376 468 634 868 1032 1144> 634 166<1420 1736> 886 166<634 868 1032 1340 3542 3796> 910 168<2312 2556>
@@ -8364,11 +8146,11 @@ SplineSet
  524 148 584 128 648 128 c 0x8cff30
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_u_sign
 EndChar
 
-StartChar: kuu
-Encoding: 176 -1 133
+StartChar: ta_kuu
+Encoding: 176 -1 130
 Width: 2316
 Flags: HW
 HStem: -28 156<474 814 1334 1494> -2 168<1920 2316> 446 170<376 468 634 868 1032 1144> 644 160<1426 1720> 886 166<634 868 1032 1340>
@@ -8435,11 +8217,11 @@ SplineSet
  524 148 584 128 648 128 c 0xbfe0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_uu_sign
 EndChar
 
-StartChar: nhuu
-Encoding: 177 -1 134
+StartChar: ta_nhuu
+Encoding: 177 -1 131
 Width: 2884
 Flags: HW
 HStem: -602 156<522 1330> -230 154<366 1588 1884 2096> -26 164<602 790> 422 152<600 788> 488 168<1408 1668> 888 166<586 1220 1382 1816 2246 2468 2636 2884>
@@ -8513,11 +8295,11 @@ SplineSet
  1076 -446 1196 -434 1288 -406 c 0
  1402 -374 1502 -314 1588 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_uu_sign
 EndChar
 
-StartChar: tuu
-Encoding: 178 -1 135
+StartChar: ta_tuu
+Encoding: 178 -1 132
 Width: 1664
 Flags: HW
 HStem: -512 160<770 1184> 2 50G<802 972> 488 168<1002 1276> 902 172<1306 1482> 1520 172<786 1258>
@@ -8568,11 +8350,11 @@ SplineSet
  1428 1076 1456 1090 1476 1120 c 0
  1496 1150 1508 1184 1508 1220 c 256xff40
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_uu_sign
 EndChar
 
-StartChar: nnnuu
-Encoding: 179 -1 136
+StartChar: ta_nnnuu
+Encoding: 179 -1 133
 Width: 3806
 Flags: HW
 HStem: -680 168<724 1852> -230 154<366 2344 2690 2996> -26 176<552 744 1230 1408 2008 2190> 422 152<552 740> 892 158<3146 3388 3556 3806> 910 168<632 1160 1474 1930 2202 2488>
@@ -8663,11 +8445,11 @@ SplineSet
  684 136 714 152 738 180 c 0
  762 208 772 242 772 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_uu_sign
 EndChar
 
-StartChar: thuu
-Encoding: 180 -1 137
+StartChar: ta_thuu
+Encoding: 180 -1 134
 Width: 2522
 Flags: HW
 HStem: -588 158<482 1044> -230 154<366 1256 1522 1712> -28 156<562 898> 446 170<472 552 718 952 1116 1284> 886 166<718 952 1116 1424 1862 2104 2272 2522>
@@ -8734,11 +8516,11 @@ SplineSet
  650 -424 702 -430 756 -430 c 0
  966 -430 1132 -362 1256 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_uu_sign
 EndChar
 
-StartChar: nuu
-Encoding: 181 -1 138
+StartChar: ta_nuu
+Encoding: 181 -1 135
 Width: 2438
 Flags: HW
 HStem: -588 164<462 954> -230 154<366 1130 1406 1616> 488 168<928 1186> 886 172<488 736 902 1316 1766 2020 2188 2438>
@@ -8795,11 +8577,11 @@ SplineSet
  620 -420 666 -424 710 -424 c 0
  890 -424 1030 -360 1130 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_uu_sign
 EndChar
 
-StartChar: puu
-Encoding: 182 -1 139
+StartChar: ta_puu
+Encoding: 182 -1 136
 Width: 1842
 Flags: HW
 HStem: -716 166<538 1194> -250 166<390 732> -2 168<368 1202> 116 184<1412 1636>
@@ -8841,11 +8623,11 @@ SplineSet
  1634 300 1706 272 1760 214 c 0
  1814 156 1842 82 1842 -8 c 0xde
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_uu_sign
 EndChar
 
-StartChar: muu
-Encoding: 183 -1 140
+StartChar: ta_muu
+Encoding: 183 -1 137
 Width: 2432
 Flags: HW
 HStem: -592 154<790 1320> 0 172<1138 1572 1756 2174> 420 180<494 670> 888 192<494 670> 912 170<1790 2048>
@@ -8902,11 +8684,11 @@ SplineSet
  616 600 644 616 664 646 c 0
  684 676 696 708 696 744 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_uu_sign
 EndChar
 
-StartChar: yuu
-Encoding: 184 -1 141
+StartChar: ta_yuu
+Encoding: 184 -1 138
 Width: 1936
 Flags: HW
 HStem: -708 156<540 1214> -250 166<408 730> -24 166<426 622 832 1298> 116 184<1506 1742>
@@ -8958,11 +8740,11 @@ SplineSet
  1728 300 1800 270 1854 214 c 0
  1908 158 1936 84 1936 -8 c 0xdf
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_uu_sign
 EndChar
 
-StartChar: ruu
-Encoding: 185 -1 142
+StartChar: ta_ruu
+Encoding: 185 -1 139
 Width: 2138
 Flags: HW
 HStem: -634 158<892 1538> 2 50G<986 1156 1394 1556> 420 180<500 676> 488 172<1596 1856> 888 188<500 674> 888 166<1156 1394 1556 1990>
@@ -9015,11 +8797,11 @@ SplineSet
  622 600 650 616 670 646 c 0
  690 676 702 708 702 744 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_uu_sign
 EndChar
 
-StartChar: luu
-Encoding: 186 -1 143
+StartChar: ta_luu
+Encoding: 186 -1 140
 Width: 2834
 Flags: HW
 HStem: -600 152<506 1154> -242 154<366 1378 1598 2024> -26 164<590 778 1296 1430> 422 152<588 776> 892 154<2174 2416 2584 2834> 916 164<600 996>
@@ -9097,11 +8879,11 @@ SplineSet
  630 -434 710 -448 780 -448 c 0
  1080 -448 1278 -380 1378 -242 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_uu_sign
 EndChar
 
-StartChar: ki
-Encoding: 187 -1 144
+StartChar: ta_ki
+Encoding: 187 -1 141
 Width: 1730
 Flags: HW
 HStem: -28 148<484 808 1076 1266> 0 50G<1560 1730> 446 170<382 466 632 868 1030 1264> 886 166<632 868 1052 1336> 1520 180<1066 1444>
@@ -9159,11 +8941,11 @@ SplineSet
  522 148 582 128 648 128 c 0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_i_sign
 EndChar
 
-StartChar: ngi
-Encoding: 188 -1 145
+StartChar: ta_ngi
+Encoding: 188 -1 142
 Width: 2164
 Flags: HW
 HStem: 0 154<626 1036 1184 1688> 494 166<820 1050> 676 170<1530 1688> 878 172<368 626 790 1170> 1520 176<1518 1872>
@@ -9217,11 +8999,11 @@ SplineSet
  2118 1494 2164 1390 2164 1262 c 2
  2164 0 l 1xfee0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B99 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nga ta_i_sign
 EndChar
 
-StartChar: chi
-Encoding: 189 -1 146
+StartChar: ta_chi
+Encoding: 189 -1 143
 Width: 1580
 Flags: HW
 HStem: -28 156<466 802> 0 50G<1414 1580> 446 170<374 454 620 856 1018 1336> 886 166<620 774 1018 1314> 1520 180<908 1300>
@@ -9271,11 +9053,11 @@ SplineSet
  514 148 574 128 638 128 c 0xbfc0
  778 128 850 188 858 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_i_sign
 EndChar
 
-StartChar: NameMe.210.2
-Encoding: 190 -1 147
+StartChar: ta_ji
+Encoding: 190 -1 144
 Width: 2034
 Flags: HW
 HStem: -578 164<480 808 1314 1542> -38 160<1242 1534> 0 50G<1866 2034> 146 166<486 1444> 368 154<398 566> 724 124<426 564> 912 160<466 854> 1520 180<1372 1752>
@@ -9361,11 +9143,11 @@ SplineSet
  512 520 536 530 556 548 c 0
  576 566 586 592 586 622 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_i_sign
 EndChar
 
-StartChar: nhi
-Encoding: 191 -1 148
+StartChar: ta_nhi
+Encoding: 191 -1 145
 Width: 2516
 Flags: HW
 HStem: -596 146<944 1640> -26 164<910 1098> 0 50G<2348 2516> 422 152<908 1096> 488 168<1716 1976> 888 166<894 1528 1690 1708 1838 2124> 1520 180<1846 2234>
@@ -9438,11 +9220,11 @@ SplineSet
  1040 136 1070 152 1094 180 c 0
  1118 208 1128 242 1128 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_i_sign
 EndChar
 
-StartChar: ti
-Encoding: 192 -1 149
+StartChar: ta_ti
+Encoding: 192 -1 146
 Width: 1636
 Flags: HW
 HStem: -2 168<368 818 956 1232 1400 1636> 656 164<916 1170>
@@ -9476,11 +9258,11 @@ SplineSet
  866 296 926 212 1048 166 c 1
  1232 166 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_i_sign
 EndChar
 
-StartChar: nnni
-Encoding: 193 -1 150
+StartChar: ta_nnni
+Encoding: 193 -1 147
 Width: 3240
 Flags: HW
 HStem: -26 176<538 732 1218 1398 1976 2150> -2 52G<2548 2722 3072 3240> 422 152<540 728> 892 164<2200 2430 2722 2968> 922 158<646 1126 1470 1908> 1520 180<2570 2960>
@@ -9562,11 +9344,11 @@ SplineSet
  672 136 704 152 726 180 c 0
  748 208 760 242 760 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_i_sign
 EndChar
 
-StartChar: thi
-Encoding: 194 -1 151
+StartChar: ta_thi
+Encoding: 194 -1 148
 Width: 1746
 Flags: HW
 HStem: -264 154<400 1158> -28 156<496 832> 0 50G<1578 1746> 446 170<410 484 650 886 1048 1240> 886 166<650 886 1072 1354> 1520 180<1076 1464>
@@ -9632,11 +9414,11 @@ SplineSet
  542 148 602 128 666 128 c 0xddb8
  806 128 878 188 886 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_i_sign
 EndChar
 
-StartChar: ni
-Encoding: 195 -1 152
+StartChar: ta_ni
+Encoding: 195 -1 149
 Width: 1662
 Flags: HW
 HStem: -264 154<398 1082> 0 50G<1494 1662> 488 168<896 1154> 886 172<456 708 982 1286> 1520 180<992 1380>
@@ -9690,11 +9472,11 @@ SplineSet
  1618 1494 1662 1394 1662 1272 c 2
  1662 0 l 1xfae0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_i_sign
 EndChar
 
-StartChar: nni
-Encoding: 196 -1 153
+StartChar: ta_nni
+Encoding: 196 -1 150
 Width: 2470
 Flags: HW
 HStem: -26 164<540 728 1226 1394> 0 50G<2302 2470> 422 152<538 726> 892 160<1454 1662 1964 2172> 916 160<632 1136> 1520 180<1808 2188>
@@ -9763,11 +9545,11 @@ SplineSet
  670 136 700 152 724 180 c 0
  748 208 758 242 758 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_i_sign
 EndChar
 
-StartChar: pi
-Encoding: 197 -1 154
+StartChar: ta_pi
+Encoding: 197 -1 151
 Width: 1676
 Flags: HW
 HStem: -2 168<368 1202> 676 168<1044 1202> 1520 176<1034 1388>
@@ -9801,11 +9583,11 @@ SplineSet
  1630 1494 1676 1390 1676 1262 c 2
  1676 -12 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_i_sign
 EndChar
 
-StartChar: mi
-Encoding: 198 -1 155
+StartChar: ta_mi
+Encoding: 198 -1 152
 Width: 1948
 Flags: HW
 HStem: 0 172<374 796 980 1404> 1520 180<1280 1666>
@@ -9848,11 +9630,11 @@ SplineSet
  1276 172 l 2
  1400 172 1460 256 1460 420 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_i_sign
 EndChar
 
-StartChar: yi
-Encoding: 199 -1 156
+StartChar: ta_yi
+Encoding: 199 -1 153
 Width: 1840
 Flags: HW
 HStem: -24 166<414 610 820 1364> 680 170<1204 1364> 1520 176<1194 1548>
@@ -9896,11 +9678,11 @@ SplineSet
  1794 1494 1840 1390 1840 1262 c 2
  1840 -12 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_i_sign
 EndChar
 
-StartChar: ri
-Encoding: 200 -1 157
+StartChar: ta_ri
+Encoding: 200 -1 154
 Width: 1470
 Flags: HW
 HStem: 2 48G<200 370 1302 1470> 892 166<370 654 908 1238> 1520 180<812 1188>
@@ -9936,11 +9718,11 @@ SplineSet
  1426 1494 1470 1394 1470 1272 c 2
  1470 0 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_i_sign
 EndChar
 
-StartChar: rri
-Encoding: 201 -1 158
+StartChar: ta_rri
+Encoding: 201 -1 155
 Width: 1796
 Flags: HW
 HStem: -264 156<398 1118> -2 52G<284 464 730 910 1628 1796> 912 170<496 694> 1520 180<1134 1514>
@@ -9996,11 +9778,11 @@ SplineSet
  1752 1494 1796 1394 1796 1272 c 2
  1796 0 l 1xf5c0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_i_sign
 EndChar
 
-StartChar: li
-Encoding: 202 -1 159
+StartChar: ta_li
+Encoding: 202 -1 156
 Width: 2148
 Flags: HW
 HStem: -26 164<566 754 1260 1542> 0 50G<1980 2148> 422 152<564 752> 916 164<576 972> 1520 180<1492 1872>
@@ -10062,11 +9844,11 @@ SplineSet
  696 136 726 152 750 180 c 0
  774 208 784 242 784 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_i_sign
 EndChar
 
-StartChar: lli
-Encoding: 203 -1 160
+StartChar: ta_lli
+Encoding: 203 -1 157
 Width: 2294
 Flags: HW
 HStem: -26 164<566 754> 2 48G<1084 1250 1578 1748 2126 2294> 422 152<564 754> 892 158<1250 1486 1748 2036> 914 166<556 950> 1520 180<1620 2012>
@@ -10126,11 +9908,11 @@ SplineSet
  698 136 728 152 752 180 c 0
  776 208 786 242 786 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_i_sign
 EndChar
 
-StartChar: zhi
-Encoding: 204 -1 161
+StartChar: ta_zhi
+Encoding: 204 -1 158
 Width: 1976
 GlyphClass: 2
 Flags: HW
@@ -10197,11 +9979,11 @@ SplineSet
  1304 172 l 2
  1428 172 1488 256 1488 420 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_i_sign
 EndChar
 
-StartChar: vi
-Encoding: 205 -1 162
+StartChar: ta_vi
+Encoding: 205 -1 159
 Width: 2274
 Flags: HW
 HStem: -26 164<564 760> -2 164<1288 1796> 422 152<566 758> 680 166<1638 1796> 916 160<582 1008> 1520 176<1628 1982>
@@ -10262,11 +10044,11 @@ SplineSet
  702 136 732 152 754 182 c 1
  776 208 788 240 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_i_sign
 EndChar
 
-StartChar: shi
-Encoding: 206 -1 163
+StartChar: ta_shi
+Encoding: 206 -1 160
 Width: 2764
 Flags: HW
 HStem: -26 164<568 756> -2 168<1264 1928 2100 2298> 292 170<1704 1928 2100 2232> 422 152<568 756> 914 164<588 1020> 1522 178<1926 2366>
@@ -10349,11 +10131,11 @@ SplineSet
  700 136 730 152 754 180 c 0
  778 208 788 242 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_i_sign
 EndChar
 
-StartChar: si
-Encoding: 207 -1 164
+StartChar: ta_si
+Encoding: 207 -1 161
 Width: 2620
 Flags: HW
 HStem: -26 164<566 758 1734 2016> 0 50G<1080 1244 2452 2620> 422 152<568 756> 920 160<580 996 1270 1500> 1520 180<1964 2344>
@@ -10424,11 +10206,11 @@ SplineSet
  700 136 732 152 756 182 c 0
  776 208 786 240 786 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_i_sign
 EndChar
 
-StartChar: hi
-Encoding: 208 -1 165
+StartChar: ta_hi
+Encoding: 208 -1 162
 Width: 3116
 Flags: HW
 HStem: -264 156<398 2438> -26 164<588 784> -2 168<1288 1604> 422 152<590 782> 912 170<606 1048 1816 2014> 1520 180<2454 2834>
@@ -10516,11 +10298,11 @@ SplineSet
  726 136 756 152 778 182 c 1
  800 208 812 240 812 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_i_sign
 EndChar
 
-StartChar: kshi
-Encoding: 209 -1 166
+StartChar: ta_kshi
+Encoding: 209 -1 163
 Width: 3428
 Flags: HW
 HStem: -28 156<474 814 1334 1498> -2 168<1928 2592 2764 2962> 292 170<2368 2592 2764 2896> 446 170<416 468 634 868 1032 1144> 634 166<1420 1732> 886 166<634 868 1032 1340> 1522 178<2590 3030>
@@ -10625,11 +10407,11 @@ SplineSet
  524 148 584 128 648 128 c 0x9fff20
  788 128 862 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BBF
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_i_sign
 EndChar
 
-StartChar: kee
-Encoding: 210 -1 167
+StartChar: ta_kee
+Encoding: 210 -1 164
 Width: 1454
 Flags: HW
 HStem: -28 148<486 810 1078 1268> 446 170<384 466 632 870 1030 1266> 886 166<632 742 1030 1374> 1154 148<1084 1254> 1570 182<992 1254>
@@ -10696,11 +10478,11 @@ SplineSet
  522 148 584 128 650 128 c 0
  790 128 862 188 870 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B95 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_ii_sign
 EndChar
 
-StartChar: ngee
-Encoding: 211 -1 168
+StartChar: ta_ngee
+Encoding: 211 -1 165
 Width: 2068
 Flags: HW
 HStem: 0 154<626 1036 1184 1772> 494 166<820 1048> 676 168<1562 1772> 878 172<368 626 790 1170> 1152 148<1694 1870> 1568 184<1696 1868>
@@ -10763,11 +10545,11 @@ SplineSet
  1814 1300 1842 1314 1862 1342 c 0
  1882 1370 1892 1398 1892 1432 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_ii_sign
 EndChar
 
-StartChar: chee
-Encoding: 212 -1 169
+StartChar: ta_chee
+Encoding: 212 -1 166
 Width: 1396
 Flags: HW
 HStem: -28 156<466 802> 446 170<374 454 620 856 1018 1396> 886 166<620 702 838 856 1018 1374> 1154 148<1024 1196> 1570 182<932 1196>
@@ -10826,11 +10608,11 @@ SplineSet
  512 148 572 128 638 128 c 0
  778 128 850 188 858 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9A uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_ii_sign
 EndChar
 
-StartChar: jee
-Encoding: 213 -1 170
+StartChar: ta_jee
+Encoding: 213 -1 167
 Width: 1910
 Flags: HW
 HStem: -578 164<480 808 1314 1542> -38 160<1242 1534> 146 166<486 1444> 368 154<398 566> 724 124<426 564> 912 160<466 854> 1154 148<1540 1712> 1570 182<1452 1714>
@@ -10924,11 +10706,11 @@ SplineSet
  512 520 536 530 556 548 c 0
  576 566 586 592 586 622 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9C uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_ii_sign
 EndChar
 
-StartChar: nhee
-Encoding: 214 -1 171
+StartChar: ta_nhee
+Encoding: 214 -1 168
 Width: 2240
 Flags: HW
 HStem: -596 146<944 1636> -26 164<910 1098> 422 152<908 1096> 488 168<1716 1976> 888 166<894 1472 1690 2124> 1160 148<1794 1966> 1574 182<1702 1966>
@@ -11011,11 +10793,11 @@ SplineSet
  1040 136 1070 152 1094 180 c 0
  1118 208 1128 242 1128 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9E uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_ii_sign
 EndChar
 
-StartChar: tee
-Encoding: 215 -1 172
+StartChar: ta_tee
+Encoding: 215 -1 169
 Width: 1638
 Flags: HW
 HStem: -2 168<368 818 960 1638> 272 148<1134 1306> 686 182<1044 1308>
@@ -11053,11 +10835,11 @@ SplineSet
  1252 420 1280 434 1300 462 c 0
  1320 490 1330 520 1330 554 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0B9F uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_ii_sign
 EndChar
 
-StartChar: nnnee
-Encoding: 216 -1 173
+StartChar: ta_nnnee
+Encoding: 216 -1 170
 Width: 3150
 Flags: HW
 HStem: -26 176<536 730 1216 1394 1974 2150> -2 50G<2544 2720> 422 152<538 726> 892 164<2198 2456 2720 3060> 922 158<644 1128 1468 1906> 1160 148<2780 2952> 1574 182<2688 2952>
@@ -11149,11 +10931,11 @@ SplineSet
  670 136 700 152 724 180 c 0
  748 208 758 242 758 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA3 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_ii_sign
 EndChar
 
-StartChar: thee
-Encoding: 217 -1 174
+StartChar: ta_thee
+Encoding: 217 -1 171
 Width: 1486
 Flags: HW
 HStem: -264 154<400 1158> -28 156<496 832> 446 170<410 484 650 886 1048 1240> 886 166<650 786 1048 1354> 1160 148<1108 1280> 1574 182<1016 1280>
@@ -11229,11 +11011,11 @@ SplineSet
  542 148 602 128 666 128 c 0
  806 128 878 188 886 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA4 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_ii_sign
 EndChar
 
-StartChar: nnee
-Encoding: 218 -1 175
+StartChar: ta_nnee
+Encoding: 218 -1 172
 Width: 1420
 Flags: HW
 HStem: -264 154<400 1084> 488 168<898 1154> 886 172<458 634 872 1250> 1160 148<964 1136> 1574 182<872 1136>
@@ -11297,11 +11079,11 @@ SplineSet
  1082 1308 1110 1322 1130 1350 c 0
  1150 1378 1160 1408 1160 1442 c 0xf960
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA8 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_ii_sign
 EndChar
 
-StartChar: nee
-Encoding: 219 -1 176
+StartChar: ta_nee
+Encoding: 219 -1 173
 Width: 2370
 Flags: HW
 HStem: -26 164<540 728 1226 1386> 422 152<538 726> 892 160<1454 1678 1964 2244> 916 160<632 1136> 1160 148<2000 2172> 1574 182<1908 2172>
@@ -11379,11 +11161,11 @@ SplineSet
  670 136 700 152 724 180 c 0
  748 208 758 242 758 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BA9 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_ii_sign
 EndChar
 
-StartChar: pee
-Encoding: 220 -1 177
+StartChar: ta_pee
+Encoding: 220 -1 174
 Width: 1496
 Flags: HW
 HStem: -2 168<368 1202> 676 168<994 1202> 1160 148<1124 1298> 1574 188<1124 1298>
@@ -11426,11 +11208,11 @@ SplineSet
  1242 1308 1270 1322 1290 1350 c 0
  1310 1378 1322 1408 1322 1442 c 0xfe80
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAA uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_ii_sign
 EndChar
 
-StartChar: mee
-Encoding: 221 -1 178
+StartChar: ta_mee
+Encoding: 221 -1 175
 Width: 1728
 Flags: HW
 HStem: 0 172<374 796 980 1404> 1160 148<1358 1530> 1574 182<1266 1530>
@@ -11481,11 +11263,11 @@ SplineSet
  1276 172 l 2
  1400 172 1460 256 1460 420 c 0xfb
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAE uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_ii_sign
 EndChar
 
-StartChar: yee
-Encoding: 222 -1 179
+StartChar: ta_yee
+Encoding: 222 -1 176
 Width: 1690
 Flags: HW
 HStem: -24 166<414 610 820 1396> 676 168<1188 1396> 1160 148<1320 1494> 1574 188<1320 1494>
@@ -11538,11 +11320,11 @@ SplineSet
  1440 1308 1466 1322 1486 1350 c 0
  1506 1378 1518 1408 1518 1442 c 0xff40
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BAF uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_ii_sign
 EndChar
 
-StartChar: ree
-Encoding: 223 -1 180
+StartChar: ta_ree
+Encoding: 223 -1 177
 Width: 1326
 Flags: W
 HStem: 892 168<370 628 874 1242> 1160 148<962.777 1122.71> 1574 182<874.185 1123.68>
@@ -11587,11 +11369,11 @@ SplineSet
  1074 1308 1102 1322 1122 1350 c 0
  1142 1378 1154 1408 1154 1442 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB0 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_ii_sign
 EndChar
 
-StartChar: rree
-Encoding: 224 -1 181
+StartChar: ta_rree
+Encoding: 224 -1 178
 Width: 1660
 Flags: HW
 HStem: -264 156<398 1094> -2 50G<260 440 706 886> 912 170<472 670> 1160 148<1290 1462> 1574 182<1198 1462>
@@ -11657,11 +11439,11 @@ SplineSet
  1408 1308 1436 1322 1456 1350 c 0
  1476 1378 1486 1408 1486 1442 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB1 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_ii_sign
 EndChar
 
-StartChar: lee
-Encoding: 225 -1 182
+StartChar: ta_lee
+Encoding: 225 -1 179
 Width: 2064
 Flags: HW
 HStem: -26 164<566 754 1260 1542> 422 152<564 752> 916 164<576 972> 1160 148<1694 1866> 1574 182<1602 1868>
@@ -11732,11 +11514,11 @@ SplineSet
  696 136 726 152 750 180 c 0
  774 208 784 242 784 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB2 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_ii_sign
 EndChar
 
-StartChar: llee
-Encoding: 226 -1 183
+StartChar: ta_llee
+Encoding: 226 -1 180
 Width: 2120
 Flags: HW
 HStem: -26 164<564 754> 2 50G<1082 1248 1576 1748> 422 152<564 752> 892 158<1248 1430 1564 1576 1748 2036> 914 166<554 950> 1160 148<1750 1922> 1574 182<1658 1922>
@@ -11807,11 +11589,11 @@ SplineSet
  696 136 726 152 750 180 c 0
  774 208 784 242 784 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB3 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_ii_sign
 EndChar
 
-StartChar: zhee
-Encoding: 227 -1 184
+StartChar: ta_zhee
+Encoding: 227 -1 181
 Width: 1768
 Flags: HW
 HStem: -692 160<428 770> -310 182<1112 1414> -268 166<382 688> 0 172<402 824 1012 1432> 1160 148<1398 1570> 1574 182<1306 1570>
@@ -11887,11 +11669,11 @@ SplineSet
  1304 172 l 2
  1428 172 1488 256 1488 420 c 0x9cb0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB4 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_ii_sign
 EndChar
 
-StartChar: vee
-Encoding: 228 -1 185
+StartChar: ta_vee
+Encoding: 228 -1 182
 Width: 2100
 Flags: HW
 HStem: -26 164<564 760> -2 164<1288 1804> 422 152<566 758> 676 168<1600 1804> 916 160<582 1008> 1160 148<1728 1902> 1574 188<1728 1900>
@@ -11961,11 +11743,11 @@ SplineSet
  702 136 732 152 754 182 c 1
  776 208 788 240 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB5 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_ii_sign
 EndChar
 
-StartChar: shee
-Encoding: 229 -1 186
+StartChar: ta_shee
+Encoding: 229 -1 183
 Width: 2482
 Flags: HW
 HStem: -26 164<564 760> -2 168<1264 1928 2100 2310> 312 166<1726 1928 2100 2226> 422 152<566 758> 914 164<588 1018> 1160 148<2046 2218> 1574 182<1954 2218>
@@ -12061,11 +11843,11 @@ SplineSet
  702 136 732 152 754 182 c 1
  776 208 788 240 788 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_ii_sign
 EndChar
 
-StartChar: see
-Encoding: 230 -1 187
+StartChar: ta_see
+Encoding: 230 -1 184
 Width: 2472
 Flags: HW
 HStem: -26 164<566 756 1734 2024> 0 50G<1080 1244> 422 152<568 756> 920 160<580 996 1270 1500> 1160 148<2102 2274> 1574 182<2012 2274>
@@ -12145,11 +11927,11 @@ SplineSet
  700 136 730 152 752 180 c 0
  774 208 786 242 786 280 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB8 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_ii_sign
 EndChar
 
-StartChar: hee
-Encoding: 231 -1 188
+StartChar: ta_hee
+Encoding: 231 -1 185
 Width: 2980
 Flags: HW
 HStem: -264 156<398 2438> -26 164<588 784> -2 168<1288 1604> 422 152<590 782> 912 170<606 1048 1816 2014> 1160 148<2610 2782> 1574 182<2518 2782>
@@ -12246,11 +12028,11 @@ SplineSet
  726 136 756 152 778 182 c 1
  800 208 812 240 812 280 c 256
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB9 uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_ii_sign
 EndChar
 
-StartChar: kshee
-Encoding: 232 -1 189
+StartChar: ta_kshee
+Encoding: 232 -1 186
 Width: 3146
 Flags: HW
 HStem: -28 156<474 814 1334 1494> -2 168<1928 2592 2764 2974> 312 166<2390 2592 2764 2890> 446 170<376 468 634 868 1032 1144> 634 166<1420 1736> 886 166<634 868 1032 1340> 1160 148<2710 2882> 1574 182<2618 2882>
@@ -12367,11 +12149,11 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1xaffc
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ksha uni0BC0
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_ii_sign
 EndChar
 
-StartChar: uni25CC
-Encoding: 114 9676 190
+StartChar: dotted_circle
+Encoding: 114 9676 187
 Width: 1206
 Flags: HW
 HStem: -22 86<508 642 764 892> 988 86<522 642 768 888>
@@ -12423,7 +12205,7 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 0 32 191
+Encoding: 0 32 188
 Width: 600
 VWidth: 0
 GlyphClass: 2
@@ -12432,11 +12214,11 @@ LayerCount: 2
 EndChar
 
 StartChar: .notdef
-Encoding: 233 -1 192
+Encoding: 233 -1 189
 Width: 1122
-Flags: HWO
-HStem: 0 154<354 968> 1598 154<354 968>
-VStem: 200 154<154 1598> 968 154<154 1598>
+Flags: W
+HStem: 0 154<354 968> 1146 154<354 968>
+VStem: 200 154<154 1146> 968 154<154 1146>
 LayerCount: 2
 Fore
 SplineSet
@@ -12454,7 +12236,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 15 48 193
+Encoding: 15 48 190
 Width: 1194
 Flags: HW
 LayerCount: 2
@@ -12474,7 +12256,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 16 49 194
+Encoding: 16 49 191
 Width: 700
 Flags: HW
 LayerCount: 2
@@ -12493,7 +12275,7 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 17 50 195
+Encoding: 17 50 192
 Width: 1206
 Flags: HW
 LayerCount: 2
@@ -12521,7 +12303,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 18 51 196
+Encoding: 18 51 193
 Width: 1192
 Flags: HW
 LayerCount: 2
@@ -12557,7 +12339,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 19 52 197
+Encoding: 19 52 194
 Width: 1250
 Flags: HW
 LayerCount: 2
@@ -12583,7 +12365,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 20 53 198
+Encoding: 20 53 195
 Width: 1206
 Flags: HW
 LayerCount: 2
@@ -12614,7 +12396,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 21 54 199
+Encoding: 21 54 196
 Width: 1202
 Flags: HW
 LayerCount: 2
@@ -12647,7 +12429,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 22 55 200
+Encoding: 22 55 197
 Width: 1184
 Flags: HW
 LayerCount: 2
@@ -12668,7 +12450,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 23 56 201
+Encoding: 23 56 198
 Width: 1200
 Flags: HW
 LayerCount: 2
@@ -12709,7 +12491,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 24 57 202
+Encoding: 24 57 199
 Width: 1198
 Flags: HW
 LayerCount: 2
@@ -12746,7 +12528,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 26 59 203
+Encoding: 26 59 200
 Width: 466
 Flags: HW
 HStem: -56 212<246 328> 260 228<238 442>
@@ -12774,7 +12556,7 @@ EndSplineSet
 EndChar
 
 StartChar: less
-Encoding: 27 60 204
+Encoding: 27 60 201
 Width: 1208
 Flags: HW
 LayerCount: 2
@@ -12792,7 +12574,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 28 61 205
+Encoding: 28 61 202
 Width: 1204
 Flags: HW
 HStem: 168 156<200 1204> 646 156<200 1204>
@@ -12813,7 +12595,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 29 62 206
+Encoding: 29 62 203
 Width: 1208
 Flags: HW
 LayerCount: 2
@@ -12831,7 +12613,7 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 30 63 207
+Encoding: 30 63 204
 Width: 1062
 Flags: HW
 HStem: -36 228<538 746> 1400 142<470 844>
@@ -12864,7 +12646,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 31 64 208
+Encoding: 31 64 205
 Width: 2168
 Flags: HW
 HStem: -446 164<916 1646> -8 184<1464 1720> -4 164<920 1186> 960 166<1032 1330> 1384 164<942 1556>
@@ -12920,7 +12702,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 8 40 209
+Encoding: 8 40 206
 Width: 692
 Flags: HW
 LayerCount: 2
@@ -12938,7 +12720,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 9 41 210
+Encoding: 9 41 207
 Width: 692
 Flags: HW
 LayerCount: 2
@@ -12956,7 +12738,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 10 42 211
+Encoding: 10 42 208
 Width: 876
 Flags: HW
 LayerCount: 2
@@ -12982,7 +12764,7 @@ EndSplineSet
 EndChar
 
 StartChar: numbersign
-Encoding: 3 35 212
+Encoding: 3 35 209
 Width: 1334
 Flags: HW
 HStem: -26 50G<252 396 744 888> 422 132<160 344 504 836 996 1294> 962 132<160 454 614 946 1108 1294>
@@ -13027,7 +12809,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 11 43 213
+Encoding: 11 43 210
 Width: 1204
 Flags: HW
 HStem: 672 154<240 664 820 1244>
@@ -13052,7 +12834,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 12 44 214
+Encoding: 12 44 211
 Width: 466
 Flags: HW
 HStem: -56 212<250 332>
@@ -13075,7 +12857,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 13 46 215
+Encoding: 13 46 212
 Width: 428
 Flags: HW
 HStem: -34 226<212 418>
@@ -13092,9 +12874,9 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 14 47 216
+Encoding: 14 47 213
 Width: 620
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -13107,7 +12889,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 37 96 217
+Encoding: 37 96 214
 Width: 384
 Flags: HW
 HStem: 1282 458<264 370>
@@ -13126,7 +12908,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 38 123 218
+Encoding: 38 123 215
 Width: 800
 Flags: HW
 LayerCount: 2
@@ -13164,7 +12946,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 39 124 219
+Encoding: 39 124 216
 Width: 360
 Flags: HW
 LayerCount: 2
@@ -13179,7 +12961,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 40 125 220
+Encoding: 40 125 217
 Width: 800
 Flags: HW
 LayerCount: 2
@@ -13217,7 +12999,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 41 126 221
+Encoding: 41 126 218
 Width: 1258
 Flags: HW
 LayerCount: 2
@@ -13238,7 +13020,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 32 91 222
+Encoding: 32 91 219
 Width: 614
 Flags: HW
 HStem: -422 132<416 656> 1388 132<416 656>
@@ -13259,7 +13041,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 33 92 223
+Encoding: 33 92 220
 Width: 806
 Flags: HW
 VStem: 200 608
@@ -13275,7 +13057,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 34 93 224
+Encoding: 34 93 221
 Width: 610
 Flags: HW
 HStem: -422 132<200 436> 1388 132<200 436>
@@ -13296,7 +13078,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 35 94 225
+Encoding: 35 94 222
 Width: 1072
 Flags: HW
 LayerCount: 2
@@ -13314,7 +13096,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 4 36 226
+Encoding: 4 36 223
 Width: 1206
 Flags: HW
 HStem: -32 134<516 664> 1420 130<516 664 752 876>
@@ -13360,7 +13142,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam
-Encoding: 1 33 227
+Encoding: 1 33 224
 Width: 434
 Flags: HW
 HStem: -4 226<216 422>
@@ -13386,7 +13168,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 5 37 228
+Encoding: 5 37 225
 Width: 1956
 Flags: HW
 HStem: -344 144<1438 1704> 460 148<1440 1708> 540 148<446 714> 1344 148<448 716>
@@ -13431,7 +13213,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 6 38 229
+Encoding: 6 38 226
 Width: 1472
 Flags: HW
 HStem: -26 144<554 902> 1414 132<664 934>
@@ -13477,7 +13259,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 7 39 230
+Encoding: 7 39 227
 Width: 382
 Flags: HW
 HStem: 1282 458<230 318>
@@ -13496,7 +13278,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscore
-Encoding: 36 95 231
+Encoding: 36 95 228
 Width: 1438
 Flags: HW
 HStem: -184 134<238 1476>
@@ -13512,7 +13294,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 2 34 232
+Encoding: 2 34 229
 Width: 662
 Flags: HW
 HStem: 1282 458<226 312 506 588>
@@ -13540,7 +13322,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 25 58 233
+Encoding: 25 58 230
 Width: 424
 Flags: HW
 HStem: 84 226<210 414> 644 226<210 414>
@@ -13561,8 +13343,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shu
-Encoding: 234 -1 234
+StartChar: ta_shu
+Encoding: 234 -1 231
 Width: 3406
 Flags: HW
 HStem: -26 164<564 758> -2 168<1264 1928 2100 2310> 312 166<1726 1928 2100 2226> 340 170<2918 3176> 422 152<566 758> 866 190<2168 2734 2918 3178> 914 164<588 1018 1652 1890>
@@ -13653,12 +13435,11 @@ SplineSet
  702 136 732 152 754 180 c 0
  776 208 788 242 788 280 c 0
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB7 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_u_sign
 EndChar
 
-StartChar: ssu
-Encoding: 235 -1 235
+StartChar: ta_ssu
+Encoding: 235 -1 232
 Width: 3042
 Flags: HW
 HStem: -16 160<416 640 1392 1596> 340 170<2554 2812> 866 190<1804 2370 2554 2814> 888 166<868 1172 1348 1630>
@@ -13717,11 +13498,11 @@ SplineSet
  1534 144 1566 158 1592 188 c 0
  1618 218 1630 254 1630 296 c 2
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB6 uni0BC1
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ssa ta_u_sign
 EndChar
 
-StartChar: ssuu
-Encoding: 236 -1 236
+StartChar: ta_ssuu
+Encoding: 236 -1 233
 Width: 3742
 Flags: HW
 HStem: -16 160<416 640 1392 1596> 46 176<2652 3174> 388 170<2672 2900> 888 166<868 1172 1348 1630 1808 2450> 1534 168<2850 3282>
@@ -13794,11 +13575,11 @@ SplineSet
  1534 144 1566 158 1592 188 c 0,144,-1
  1618 218 1630 254 1630 296 c 2,132,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" uni0BB6 uni0BC2
+Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ssa ta_uu_sign
 EndChar
 
-StartChar: ss
-Encoding: 237 -1 237
+StartChar: ta_ss
+Encoding: 237 -1 234
 Width: 1804
 Flags: HW
 HStem: -16 160<416 640 1392 1596> 888 166<868 1172 1348 1630>
@@ -13846,13 +13627,12 @@ SplineSet
  1534 144 1566 158 1592 188 c 0
  1618 218 1630 254 1630 296 c 2
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" uni0BB6 uni0BCD
-Ligature2: "'half' form Substitution lookup 5-1" uni0BB6 uni0BCD
+Ligature2: "'half' form Substitution lookup 5-1" ta_ssa ta_virama
+Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ssa ta_virama
 EndChar
 
 StartChar: zwnj
-Encoding: 238 8204 238
+Encoding: 238 8204 235
 Width: 420
 VWidth: 4096
 Flags: HW
@@ -13868,7 +13648,7 @@ EndSplineSet
 EndChar
 
 StartChar: ZWJ
-Encoding: 239 8205 239
+Encoding: 239 8205 236
 Width: 1384
 VWidth: 4096
 Flags: HW
@@ -13894,8 +13674,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shri
-Encoding: 240 -1 240
+StartChar: ta_shri
+Encoding: 240 -1 237
 Width: 2862
 VWidth: 0
 Flags: W
@@ -13968,11 +13748,11 @@ SplineSet
  2506 1498 2546 1474 2606 1474 c 0
  2656 1474 2698 1512 2698 1576 c 0
 EndSplineSet
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" uni0BB8 uni0BCD uni0BB0 uni0BC0
+Ligature2: "'akhn' Akhand in Tamil lookup 1-1" ta_sa ta_virama ta_ra ta_ii_sign
 EndChar
 
 StartChar: quoteleft
-Encoding: 241 8216 241
+Encoding: 241 8216 238
 Width: 384
 Flags: HW
 HStem: 1282 458<212 298 492 574>
@@ -13992,7 +13772,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 242 8217 242
+Encoding: 242 8217 239
 Width: 384
 VWidth: 4096
 Flags: HW
@@ -14011,7 +13791,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 243 8220 243
+Encoding: 243 8220 240
 Width: 662
 VWidth: 4096
 Flags: HW
@@ -14038,7 +13818,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 244 8221 244
+Encoding: 244 8221 241
 Width: 662
 VWidth: 4096
 Flags: HW
@@ -14065,7 +13845,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 245 45 245
+Encoding: 245 45 242
 Width: 800
 Flags: HW
 HStem: -184 134<246.5 1484.5>
@@ -14081,7 +13861,7 @@ EndSplineSet
 EndChar
 
 StartChar: rupee
-Encoding: 246 8377 246
+Encoding: 246 8377 243
 Width: 1155
 VWidth: 2252
 Flags: HW
