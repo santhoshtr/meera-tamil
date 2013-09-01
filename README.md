@@ -1,14 +1,14 @@
 Meera Tamil Font
 ================
 
-A free licensed font *in developement* for Tamil.
+A free licensed font for Tamil.
 
 
-[Download ](https://github.com/santhoshtr/meera-tamil/raw/master/MeeraTamil.ttf) latest version in development
+[Download ](https://github.com/santhoshtr/meera-tamil/raw/master/MeeraTamil.ttf) latest version.
 
 Sample text rendered using Meera Tamil
 
-![Wikipedia Article about Tamil rendered using Meera Tamil](http://thottingal.in/images/MeeraTamil.png "Wikipedia Article about Tamil rendered using Meera Tamil")
+![Wikipedia Article about Tamil rendered using Meera Tamil](http://thottingal.in/fonts/MeeraTamil/samples/MeeraTamil-Wiki-2.png "Wikipedia Article about Tamil rendered using Meera Tamil")
 
 Design
 ------
