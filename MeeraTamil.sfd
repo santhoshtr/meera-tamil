@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339233494
-ModificationTime: 1378007898
+ModificationTime: 1378008844
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,7 +52,7 @@ FitToEm: 0
 WinInfo: 0 27 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 246 246
+BeginChars: 247 247
 
 StartChar: uni0B85
 Encoding: 44 2949 0
@@ -12434,21 +12434,21 @@ EndChar
 StartChar: .notdef
 Encoding: 233 -1 192
 Width: 1122
-Flags: W
+Flags: HW
 HStem: 0 154<354 968> 1598 154<354 968>
 VStem: 200 154<154 1598> 968 154<154 1598>
 LayerCount: 2
 Fore
 SplineSet
 200 0 m 1
- 200 1752 l 1
- 1122 1752 l 1
+ 200 1640 l 1
+ 1122 1640 l 1
  1122 0 l 1
  200 0 l 1
 354 154 m 1
  968 154 l 1
- 968 1598 l 1
- 354 1598 l 1
+ 968 1486 l 1
+ 354 1486 l 1
  354 154 l 1
 EndSplineSet
 EndChar
@@ -14066,17 +14066,53 @@ EndChar
 
 StartChar: hyphen
 Encoding: 245 45 245
-Width: 1438
+Width: 800
 Flags: HWO
-HStem: -184 134<253 1491>
+HStem: -184 134<246.5 1484.5>
 LayerCount: 2
 Fore
 SplineSet
-1338 501 m 1
- 100 501 l 1
- 100 635 l 1
- 1338 635 l 1
- 1338 501 l 1
+706.5 494.5 m 5
+ 93.5 501 l 5
+ 93.5 635 l 5
+ 706.5 631.5 l 5
+ 706.5 494.5 l 5
+EndSplineSet
+EndChar
+
+StartChar: rupee
+Encoding: 246 8377 246
+Width: 1155
+VWidth: 2252
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+836 1375 m 1
+ 867.333 1335 889 1284.67 901 1224 c 1
+ 1155 1224 l 1
+ 1099 1091 l 1
+ 903 1091 l 1
+ 885.667 959.667 819.667 861 705 795 c 0
+ 637 755.664 559.667 733.33 473 728 c 1
+ 985 3 l 1
+ 759 3 l 1
+ 252 692 l 1
+ 252 827 l 1
+ 386 827 l 2
+ 524.667 827 624.334 869 685 953 c 0
+ 715.667 995.667 731 1041.33 731 1090 c 2
+ 731 1091 l 1
+ 200 1091 l 1
+ 270 1224 l 1
+ 716 1224 l 1
+ 684.667 1305.33 619.667 1353 521 1367 c 0
+ 481 1372.33 431.333 1375 372 1375 c 2
+ 200 1375 l 1
+ 270 1507 l 1
+ 1155 1507 l 1
+ 1099 1375 l 1
+ 836 1375 l 1
 EndSplineSet
 EndChar
 EndChars
