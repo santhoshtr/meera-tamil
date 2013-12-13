@@ -67,6 +67,14 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
 }
+@font-face {
+  font-family: 'MeeraTamil';
+  src: url("../fonts/MeeraTamil.eot");
+  src: url("../fonts/MeeraTamil.eot?#iefix") format("embedded-opentype"), url("../fonts/MeeraTamil.woff") format("woff"), url("../fonts/MeeraTamil.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
 
 /* normalize.css 2012-02-07T12:37 UTC - http://github.com/necolas/normalize.css */
 /* =============================================================================
@@ -848,4 +856,14 @@ section #title .credits.right {
   nav {
     display: none;
   }
+}
+
+.meeratamil {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #000;
+  color: #000;
+  font-size: 1em;
+  text-align: justify;
+  font-family: 'MeeraTamil', sans-serif;
 }
