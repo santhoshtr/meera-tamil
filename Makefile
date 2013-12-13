@@ -5,6 +5,7 @@ compile:
 # generate ttf files from sfd files
 	@for font in `echo ${fonts}`; \
 	do \
+		scripts/apply_featurefile.py $${font}.sfd $${font}.fea;\
 		./generate.pe $${font}.sfd; \
 		echo "Compiled the font $${font}";\
 	done 

@@ -1,0 +1,266 @@
+
+# GSUB 
+
+
+lookup akhnAkhandinTamillookup1 {
+  lookupflag 0;
+    sub \ta_ka \ta_virama \ta_sha  by \ta_ksha;
+    sub \ta_sa \ta_virama \ta_ra \ta_ii_sign  by \ta_shri;
+} akhnAkhandinTamillookup1;
+
+lookup halfformSubstitutionlookup5 {
+  lookupflag 0;
+    sub \ta_ka \ta_virama  by \ta_k;
+    sub \ta_nga \ta_virama  by \ta_ng;
+    sub \ta_cha \ta_virama  by \ta_ch;
+    sub \ta_ja \ta_virama  by \ta_j;
+    sub \ta_nja \ta_virama  by \ta_nj;
+    sub \ta_ta \ta_virama  by \ta_t;
+    sub \ta_nna \ta_virama  by \ta_nnn;
+    sub \ta_tha \ta_virama  by \ta_th;
+    sub \ta_na \ta_virama  by \ta_n;
+    sub \ta_nnna \ta_virama  by \ta_nn;
+    sub \ta_pa \ta_virama  by \ta_p;
+    sub \ta_ma \ta_virama  by \ta_m;
+    sub \ta_ya \ta_virama  by \ta_y;
+    sub \ta_ra \ta_virama  by \ta_r;
+    sub \ta_rra \ta_virama  by \ta_rr;
+    sub \ta_la \ta_virama  by \ta_l;
+    sub \ta_lla \ta_virama  by \ta_ll;
+    sub \ta_zha \ta_virama  by \ta_zh;
+    sub \ta_va \ta_virama  by \ta_v;
+    sub \ta_sha \ta_virama  by \ta_sh;
+    sub \ta_sa \ta_virama  by \ta_s;
+    sub \ta_ha \ta_virama  by \ta_h;
+    sub \ksha \ta_virama  by \ta_ksh;
+    sub \ta_ssa \ta_virama  by \ta_ss;
+} halfformSubstitutionlookup5;
+
+lookup pstsPostBaseSubstitutionslookup {
+  lookupflag 0;
+    sub \ta_ka \ta_u_sign  by \ta_ku;
+    sub \ta_nga \ta_u_sign  by \ta_ngu;
+    sub \ta_cha \ta_u_sign  by \ta_chu;
+    sub \ta_nja \ta_u_sign  by \ta_nju;
+    sub \ta_ta \ta_u_sign  by \ta_tu;
+    sub \ta_nna \ta_u_sign  by \ta_nnu;
+    sub \ta_tha \ta_u_sign  by \ta_thu;
+    sub \ta_na \ta_u_sign  by \ta_nu;
+    sub \ta_pa \ta_u_sign  by \ta_pu;
+    sub \ta_ma \ta_u_sign  by \ta_mu;
+    sub \ta_ya \ta_u_sign  by \ta_yu;
+    sub \ta_ra \ta_u_sign  by \ta_ru;
+    sub \ta_rra \ta_u_sign  by \ta_rru;
+    sub \ta_nga \ta_uu_sign  by \ta_nguu;
+    sub \ta_cha \ta_uu_sign  by \ta_chuu;
+    sub \ta_va \ta_uu_sign  by \ta_vuu;
+    sub \ta_zha \ta_uu_sign  by \ta_zhuu;
+    sub \ta_lla \ta_uu_sign  by \ta_lluu;
+    sub \ta_rra \ta_uu_sign  by \ta_rruu;
+    sub \ta_nnna \ta_uu_sign  by \ta_nnuu;
+    sub \ta_sa \ta_uu_sign  by \ta_suu;
+    sub \ta_ja \ta_uu_sign  by \ta_juu;
+    sub \ta_sha \ta_uu_sign  by \ta_shuu;
+    sub \ta_ha \ta_uu_sign  by \ta_huu;
+    sub \ta_ksha \ta_uu_sign  by \ta_kshuu;
+    sub \ta_la \ta_u_sign  by \ta_lu;
+    sub \ta_va \ta_u_sign  by \ta_vu;
+    sub \ta_zha \ta_u_sign  by \ta_zhu;
+    sub \ta_lla \ta_u_sign  by \ta_llu;
+    sub \ta_nnna \ta_u_sign  by \ta_nnnu;
+    sub \ta_sa \ta_u_sign  by \ta_su;
+    sub \ta_ja \ta_u_sign  by \ta_ju;
+    sub \ta_ha \ta_u_sign  by \ta_hu;
+    sub \ta_ksha \ta_u_sign  by \ta_kshu;
+    sub \ta_ka \ta_uu_sign  by \ta_kuu;
+    sub \ta_nja \ta_uu_sign  by \ta_nhuu;
+    sub \ta_ta \ta_uu_sign  by \ta_tuu;
+    sub \ta_nna \ta_uu_sign  by \ta_nnnuu;
+    sub \ta_tha \ta_uu_sign  by \ta_thuu;
+    sub \ta_na \ta_uu_sign  by \ta_nuu;
+    sub \ta_pa \ta_uu_sign  by \ta_puu;
+    sub \ta_ma \ta_uu_sign  by \ta_muu;
+    sub \ta_ya \ta_uu_sign  by \ta_yuu;
+    sub \ta_ra \ta_uu_sign  by \ta_ruu;
+    sub \ta_la \ta_uu_sign  by \ta_luu;
+    sub \ta_ka \ta_i_sign  by \ta_ki;
+    sub \ta_nga \ta_i_sign  by \ta_ngi;
+    sub \ta_cha \ta_i_sign  by \ta_chi;
+    sub \ta_ja \ta_i_sign  by \ta_ji;
+    sub \ta_nja \ta_i_sign  by \ta_nhi;
+    sub \ta_ta \ta_i_sign  by \ta_ti;
+    sub \ta_nna \ta_i_sign  by \ta_nnni;
+    sub \ta_tha \ta_i_sign  by \ta_thi;
+    sub \ta_na \ta_i_sign  by \ta_ni;
+    sub \ta_nnna \ta_i_sign  by \ta_nni;
+    sub \ta_pa \ta_i_sign  by \ta_pi;
+    sub \ta_ma \ta_i_sign  by \ta_mi;
+    sub \ta_ya \ta_i_sign  by \ta_yi;
+    sub \ta_ra \ta_i_sign  by \ta_ri;
+    sub \ta_rra \ta_i_sign  by \ta_rri;
+    sub \ta_la \ta_i_sign  by \ta_li;
+    sub \ta_lla \ta_i_sign  by \ta_lli;
+    sub \ta_zha \ta_i_sign  by \ta_zhi;
+    sub \ta_va \ta_i_sign  by \ta_vi;
+    sub \ta_sha \ta_i_sign  by \ta_shi;
+    sub \ta_sa \ta_i_sign  by \ta_si;
+    sub \ta_ha \ta_i_sign  by \ta_hi;
+    sub \ta_ksha \ta_i_sign  by \ta_kshi;
+    sub \ta_ka \ta_ii_sign  by \ta_kee;
+    sub \ta_cha \ta_ii_sign  by \ta_ngee;
+    sub \ta_cha \ta_ii_sign  by \ta_chee;
+    sub \ta_ja \ta_ii_sign  by \ta_jee;
+    sub \ta_nja \ta_ii_sign  by \ta_nhee;
+    sub \ta_ta \ta_ii_sign  by \ta_tee;
+    sub \ta_nna \ta_ii_sign  by \ta_nnnee;
+    sub \ta_tha \ta_ii_sign  by \ta_thee;
+    sub \ta_na \ta_ii_sign  by \ta_nnee;
+    sub \ta_nnna \ta_ii_sign  by \ta_nee;
+    sub \ta_pa \ta_ii_sign  by \ta_pee;
+    sub \ta_ma \ta_ii_sign  by \ta_mee;
+    sub \ta_ya \ta_ii_sign  by \ta_yee;
+    sub \ta_ra \ta_ii_sign  by \ta_ree;
+    sub \ta_rra \ta_ii_sign  by \ta_rree;
+    sub \ta_la \ta_ii_sign  by \ta_lee;
+    sub \ta_lla \ta_ii_sign  by \ta_llee;
+    sub \ta_zha \ta_ii_sign  by \ta_zhee;
+    sub \ta_va \ta_ii_sign  by \ta_vee;
+    sub \ta_sha \ta_ii_sign  by \ta_shee;
+    sub \ta_sa \ta_ii_sign  by \ta_see;
+    sub \ta_ha \ta_ii_sign  by \ta_hee;
+    sub \ta_ksha \ta_ii_sign  by \ta_kshee;
+    sub \ta_sha \ta_u_sign  by \ta_shu;
+    sub \ta_ssa \ta_u_sign  by \ta_ssu;
+    sub \ta_ssa \ta_uu_sign  by \ta_ssuu;
+} pstsPostBaseSubstitutionslookup;
+
+lookup halnHalantFormsinTamillookup4 {
+  lookupflag 0;
+    sub \ta_ka \ta_virama  by \ta_k;
+    sub \ta_nga \ta_virama  by \ta_ng;
+    sub \ta_cha \ta_virama  by \ta_ch;
+    sub \ta_ja \ta_virama  by \ta_j;
+    sub \ta_nja \ta_virama  by \ta_nj;
+    sub \ta_ta \ta_virama  by \ta_t;
+    sub \ta_nna \ta_virama  by \ta_nnn;
+    sub \ta_tha \ta_virama  by \ta_th;
+    sub \ta_na \ta_virama  by \ta_n;
+    sub \ta_nnna \ta_virama  by \ta_nn;
+    sub \ta_pa \ta_virama  by \ta_p;
+    sub \ta_ma \ta_virama  by \ta_m;
+    sub \ta_ya \ta_virama  by \ta_y;
+    sub \ta_ra \ta_virama  by \ta_r;
+    sub \ta_rra \ta_virama  by \ta_rr;
+    sub \ta_la \ta_virama  by \ta_l;
+    sub \ta_lla \ta_virama  by \ta_ll;
+    sub \ta_zha \ta_virama  by \ta_zh;
+    sub \ta_va \ta_virama  by \ta_v;
+    sub \ta_sha \ta_virama  by \ta_sh;
+    sub \ta_sa \ta_virama  by \ta_s;
+    sub \ta_ha \ta_virama  by \ta_h;
+    sub \ksha \ta_virama  by \ta_ksh;
+    sub \ta_ssa \ta_virama  by \ta_ss;
+} halnHalantFormsinTamillookup4;
+
+feature akhn {
+
+  script DFLT;
+     language dflt ;
+      lookup akhnAkhandinTamillookup1;
+
+  script taml;
+     language dflt ;
+      lookup akhnAkhandinTamillookup1;
+     language TAM  exclude_dflt;
+      lookup akhnAkhandinTamillookup1;
+
+  script tml2;
+     language dflt ;
+      lookup akhnAkhandinTamillookup1;
+} akhn;
+
+feature half {
+
+  script DFLT;
+     language dflt ;
+      lookup halfformSubstitutionlookup5;
+
+  script taml;
+     language dflt ;
+      lookup halfformSubstitutionlookup5;
+     language TAM  exclude_dflt;
+      lookup halfformSubstitutionlookup5;
+
+  script tml2;
+     language dflt ;
+      lookup halfformSubstitutionlookup5;
+} half;
+
+feature psts {
+
+  script DFLT;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+
+  script taml;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+     language TAM  exclude_dflt;
+      lookup pstsPostBaseSubstitutionslookup;
+
+  script tml2;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+} psts;
+
+feature haln {
+
+  script DFLT;
+     language dflt ;
+      lookup halnHalantFormsinTamillookup4;
+
+  script taml;
+     language dflt ;
+      lookup halnHalantFormsinTamillookup4;
+     language TAM  exclude_dflt;
+      lookup halnHalantFormsinTamillookup4;
+
+  script tml2;
+     language dflt ;
+      lookup halnHalantFormsinTamillookup4;
+} haln;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\ta_a \ta_aa \ta_i \ta_ii \ta_u \ta_uu \ta_e \ta_ee \ta_ai \ta_o 
+	\ta_oo \ta_au \ta_ka \ta_nga \ta_cha \ta_ja \ta_nja \ta_ta \ta_nna \ta_tha \ta_na 
+	\ta_nnna \ta_pa \ta_ma \ta_ya \ta_ra \ta_rra \ta_la \ta_lla \ta_zha \ta_va \ta_ssa 
+	\ta_sha \ta_sa \ta_ha \ta_aa_sign \ta_i_sign \ta_ii_sign \ta_u_sign \ta_uu_sign 
+	\ta_e_sign \ta_ee_sign \ta_ai_sign \ta_o_sign \ta_anuswara \ta_visarga 
+	\ta_oo_sign \ta_au_sign \ta_virama \ta_zero \ta_one \ta_two \ta_three \ta_four 
+	\ta_five \ta_six \ta_seven \ta_eight \ta_nine \ta_ten \ta_hundred \ta_thousand 
+	\ta_day_sign \ta_month_sign \ta_year_sign \ta_debit_sign \ta_credit_sign 
+	\ta_as_above \ta_rupee \ta_number_sign \ta_au_short_sign \ta_om \ta_k \ta_zhi 
+	\dotted_circle \space \zero \one \two \three \four \five \six \seven \eight \nine 
+	\semicolon \less \equal \greater \question \at \parenleft \parenright \asterisk 
+	\numbersign \plus \comma \period \slash \grave \braceleft \bar \braceright 
+	\asciitilde \bracketleft \backslash \bracketright \asciicircum \dollar \exclam 
+	\percent \ampersand \quotesingle \underscore \quotedbl \colon \zwnj \ZWJ 
+	\quoteleft \quoteright \quotedblleft \quotedblright \hyphen \rupee ];
+@GDEF_Ligature = [\ta_ng \ta_ch \ta_j \ta_nj \ta_t \ta_nnn \ta_th \ta_n \ta_nn \ta_p 
+	\ta_m \ta_y \ta_r \ta_rr \ta_l \ta_ll \ta_zh \ta_v \ta_sh \ta_s \ta_h \ta_ksh 
+	\ta_ksha \ta_ku \ta_ngu \ta_chu \ta_nju \ta_tu \ta_nnu \ta_thu \ta_nu \ta_pu 
+	\ta_mu \ta_yu \ta_ru \ta_rru \ta_nguu \ta_chuu \ta_vuu \ta_zhuu \ta_lluu \ta_rruu 
+	\ta_nnuu \ta_suu \ta_juu \ta_shuu \ta_huu \ta_kshuu \ta_lu \ta_vu \ta_zhu \ta_llu 
+	\ta_nnnu \ta_su \ta_ju \ta_hu \ta_kshu \ta_kuu \ta_nhuu \ta_tuu \ta_nnnuu 
+	\ta_thuu \ta_nuu \ta_puu \ta_muu \ta_yuu \ta_ruu \ta_luu \ta_ki \ta_ngi \ta_chi 
+	\ta_ji \ta_nhi \ta_ti \ta_nnni \ta_thi \ta_ni \ta_nni \ta_pi \ta_mi \ta_yi \ta_ri 
+	\ta_rri \ta_li \ta_lli \ta_vi \ta_shi \ta_si \ta_hi \ta_kshi \ta_kee \ta_ngee 
+	\ta_chee \ta_jee \ta_nhee \ta_tee \ta_nnnee \ta_thee \ta_nnee \ta_nee \ta_pee 
+	\ta_mee \ta_yee \ta_ree \ta_rree \ta_lee \ta_llee \ta_zhee \ta_vee \ta_shee 
+	\ta_see \ta_hee \ta_kshee \ta_shu \ta_ssu \ta_ssuu \ta_ss \ta_shri ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+

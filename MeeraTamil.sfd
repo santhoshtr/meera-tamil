@@ -35,11 +35,10 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 4 0 0 "'akhn' Akhand in Tamil lookup 1"  {"'akhn' Akhand in Tamil lookup 1-1"  } ['akhn' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' form Substitution lookup 5"  {"'half' form Substitution lookup 5-1"  } ['half' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 2 0 "'abvs' Above Base Substitutions in Tamil lookup 0"  {"'abvs' Above Base Substitutions in Tamil lookup 0-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 6"  {"'psts' Post Base Substitutions lookup 6-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms in Tamil lookup 4"  {"'haln' Halant Forms in Tamil lookup 4-1"  } ['haln' ('DFLT' <'dflt' > 'taml' <'TAM ' 'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "akhnAkhandinTamillookup1"  {"akhnAkhandinTamillookup1 subtable"  } ['akhn' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "halfformSubstitutionlookup5"  {"halfformSubstitutionlookup5 subtable"  } ['half' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "pstsPostBaseSubstitutionslookup"  {"pstsPostBaseSubstitutionslookup subtable"  } ['psts' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "halnHalantFormsinTamillookup4"  {"halnHalantFormsinTamillookup4 subtable"  } ['haln' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -50,15 +49,15 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 247 244
+BeginChars: 247 245
 
 StartChar: ta_a
 Encoding: 44 2949 0
 Width: 2446
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -106,6 +105,7 @@ StartChar: ta_aa
 Encoding: 45 2950 1
 Width: 3128
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -172,6 +172,7 @@ StartChar: ta_i
 Encoding: 46 2951 2
 Width: 2064
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -238,6 +239,7 @@ StartChar: ta_ii
 Encoding: 47 2952 3
 Width: 1434
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -270,6 +272,7 @@ StartChar: ta_u
 Encoding: 48 2953 4
 Width: 2014
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -310,6 +313,7 @@ StartChar: ta_uu
 Encoding: 49 2954 5
 Width: 2824
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -381,6 +385,7 @@ StartChar: ta_e
 Encoding: 50 2958 6
 Width: 1786
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -414,6 +419,7 @@ StartChar: ta_ee
 Encoding: 51 2959 7
 Width: 1786
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -449,6 +455,7 @@ StartChar: ta_ai
 Encoding: 52 2960 8
 Width: 1788
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -509,6 +516,7 @@ StartChar: ta_o
 Encoding: 53 2962 9
 Width: 1836
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -569,6 +577,7 @@ StartChar: ta_oo
 Encoding: 54 2963 10
 Width: 1836
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -631,6 +640,7 @@ StartChar: ta_au
 Encoding: 55 2964 11
 Width: 3676
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -722,6 +732,7 @@ StartChar: ta_ka
 Encoding: 56 2965 12
 Width: 1484
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -765,6 +776,7 @@ StartChar: ta_nga
 Encoding: 57 2969 13
 Width: 1666
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -801,6 +813,7 @@ StartChar: ta_cha
 Encoding: 58 2970 14
 Width: 1364
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -838,6 +851,7 @@ StartChar: ta_ja
 Encoding: 59 2972 15
 Width: 1788
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -898,6 +912,7 @@ StartChar: ta_nja
 Encoding: 60 2974 16
 Width: 2292
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -948,6 +963,7 @@ StartChar: ta_ta
 Encoding: 61 2975 17
 Width: 1486
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -966,6 +982,7 @@ StartChar: ta_nna
 Encoding: 62 2979 18
 Width: 3118
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1030,6 +1047,7 @@ StartChar: ta_tha
 Encoding: 63 2980 19
 Width: 1516
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1080,6 +1098,7 @@ StartChar: ta_na
 Encoding: 64 2984 20
 Width: 1424
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1118,6 +1137,7 @@ StartChar: ta_nnna
 Encoding: 65 2985 21
 Width: 2260
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1167,6 +1187,7 @@ StartChar: ta_pa
 Encoding: 66 2986 22
 Width: 1396
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1187,6 +1208,7 @@ StartChar: ta_ma
 Encoding: 67 2990 23
 Width: 1690
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1216,6 +1238,7 @@ StartChar: ta_ya
 Encoding: 68 2991 24
 Width: 1480
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1245,6 +1268,7 @@ StartChar: ta_ra
 Encoding: 69 2992 25
 Width: 1262
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1270,6 +1294,7 @@ StartChar: ta_rra
 Encoding: 70 2993 26
 Width: 1500
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1307,6 +1332,7 @@ StartChar: ta_la
 Encoding: 71 2994 27
 Width: 1868
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1347,6 +1373,7 @@ StartChar: ta_lla
 Encoding: 72 2995 28
 Width: 2082
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1440,6 +1467,7 @@ StartChar: ta_va
 Encoding: 74 2997 30
 Width: 1938
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1479,6 +1507,7 @@ EndChar
 StartChar: ta_ssa
 Encoding: 75 2998 31
 Width: 1804
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1512,6 +1541,7 @@ StartChar: ta_sha
 Encoding: 76 2999 32
 Width: 2538
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1574,6 +1604,7 @@ StartChar: ta_sa
 Encoding: 77 3000 33
 Width: 2334
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1623,6 +1654,7 @@ StartChar: ta_ha
 Encoding: 78 3001 34
 Width: 2876
 VWidth: 2096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1685,6 +1717,7 @@ EndChar
 StartChar: ta_aa_sign
 Encoding: 79 3006 35
 Width: 1176
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1706,6 +1739,7 @@ EndChar
 StartChar: ta_i_sign
 Encoding: 80 3007 36
 Width: 1128
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1730,6 +1764,7 @@ EndChar
 StartChar: ta_ii_sign
 Encoding: 81 3008 37
 Width: 1016
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1757,6 +1792,7 @@ EndChar
 StartChar: ta_u_sign
 Encoding: 82 3009 38
 Width: 1438
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1780,6 +1816,7 @@ EndChar
 StartChar: ta_uu_sign
 Encoding: 83 3010 39
 Width: 2194
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1821,6 +1858,7 @@ EndChar
 StartChar: ta_e_sign
 Encoding: 84 3014 40
 Width: 1588
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1854,6 +1892,7 @@ EndChar
 StartChar: ta_ee_sign
 Encoding: 85 3015 41
 Width: 1492
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -1893,6 +1932,7 @@ EndChar
 StartChar: ta_ai_sign
 Encoding: 86 3016 42
 Width: 2024
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2024,6 +2064,7 @@ EndChar
 StartChar: ta_anuswara
 Encoding: 42 2946 44
 Width: 1206
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2086,6 +2127,7 @@ EndChar
 StartChar: ta_visarga
 Encoding: 43 2947 45
 Width: 1710
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2130,6 +2172,7 @@ EndChar
 StartChar: ta_oo_sign
 Encoding: 88 3019 46
 Width: 3616
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2220,6 +2263,7 @@ EndChar
 StartChar: ta_au_sign
 Encoding: 89 3020 47
 Width: 4178
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2337,6 +2381,7 @@ EndChar
 StartChar: ta_zero
 Encoding: 93 3046 49
 Width: 1064
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2365,6 +2410,7 @@ EndChar
 StartChar: ta_one
 Encoding: 94 3047 50
 Width: 1464
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2408,6 +2454,7 @@ EndChar
 StartChar: ta_two
 Encoding: 95 3048 51
 Width: 1348
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2443,6 +2490,7 @@ EndChar
 StartChar: ta_three
 Encoding: 96 3049 52
 Width: 1484
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2476,6 +2524,7 @@ EndChar
 StartChar: ta_four
 Encoding: 97 3050 53
 Width: 1508
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2515,6 +2564,7 @@ EndChar
 StartChar: ta_five
 Encoding: 98 3051 54
 Width: 1604
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2552,6 +2602,7 @@ EndChar
 StartChar: ta_six
 Encoding: 99 3052 55
 Width: 1846
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2600,6 +2651,7 @@ EndChar
 StartChar: ta_seven
 Encoding: 100 3053 56
 Width: 1498
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2636,6 +2688,7 @@ EndChar
 StartChar: ta_eight
 Encoding: 101 3054 57
 Width: 2240
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2677,6 +2730,7 @@ EndChar
 StartChar: ta_nine
 Encoding: 102 3055 58
 Width: 1904
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2727,6 +2781,7 @@ EndChar
 StartChar: ta_ten
 Encoding: 103 3056 59
 Width: 1590
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2761,6 +2816,7 @@ EndChar
 StartChar: ta_hundred
 Encoding: 104 3057 60
 Width: 1822
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2792,6 +2848,7 @@ EndChar
 StartChar: ta_thousand
 Encoding: 105 3058 61
 Width: 2112
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2856,6 +2913,7 @@ EndChar
 StartChar: ta_day_sign
 Encoding: 106 3059 62
 Width: 1668
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2890,6 +2948,7 @@ EndChar
 StartChar: ta_month_sign
 Encoding: 107 3060 63
 Width: 2392
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -2944,6 +3003,7 @@ EndChar
 StartChar: ta_year_sign
 Encoding: 108 3061 64
 Width: 4176
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3023,6 +3083,7 @@ EndChar
 StartChar: ta_debit_sign
 Encoding: 109 3062 65
 Width: 1430
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3064,6 +3125,7 @@ EndChar
 StartChar: ta_credit_sign
 Encoding: 110 3063 66
 Width: 2210
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3120,6 +3182,7 @@ EndChar
 StartChar: ta_as_above
 Encoding: 111 3064 67
 Width: 3398
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3196,6 +3259,7 @@ EndChar
 StartChar: ta_rupee
 Encoding: 112 3065 68
 Width: 2910
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3248,6 +3312,7 @@ EndChar
 StartChar: ta_number_sign
 Encoding: 113 3066 69
 Width: 2438
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3306,6 +3371,7 @@ EndChar
 StartChar: ta_au_short_sign
 Encoding: 92 3031 70
 Width: 1616
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3344,6 +3410,7 @@ EndChar
 StartChar: ta_om
 Encoding: 91 3024 71
 Width: 1796
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3466,14 +3533,15 @@ SplineSet
  512 446 l 2
  414 446 364 414 364 346 c 0
 EndSplineSet
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ka ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ka ta_virama
 LCarets2: 1 0 
-Ligature2: "'half' form Substitution lookup 5-1" ta_ka ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ka ta_virama
 EndChar
 
 StartChar: ta_ng
 Encoding: 116 -1 73
 Width: 1630
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3509,13 +3577,14 @@ SplineSet
  790 580 l 1
  834 632 894 660 968 660 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_nga ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nga ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_nga ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_nga ta_virama
 EndChar
 
 StartChar: ta_ch
 Encoding: 117 -1 74
 Width: 1334
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3552,14 +3621,15 @@ SplineSet
  500 446 l 2
  410 446 364 414 364 346 c 0
 EndSplineSet
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_cha ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_cha ta_virama
 LCarets2: 1 0 
-Ligature2: "'half' form Substitution lookup 5-1" ta_cha ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_cha ta_virama
 EndChar
 
 StartChar: ta_j
 Encoding: 118 -1 75
 Width: 1750
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3618,13 +3688,14 @@ SplineSet
  418 724 376 682 376 622 c 0
  376 563 425 520 484 520 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_ja ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ja ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ja ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ja ta_virama
 EndChar
 
 StartChar: ta_nj
 Encoding: 119 -1 76
 Width: 2240
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3675,13 +3746,14 @@ SplineSet
  928 422 876 355 876 280 c 0
  876 205 929 136 1004 136 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_nja ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nja ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_nja ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_nja ta_virama
 EndChar
 
 StartChar: ta_t
 Encoding: 120 -1 77
 Width: 1482
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3699,14 +3771,15 @@ SplineSet
  1482 166 l 1
  1482 -2 l 1
 EndSplineSet
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ta ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ta ta_virama
 LCarets2: 1 0 
-Ligature2: "'half' form Substitution lookup 5-1" ta_ta ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ta ta_virama
 EndChar
 
 StartChar: ta_nnn
 Encoding: 121 -1 78
 Width: 3048
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3769,13 +3842,14 @@ SplineSet
  558 422 506 355 506 280 c 0
  506 205 559 136 634 136 c 0
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nna ta_virama
-Ligature2: "'half' form Substitution lookup 5-1" ta_nna ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_nna ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_nna ta_virama
 EndChar
 
 StartChar: ta_th
 Encoding: 122 -1 79
 Width: 1486
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3826,13 +3900,14 @@ SplineSet
  526 446 l 2
  436 446 392 414 392 346 c 0
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_tha ta_virama
-Ligature2: "'half' form Substitution lookup 5-1" ta_tha ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_tha ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_tha ta_virama
 EndChar
 
 StartChar: ta_n
 Encoding: 123 -1 80
 Width: 1396
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3870,13 +3945,14 @@ SplineSet
  1049 -110 1220 33 1220 208 c 0
  1220 356 1132 488 992 488 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_na ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_na ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_na ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_na ta_virama
 EndChar
 
 StartChar: ta_nn
 Encoding: 124 -1 81
 Width: 2208
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3925,13 +4001,14 @@ SplineSet
  558 422 506 355 506 280 c 0
  506 205 559 136 634 136 c 0
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_nnna ta_virama
-Ligature2: "'half' form Substitution lookup 5-1" ta_nnna ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_nnna ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_nnna ta_virama
 EndChar
 
 StartChar: ta_p
 Encoding: 125 -1 82
 Width: 1370
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3951,13 +4028,14 @@ SplineSet
  1370 1056 l 1
  1370 -2 l 1
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_pa ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_pa ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_pa ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_pa ta_virama
 EndChar
 
 StartChar: ta_m
 Encoding: 126 -1 83
 Width: 1656
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -3987,13 +4065,14 @@ SplineSet
  1460 528 1432 634 1374 734 c 0
  1306 852 1222 912 1122 912 c 0
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ma ta_virama
-Ligature2: "'half' form Substitution lookup 5-1" ta_ma ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ma ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ma ta_virama
 EndChar
 
 StartChar: ta_y
 Encoding: 127 -1 84
 Width: 1450
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4021,13 +4100,14 @@ SplineSet
  376 296 l 2
  376 216 428 142 508 142 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_ya ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ya ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ya ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ya ta_virama
 EndChar
 
 StartChar: ta_r
 Encoding: 128 -1 85
 Width: 1238
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4053,13 +4133,14 @@ SplineSet
  1238 1058 l 1
  1238 892 l 1
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_ra ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ra ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ra ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ra ta_virama
 EndChar
 
 StartChar: ta_rr
 Encoding: 129 -1 86
 Width: 1470
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4097,13 +4178,14 @@ SplineSet
  260 -2 l 1
  260 772 l 2
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_rra ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_rra ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_rra ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_rra ta_virama
 EndChar
 
 StartChar: ta_l
 Encoding: 130 -1 87
 Width: 1826
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4143,13 +4225,14 @@ SplineSet
  584 422 532 355 532 280 c 0
  532 205 585 136 660 136 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_la ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_la ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_la ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_la ta_virama
 EndChar
 
 StartChar: ta_ll
 Encoding: 131 -1 88
 Width: 2036
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4190,13 +4273,14 @@ SplineSet
  582 422 532 358 532 280 c 0
  532 205 585 136 660 136 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_lla ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_lla ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_lla ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_lla ta_virama
 EndChar
 
 StartChar: ta_zh
 Encoding: 132 -1 89
 Width: 1684
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4247,13 +4331,14 @@ SplineSet
  1488 528 1460 634 1402 734 c 0
  1334 852 1250 912 1150 912 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_zha ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_zha ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_zha ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_zha ta_virama
 EndChar
 
 StartChar: ta_v
 Encoding: 133 -1 90
 Width: 1896
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4292,13 +4377,14 @@ SplineSet
  585 422 536 360 536 280 c 0
  536 202 590 136 664 136 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_va ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_va ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_va ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_va ta_virama
 EndChar
 
 StartChar: ta_sh
 Encoding: 134 -1 91
 Width: 2482
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4357,13 +4443,14 @@ SplineSet
  583 422 536 360 536 280 c 0
  536 202 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_sha ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_sha ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_sha ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_sha ta_virama
 EndChar
 
 StartChar: ta_s
 Encoding: 135 -1 92
 Width: 2284
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4410,13 +4497,14 @@ SplineSet
  583 422 536 359 536 280 c 0
  536 201 588 136 662 136 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_sa ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_sa ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_sa ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_sa ta_virama
 EndChar
 
 StartChar: ta_h
 Encoding: 136 -1 93
 Width: 2814
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4477,14 +4565,15 @@ SplineSet
  607 422 560 360 560 280 c 0
  560 202 612 136 688 136 c 0
 EndSplineSet
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ha ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ha ta_virama
 LCarets2: 1 0 
-Ligature2: "'half' form Substitution lookup 5-1" ta_ha ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ha ta_virama
 EndChar
 
 StartChar: ta_ksh
 Encoding: 137 -1 94
 Width: 3146
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4568,14 +4657,15 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ksha ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ksha ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ksha ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ksha ta_virama
 EndChar
 
 StartChar: ta_ksha
 Encoding: 138 -1 95
 Width: 3220
 VWidth: 2096
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4657,13 +4747,14 @@ SplineSet
  532 152 596 130 660 130 c 0
  802 130 878 192 886 320 c 1
 EndSplineSet
+Ligature2: "akhnAkhandinTamillookup1 subtable" ta_ka ta_virama ta_sha
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" ta_ka ta_virama ta_sha
 EndChar
 
 StartChar: ta_ku
 Encoding: 142 -1 96
 Width: 1802
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4710,12 +4801,13 @@ SplineSet
  1214 357 1214 401 1214 446 c 1
  858 446 l 2
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ka ta_u_sign
 EndChar
 
 StartChar: ta_ngu
 Encoding: 143 -1 97
 Width: 1630
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4748,12 +4840,13 @@ SplineSet
  790 580 l 1
  834 632 894 660 968 660 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nga ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nga ta_u_sign
 EndChar
 
 StartChar: ta_chu
 Encoding: 144 -1 98
 Width: 1478
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4789,12 +4882,13 @@ SplineSet
  500 446 l 2
  410 446 364 414 364 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_cha ta_u_sign
 EndChar
 
 StartChar: ta_nju
 Encoding: 145 -1 99
 Width: 2258
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4846,12 +4940,13 @@ SplineSet
  660 -430 784 -446 924 -446 c 0
  1250 -446 1422 -392 1588 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nja ta_u_sign
 EndChar
 
 StartChar: ta_tu
 Encoding: 146 -1 100
 Width: 1834
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4884,12 +4979,13 @@ SplineSet
  200 882 264 1130 394 1334 c 1
  548 1572 760 1692 1034 1692 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ta ta_u_sign
 EndChar
 
 StartChar: ta_nnu
 Encoding: 147 -1 101
 Width: 3182
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -4960,12 +5056,13 @@ SplineSet
  584 422 532 355 532 280 c 0
  532 205 585 136 660 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nna ta_u_sign
 EndChar
 
 StartChar: ta_thu
 Encoding: 148 -1 102
 Width: 1874
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5019,13 +5116,14 @@ SplineSet
  650 -424 702 -430 756 -430 c 0
  966 -430 1132 -362 1256 -230 c 1
 EndSplineSet
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_tha ta_u_sign
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_u_sign
 EndChar
 
 StartChar: ta_nu
 Encoding: 149 -1 103
 Width: 1778
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5066,12 +5164,13 @@ SplineSet
  620 -420 666 -424 710 -424 c 0
  890 -424 1030 -360 1130 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_na ta_u_sign
 EndChar
 
 StartChar: ta_pu
 Encoding: 150 -1 104
 Width: 1370
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5088,12 +5187,13 @@ SplineSet
  1370 1056 l 1
  1370 -514 l 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_pa ta_u_sign
 EndChar
 
 StartChar: ta_mu
 Encoding: 151 -1 105
 Width: 2104
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5129,12 +5229,13 @@ SplineSet
  1908 528 1880 634 1822 734 c 0
  1754 852 1670 912 1570 912 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ma ta_u_sign
 EndChar
 
 StartChar: ta_yu
 Encoding: 152 -1 106
 Width: 1448
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5159,12 +5260,13 @@ SplineSet
  376 296 l 2
  376 216 428 142 508 142 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ya ta_u_sign
 EndChar
 
 StartChar: ta_ru
 Encoding: 153 -1 107
 Width: 1820
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5198,12 +5300,13 @@ SplineSet
  1596 -166 1652 -28 1652 140 c 0
  1652 324 1551 488 1376 488 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ra ta_u_sign
 EndChar
 
 StartChar: ta_rru
 Encoding: 154 -1 108
 Width: 1828
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5243,12 +5346,13 @@ SplineSet
  578 -416 642 -428 694 -428 c 0
  857 -428 1036 -324 1114 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_rra ta_u_sign
 EndChar
 
 StartChar: ta_nguu
 Encoding: 155 -1 109
 Width: 2094
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5300,12 +5404,13 @@ SplineSet
  1628 194 l 1
  1662 264 1718 300 1796 300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nga ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nga ta_uu_sign
 EndChar
 
 StartChar: ta_chuu
 Encoding: 156 -1 110
 Width: 1840
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5360,12 +5465,13 @@ SplineSet
  504 446 l 2
  414 446 368 414 368 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_cha ta_uu_sign
 EndChar
 
 StartChar: ta_vuu
 Encoding: 157 -1 111
 Width: 2340
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5418,12 +5524,13 @@ SplineSet
  587 422 536 357 536 280 c 0
  536 203 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_va ta_uu_sign
 EndChar
 
 StartChar: ta_zhuu
 Encoding: 158 -1 112
 Width: 2434
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5477,12 +5584,13 @@ SplineSet
  519 888 472 812 472 744 c 0
  472 676 519 600 586 600 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_zha ta_uu_sign
 EndChar
 
 StartChar: ta_lluu
 Encoding: 159 -1 113
 Width: 3044
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5544,12 +5652,13 @@ SplineSet
  497 888 450 812 450 744 c 0
  450 676 497 600 564 600 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_lla ta_uu_sign
 EndChar
 
 StartChar: ta_rruu
 Encoding: 160 -1 114
 Width: 2486
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5595,12 +5704,13 @@ SplineSet
  578 -416 642 -428 694 -428 c 0
  857 -428 1036 -324 1114 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_rra ta_uu_sign
 EndChar
 
 StartChar: ta_nnuu
 Encoding: 161 -1 115
 Width: 3110
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5663,12 +5773,13 @@ SplineSet
  754 -460 866 -472 974 -472 c 0
  1271 -472 1584 -371 1740 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nnna ta_uu_sign
 EndChar
 
 StartChar: ta_suu
 Encoding: 162 -1 116
 Width: 3708
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5736,12 +5847,13 @@ SplineSet
  583 422 536 359 536 280 c 0
  536 201 588 136 662 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sa ta_uu_sign
 EndChar
 
 StartChar: ta_juu
 Encoding: 163 -1 117
 Width: 3254
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5824,12 +5936,13 @@ SplineSet
  418 724 376 682 376 622 c 0
  376 563 425 520 484 520 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ja ta_uu_sign
 EndChar
 
 StartChar: ta_shuu
 Encoding: 164 -1 118
 Width: 4000
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -5915,12 +6028,13 @@ SplineSet
  585 422 536 357 536 280 c 0
  536 203 586 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sha ta_uu_sign
 EndChar
 
 StartChar: ta_huu
 Encoding: 165 -1 119
 Width: 4336
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6007,12 +6121,13 @@ SplineSet
  609 422 560 357 560 280 c 0
  560 203 610 136 688 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ha ta_uu_sign
 EndChar
 
 StartChar: ta_kshuu
 Encoding: 166 -1 120
 Width: 4688
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6124,12 +6239,13 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ksha ta_uu_sign
 EndChar
 
 StartChar: ta_lu
 Encoding: 167 -1 121
 Width: 2186
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6186,12 +6302,13 @@ SplineSet
  630 -434 710 -448 780 -448 c 0
  1080 -448 1278 -380 1378 -242 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_la ta_u_sign
 EndChar
 
 StartChar: ta_vu
 Encoding: 168 -1 122
 Width: 1906
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6227,12 +6344,13 @@ SplineSet
  583 422 536 360 536 280 c 0
  536 202 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_va ta_u_sign
 EndChar
 
 StartChar: ta_zhu
 Encoding: 169 -1 123
 Width: 2108
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6276,12 +6394,13 @@ SplineSet
  1432 172 l 1
  1728 172 l 2
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_zha ta_u_sign
 EndChar
 
 StartChar: ta_llu
 Encoding: 170 -1 124
 Width: 2634
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6334,12 +6453,13 @@ SplineSet
  926 422 874 355 874 280 c 0
  874 205 927 136 1002 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_lla ta_u_sign
 EndChar
 
 StartChar: ta_nnnu
 Encoding: 171 -1 125
 Width: 2450
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6396,12 +6516,13 @@ SplineSet
  754 -460 866 -472 974 -472 c 0
  1271 -472 1584 -371 1740 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nnna ta_u_sign
 EndChar
 
 StartChar: ta_su
 Encoding: 172 -1 126
 Width: 3192
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6460,12 +6581,13 @@ SplineSet
  584 422 536 356 536 280 c 0
  536 204 585 136 662 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sa ta_u_sign
 EndChar
 
 StartChar: ta_ju
 Encoding: 173 -1 127
 Width: 2618
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6530,12 +6652,13 @@ SplineSet
  418 724 376 682 376 622 c 0
  376 563 425 520 484 520 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ja ta_u_sign
 EndChar
 
 StartChar: ta_hu
 Encoding: 174 -1 128
 Width: 3784
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6604,12 +6727,13 @@ SplineSet
  609 422 560 357 560 280 c 0
  560 203 610 136 688 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ha ta_u_sign
 EndChar
 
 StartChar: ta_kshu
 Encoding: 175 -1 129
 Width: 4028
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6705,12 +6829,13 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ksha ta_u_sign
 EndChar
 
 StartChar: ta_kuu
 Encoding: 176 -1 130
 Width: 2316
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6771,12 +6896,13 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ka ta_uu_sign
 EndChar
 
 StartChar: ta_nhuu
 Encoding: 177 -1 131
 Width: 2884
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6834,12 +6960,13 @@ SplineSet
  660 -430 784 -446 924 -446 c 0
  1250 -446 1422 -392 1588 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nja ta_uu_sign
 EndChar
 
 StartChar: ta_tuu
 Encoding: 178 -1 132
 Width: 1664
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6878,12 +7005,13 @@ SplineSet
  1325 1364 1278 1288 1278 1220 c 0
  1278 1151 1323 1076 1392 1076 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ta ta_uu_sign
 EndChar
 
 StartChar: ta_nnnuu
 Encoding: 179 -1 133
 Width: 3806
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -6960,12 +7088,13 @@ SplineSet
  572 422 520 355 520 280 c 0
  520 205 573 136 648 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nna ta_uu_sign
 EndChar
 
 StartChar: ta_thuu
 Encoding: 180 -1 134
 Width: 2522
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7025,12 +7154,13 @@ SplineSet
  650 -424 702 -430 756 -430 c 0
  966 -430 1132 -362 1256 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_tha ta_uu_sign
 EndChar
 
 StartChar: ta_nuu
 Encoding: 181 -1 135
 Width: 2438
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7079,12 +7209,13 @@ SplineSet
  620 -420 666 -424 710 -424 c 0
  890 -424 1030 -360 1130 -230 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_na ta_uu_sign
 EndChar
 
 StartChar: ta_puu
 Encoding: 182 -1 136
 Width: 1842
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7120,12 +7251,13 @@ SplineSet
  1376 194 l 1
  1412 264 1468 300 1544 300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_pa ta_uu_sign
 EndChar
 
 StartChar: ta_muu
 Encoding: 183 -1 137
 Width: 2432
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7171,12 +7303,13 @@ SplineSet
  513 888 466 812 466 744 c 0
  466 676 513 600 580 600 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ma ta_uu_sign
 EndChar
 
 StartChar: ta_yuu
 Encoding: 184 -1 138
 Width: 1936
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7219,12 +7352,13 @@ SplineSet
  1470 194 l 1
  1506 264 1562 300 1638 300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ya ta_uu_sign
 EndChar
 
 StartChar: ta_ruu
 Encoding: 185 -1 139
 Width: 2138
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7267,12 +7401,13 @@ SplineSet
  519 888 472 812 472 744 c 0
  472 676 519 600 586 600 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ra ta_uu_sign
 EndChar
 
 StartChar: ta_luu
 Encoding: 186 -1 140
 Width: 2834
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7335,12 +7470,13 @@ SplineSet
  630 -434 710 -448 780 -448 c 0
  1080 -448 1278 -380 1378 -242 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_uu_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_la ta_uu_sign
 EndChar
 
 StartChar: ta_ki
 Encoding: 187 -1 141
 Width: 1730
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7391,12 +7527,13 @@ SplineSet
  512 446 l 2
  414 446 364 414 364 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ka ta_i_sign
 EndChar
 
 StartChar: ta_ngi
 Encoding: 188 -1 142
 Width: 2164
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7441,12 +7578,13 @@ SplineSet
  790 580 l 1
  834 632 894 660 968 660 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nga ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nga ta_i_sign
 EndChar
 
 StartChar: ta_chi
 Encoding: 189 -1 143
 Width: 1580
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7491,12 +7629,13 @@ SplineSet
  500 446 l 2
  408 446 364 414 364 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_cha ta_i_sign
 EndChar
 
 StartChar: ta_ji
 Encoding: 190 -1 144
 Width: 2034
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7562,12 +7701,13 @@ SplineSet
  418 724 376 682 376 622 c 0
  376 563 425 520 484 520 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ja ta_i_sign
 EndChar
 
 StartChar: ta_nhi
 Encoding: 191 -1 145
 Width: 2516
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7625,12 +7765,13 @@ SplineSet
  928 422 876 355 876 280 c 0
  876 205 929 136 1004 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nja ta_i_sign
 EndChar
 
 StartChar: ta_ti
 Encoding: 192 -1 146
 Width: 1636
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7658,12 +7799,13 @@ SplineSet
  1232 166 l 1
  1232 456 l 2
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ta ta_i_sign
 EndChar
 
 StartChar: ta_nnni
 Encoding: 193 -1 147
 Width: 3240
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7732,12 +7874,13 @@ SplineSet
  558 422 510 355 510 280 c 0
  510 205 559 136 634 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nna ta_i_sign
 EndChar
 
 StartChar: ta_thi
 Encoding: 194 -1 148
 Width: 1746
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7794,12 +7937,13 @@ SplineSet
  530 446 l 2
  440 446 394 414 394 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_tha ta_i_sign
 EndChar
 
 StartChar: ta_ni
 Encoding: 195 -1 149
 Width: 1662
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7845,12 +7989,13 @@ SplineSet
  846 1058 l 1
  778 1122 744 1202 744 1300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_na ta_i_sign
 EndChar
 
 StartChar: ta_nni
 Encoding: 196 -1 150
 Width: 2470
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7906,12 +8051,13 @@ SplineSet
  558 422 506 355 506 280 c 0
  506 205 559 136 634 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nnna ta_i_sign
 EndChar
 
 StartChar: ta_pi
 Encoding: 197 -1 151
 Width: 1676
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7940,12 +8086,13 @@ SplineSet
  1510 1224 l 2
  1510 1393 1383 1520 1214 1520 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_pa ta_i_sign
 EndChar
 
 StartChar: ta_mi
 Encoding: 198 -1 152
 Width: 1948
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -7981,12 +8128,13 @@ SplineSet
  1460 528 1432 634 1374 734 c 0
  1306 852 1222 912 1122 912 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ma ta_i_sign
 EndChar
 
 StartChar: ta_yi
 Encoding: 199 -1 153
 Width: 1840
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8022,12 +8170,13 @@ SplineSet
  376 296 l 2
  376 216 428 142 508 142 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ya ta_i_sign
 EndChar
 
 StartChar: ta_ri
 Encoding: 200 -1 154
 Width: 1470
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8058,12 +8207,13 @@ SplineSet
  654 1058 l 1
  586 1120 550 1200 550 1300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ra ta_i_sign
 EndChar
 
 StartChar: ta_rri
 Encoding: 201 -1 155
 Width: 1796
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8107,12 +8257,13 @@ SplineSet
  860 1024 910 1054 970 1070 c 1
  910 1132 880 1208 880 1300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_rra ta_i_sign
 EndChar
 
 StartChar: ta_li
 Encoding: 202 -1 156
 Width: 2148
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8158,12 +8309,13 @@ SplineSet
  584 422 532 355 532 280 c 0
  532 205 585 136 660 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_la ta_i_sign
 EndChar
 
 StartChar: ta_lli
 Encoding: 203 -1 157
 Width: 2294
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8210,7 +8362,7 @@ SplineSet
  583 422 534 360 534 280 c 0
  534 203 586 136 662 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_lla ta_i_sign
 EndChar
 
 StartChar: ta_zhi
@@ -8273,12 +8425,13 @@ SplineSet
  1488 528 1460 634 1402 734 c 0
  1334 852 1250 912 1150 912 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_zha ta_i_sign
 EndChar
 
 StartChar: ta_vi
 Encoding: 205 -1 159
 Width: 2274
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8326,12 +8479,13 @@ SplineSet
  583 422 536 360 536 280 c 0
  536 202 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_va ta_i_sign
 EndChar
 
 StartChar: ta_shi
 Encoding: 206 -1 160
 Width: 2764
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8399,12 +8553,13 @@ SplineSet
  587 422 536 357 536 280 c 0
  536 203 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sha ta_i_sign
 EndChar
 
 StartChar: ta_si
 Encoding: 207 -1 161
 Width: 2620
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8458,12 +8613,13 @@ SplineSet
  583 422 536 359 536 280 c 0
  536 201 588 136 662 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sa ta_i_sign
 EndChar
 
 StartChar: ta_hi
 Encoding: 208 -1 162
 Width: 3116
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8530,13 +8686,14 @@ SplineSet
  607 422 560 360 560 280 c 0
  560 202 612 136 688 136 c 0
 EndSplineSet
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ha ta_i_sign
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_i_sign
 EndChar
 
 StartChar: ta_kshi
 Encoding: 209 -1 163
 Width: 3428
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8629,12 +8786,13 @@ SplineSet
  868 357 868 401 868 446 c 1
  512 446 l 2
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_i_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ksha ta_i_sign
 EndChar
 
 StartChar: ta_kee
 Encoding: 210 -1 164
 Width: 1454
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8689,12 +8847,13 @@ SplineSet
  522 148 584 128 650 128 c 0
  790 128 862 188 870 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ka ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ka ta_ii_sign
 EndChar
 
 StartChar: ta_ngee
 Encoding: 211 -1 165
 Width: 2068
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8744,12 +8903,13 @@ SplineSet
  1715 1568 1672 1499 1672 1432 c 0
  1672 1367 1717 1300 1782 1300 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_cha ta_ii_sign
 EndChar
 
 StartChar: ta_chee
 Encoding: 212 -1 166
 Width: 1396
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8797,12 +8957,13 @@ SplineSet
  500 446 l 2
  408 446 364 414 364 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_cha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_cha ta_ii_sign
 EndChar
 
 StartChar: ta_jee
 Encoding: 213 -1 167
 Width: 1910
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8870,12 +9031,13 @@ SplineSet
  418 724 376 682 376 622 c 0
  376 563 425 520 484 520 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ja ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ja ta_ii_sign
 EndChar
 
 StartChar: ta_nhee
 Encoding: 214 -1 168
 Width: 2240
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8935,12 +9097,13 @@ SplineSet
  928 422 876 355 876 280 c 0
  876 205 929 136 1004 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nja ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nja ta_ii_sign
 EndChar
 
 StartChar: ta_tee
 Encoding: 215 -1 169
 Width: 1638
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -8968,12 +9131,13 @@ SplineSet
  1154 686 1110 618 1110 554 c 0
  1110 488 1153 420 1220 420 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ta ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ta ta_ii_sign
 EndChar
 
 StartChar: ta_nnnee
 Encoding: 216 -1 170
 Width: 3150
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9046,12 +9210,13 @@ SplineSet
  558 422 506 355 506 280 c 0
  506 205 559 136 634 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nna ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nna ta_ii_sign
 EndChar
 
 StartChar: ta_thee
 Encoding: 217 -1 171
 Width: 1486
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9111,12 +9276,13 @@ SplineSet
  530 446 l 2
  440 446 394 414 394 346 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_tha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_tha ta_ii_sign
 EndChar
 
 StartChar: ta_nnee
 Encoding: 218 -1 172
 Width: 1420
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9164,12 +9330,13 @@ SplineSet
  985 1574 940 1506 940 1442 c 0
  940 1376 984 1308 1050 1308 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_na ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_na ta_ii_sign
 EndChar
 
 StartChar: ta_nee
 Encoding: 219 -1 173
 Width: 2370
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9228,12 +9395,13 @@ SplineSet
  558 422 506 355 506 280 c 0
  506 205 559 136 634 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_nnna ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_nnna ta_ii_sign
 EndChar
 
 StartChar: ta_pee
 Encoding: 220 -1 174
 Width: 1496
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9266,12 +9434,13 @@ SplineSet
  1147 1574 1100 1504 1100 1442 c 0
  1100 1378 1146 1308 1210 1308 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_pa ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_pa ta_ii_sign
 EndChar
 
 StartChar: ta_mee
 Encoding: 221 -1 175
 Width: 1728
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9309,12 +9478,13 @@ SplineSet
  1460 528 1432 634 1374 734 c 0
  1306 852 1222 912 1122 912 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ma ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ma ta_ii_sign
 EndChar
 
 StartChar: ta_yee
 Encoding: 222 -1 176
 Width: 1690
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9355,12 +9525,13 @@ SplineSet
  1342 1574 1298 1506 1298 1442 c 0
  1298 1376 1341 1308 1408 1308 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ya ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ya ta_ii_sign
 EndChar
 
 StartChar: ta_ree
 Encoding: 223 -1 177
 Width: 1326
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9394,12 +9565,13 @@ SplineSet
  979 1574 932 1504 932 1442 c 0
  932 1378 978 1308 1042 1308 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ra ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ra ta_ii_sign
 EndChar
 
 StartChar: ta_rree
 Encoding: 224 -1 178
 Width: 1660
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9446,12 +9618,13 @@ SplineSet
  1311 1574 1266 1506 1266 1442 c 0
  1266 1376 1310 1308 1376 1308 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_rra ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_rra ta_ii_sign
 EndChar
 
 StartChar: ta_lee
 Encoding: 225 -1 179
 Width: 2064
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9501,12 +9674,13 @@ SplineSet
  584 422 532 355 532 280 c 0
  532 205 585 136 660 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_la ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_la ta_ii_sign
 EndChar
 
 StartChar: ta_llee
 Encoding: 226 -1 180
 Width: 2120
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9557,12 +9731,13 @@ SplineSet
  582 422 532 358 532 280 c 0
  532 205 585 136 660 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_lla ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_lla ta_ii_sign
 EndChar
 
 StartChar: ta_zhee
 Encoding: 227 -1 181
 Width: 1768
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9622,12 +9797,13 @@ SplineSet
  1488 528 1460 634 1402 734 c 0
  1334 852 1250 912 1150 912 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_zha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_zha ta_ii_sign
 EndChar
 
 StartChar: ta_vee
 Encoding: 228 -1 182
 Width: 2100
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9679,12 +9855,13 @@ SplineSet
  583 422 536 360 536 280 c 0
  536 202 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_va ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_va ta_ii_sign
 EndChar
 
 StartChar: ta_shee
 Encoding: 229 -1 183
 Width: 2482
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9755,12 +9932,13 @@ SplineSet
  583 422 536 360 536 280 c 0
  536 202 588 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sha ta_ii_sign
 EndChar
 
 StartChar: ta_see
 Encoding: 230 -1 184
 Width: 2472
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9816,12 +9994,13 @@ SplineSet
  583 422 536 359 536 280 c 0
  536 201 588 136 662 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sa ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sa ta_ii_sign
 EndChar
 
 StartChar: ta_hee
 Encoding: 231 -1 185
 Width: 2980
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9892,12 +10071,13 @@ SplineSet
  607 422 560 360 560 280 c 0
  560 202 612 136 688 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ha ta_ii_sign
 EndChar
 
 StartChar: ta_kshee
 Encoding: 232 -1 186
 Width: 3146
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -9991,12 +10171,13 @@ SplineSet
  524 148 584 128 648 128 c 0
  788 128 860 188 868 312 c 1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ksha ta_ii_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ksha ta_ii_sign
 EndChar
 
 StartChar: dotted_circle
 Encoding: 114 9676 187
 Width: 1206
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10076,6 +10257,7 @@ EndChar
 StartChar: zero
 Encoding: 15 48 190
 Width: 1194
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10096,6 +10278,7 @@ EndChar
 StartChar: one
 Encoding: 16 49 191
 Width: 700
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10115,6 +10298,7 @@ EndChar
 StartChar: two
 Encoding: 17 50 192
 Width: 1206
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10140,6 +10324,7 @@ EndChar
 StartChar: three
 Encoding: 18 51 193
 Width: 1192
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10170,6 +10355,7 @@ EndChar
 StartChar: four
 Encoding: 19 52 194
 Width: 1250
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10196,6 +10382,7 @@ EndChar
 StartChar: five
 Encoding: 20 53 195
 Width: 1206
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10224,6 +10411,7 @@ EndChar
 StartChar: six
 Encoding: 21 54 196
 Width: 1202
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10253,6 +10441,7 @@ EndChar
 StartChar: seven
 Encoding: 22 55 197
 Width: 1184
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10273,6 +10462,7 @@ EndChar
 StartChar: eight
 Encoding: 23 56 198
 Width: 1200
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10305,6 +10495,7 @@ EndChar
 StartChar: nine
 Encoding: 24 57 199
 Width: 1198
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10335,6 +10526,7 @@ EndChar
 StartChar: semicolon
 Encoding: 26 59 200
 Width: 466
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10358,6 +10550,7 @@ EndChar
 StartChar: less
 Encoding: 27 60 201
 Width: 1208
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10376,6 +10569,7 @@ EndChar
 StartChar: equal
 Encoding: 28 61 202
 Width: 1204
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10396,6 +10590,7 @@ EndChar
 StartChar: greater
 Encoding: 29 62 203
 Width: 1208
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10414,6 +10609,7 @@ EndChar
 StartChar: question
 Encoding: 30 63 204
 Width: 1062
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10444,6 +10640,7 @@ EndChar
 StartChar: at
 Encoding: 31 64 205
 Width: 2168
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10495,6 +10692,7 @@ EndChar
 StartChar: parenleft
 Encoding: 8 40 206
 Width: 692
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10513,6 +10711,7 @@ EndChar
 StartChar: parenright
 Encoding: 9 41 207
 Width: 692
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10531,6 +10730,7 @@ EndChar
 StartChar: asterisk
 Encoding: 10 42 208
 Width: 876
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10557,6 +10757,7 @@ EndChar
 StartChar: numbersign
 Encoding: 3 35 209
 Width: 1334
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10601,6 +10802,7 @@ EndChar
 StartChar: plus
 Encoding: 11 43 210
 Width: 1204
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10624,6 +10826,7 @@ EndChar
 StartChar: comma
 Encoding: 12 44 211
 Width: 466
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10642,6 +10845,7 @@ EndChar
 StartChar: period
 Encoding: 13 46 212
 Width: 428
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10657,6 +10861,7 @@ EndChar
 StartChar: slash
 Encoding: 14 47 213
 Width: 620
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10672,6 +10877,7 @@ EndChar
 StartChar: grave
 Encoding: 37 96 214
 Width: 384
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10689,6 +10895,7 @@ EndChar
 StartChar: braceleft
 Encoding: 38 123 215
 Width: 800
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10725,6 +10932,7 @@ EndChar
 StartChar: bar
 Encoding: 39 124 216
 Width: 360
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10740,6 +10948,7 @@ EndChar
 StartChar: braceright
 Encoding: 40 125 217
 Width: 800
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10774,6 +10983,7 @@ EndChar
 StartChar: asciitilde
 Encoding: 41 126 218
 Width: 1258
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10795,6 +11005,7 @@ EndChar
 StartChar: bracketleft
 Encoding: 32 91 219
 Width: 614
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10814,6 +11025,7 @@ EndChar
 StartChar: backslash
 Encoding: 33 92 220
 Width: 806
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10829,6 +11041,7 @@ EndChar
 StartChar: bracketright
 Encoding: 34 93 221
 Width: 610
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10848,6 +11061,7 @@ EndChar
 StartChar: asciicircum
 Encoding: 35 94 222
 Width: 1072
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10866,6 +11080,7 @@ EndChar
 StartChar: dollar
 Encoding: 4 36 223
 Width: 1206
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10905,6 +11120,7 @@ EndChar
 StartChar: exclam
 Encoding: 1 33 224
 Width: 434
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10929,6 +11145,7 @@ EndChar
 StartChar: percent
 Encoding: 5 37 225
 Width: 1956
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -10966,6 +11183,7 @@ EndChar
 StartChar: ampersand
 Encoding: 6 38 226
 Width: 1472
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11005,6 +11223,7 @@ EndChar
 StartChar: quotesingle
 Encoding: 7 39 227
 Width: 382
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11022,6 +11241,7 @@ EndChar
 StartChar: underscore
 Encoding: 36 95 228
 Width: 1438
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11037,6 +11257,7 @@ EndChar
 StartChar: quotedbl
 Encoding: 2 34 229
 Width: 662
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11063,6 +11284,7 @@ EndChar
 StartChar: colon
 Encoding: 25 58 230
 Width: 424
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11083,6 +11305,7 @@ EndChar
 StartChar: ta_shu
 Encoding: 234 -1 231
 Width: 3406
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11149,12 +11372,13 @@ SplineSet
  585 422 536 360 536 280 c 0
  536 202 590 136 664 136 c 0
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_sha ta_u_sign
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_sha ta_u_sign
 EndChar
 
 StartChar: ta_ssu
 Encoding: 235 -1 232
 Width: 3042
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11195,13 +11419,14 @@ SplineSet
  2581 884 2498 801 2498 698 c 0
  2498 595 2581 512 2684 512 c 0
 EndSplineSet
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ssa ta_u_sign
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ssa ta_u_sign
 EndChar
 
 StartChar: ta_ssuu
 Encoding: 236 -1 233
 Width: 3742
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11261,13 +11486,14 @@ SplineSet
  1348 356 l 2
  1348 249 1395 144 1492 144 c 0
 EndSplineSet
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" ta_ssa ta_uu_sign
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 6-1" ta_ssa ta_uu_sign
 EndChar
 
 StartChar: ta_ss
 Encoding: 237 -1 234
 Width: 1804
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11300,14 +11526,15 @@ SplineSet
  1348 356 l 2
  1348 249 1395 144 1492 144 c 0
 EndSplineSet
-Ligature2: "'half' form Substitution lookup 5-1" ta_ssa ta_virama
-Ligature2: "'haln' Halant Forms in Tamil lookup 4-1" ta_ssa ta_virama
+Ligature2: "halnHalantFormsinTamillookup4 subtable" ta_ssa ta_virama
+Ligature2: "halfformSubstitutionlookup5 subtable" ta_ssa ta_virama
 EndChar
 
 StartChar: zwnj
 Encoding: 238 8204 235
 Width: 420
 VWidth: 4096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11324,6 +11551,7 @@ StartChar: ZWJ
 Encoding: 239 8205 236
 Width: 1384
 VWidth: 4096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11351,6 +11579,7 @@ StartChar: ta_shri
 Encoding: 240 -1 237
 Width: 2862
 VWidth: 0
+GlyphClass: 3
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11422,12 +11651,13 @@ SplineSet
  2506 1498 2546 1474 2606 1474 c 0
  2656 1474 2698 1512 2698 1576 c 0
 EndSplineSet
-Ligature2: "'akhn' Akhand in Tamil lookup 1-1" ta_sa ta_virama ta_ra ta_ii_sign
+Ligature2: "akhnAkhandinTamillookup1 subtable" ta_sa ta_virama ta_ra ta_ii_sign
 EndChar
 
 StartChar: quoteleft
 Encoding: 241 8216 238
 Width: 384
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11447,6 +11677,7 @@ StartChar: quoteright
 Encoding: 242 8217 239
 Width: 384
 VWidth: 4096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11466,6 +11697,7 @@ StartChar: quotedblleft
 Encoding: 243 8220 240
 Width: 662
 VWidth: 4096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11493,6 +11725,7 @@ StartChar: quotedblright
 Encoding: 244 8221 241
 Width: 662
 VWidth: 4096
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11519,6 +11752,7 @@ EndChar
 StartChar: hyphen
 Encoding: 245 45 242
 Width: 800
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11535,6 +11769,7 @@ StartChar: rupee
 Encoding: 246 8377 243
 Width: 1155
 VWidth: 2252
+GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
@@ -11563,6 +11798,14 @@ SplineSet
  270 1224 l 1
  716 1224 l 1
 EndSplineSet
+EndChar
+
+StartChar: ksha
+Encoding: 244 -1 244
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
