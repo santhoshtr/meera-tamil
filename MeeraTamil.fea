@@ -6,6 +6,7 @@ lookup akhnAkhandinTamillookup1 {
   lookupflag 0;
     sub \ta_ka \ta_virama \ta_sha  by \ta_ksha;
     sub \ta_sa \ta_virama \ta_ra \ta_ii_sign  by \ta_shri;
+    sub \ta_ssa \ta_virama \ta_ra \ta_ii_sign  by \ta_shri;
 } akhnAkhandinTamillookup1;
 
 lookup halfformSubstitutionlookup5 {

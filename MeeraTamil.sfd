@@ -11651,6 +11651,7 @@ SplineSet
  2506 1498 2546 1474 2606 1474 c 0
  2656 1474 2698 1512 2698 1576 c 0
 EndSplineSet
+Ligature2: "akhnAkhandinTamillookup1 subtable" ta_ssa ta_virama ta_ra ta_ii_sign
 Ligature2: "akhnAkhandinTamillookup1 subtable" ta_sa ta_virama ta_ra ta_ii_sign
 EndChar
 
