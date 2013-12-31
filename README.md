@@ -6,6 +6,8 @@ A free licensed font for Tamil.
 
 [Download ](https://github.com/santhoshtr/meera-tamil/releases/) latest version.
 
+Also available in Debian(sid for now). ```sudo apt-get install fonts-meera-taml```
+
 Sample text rendered using Meera Tamil
 
 ![Wikipedia Article about Tamil rendered using Meera Tamil](http://thottingal.in/fonts/MeeraTamil/samples/MeeraTamil-Wiki-2.png "Wikipedia Article about Tamil rendered using Meera Tamil")
