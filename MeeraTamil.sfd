@@ -49,9 +49,10 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
-BeginChars: 247 245
+BeginChars: 247 244
 
 StartChar: ta_a
 Encoding: 44 2949 0
@@ -11799,14 +11800,6 @@ SplineSet
  270 1224 l 1
  716 1224 l 1
 EndSplineSet
-EndChar
-
-StartChar: ksha
-Encoding: 244 -1 244
-Width: 2048
-VWidth: 0
-Flags: W
-LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
