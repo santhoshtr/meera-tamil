@@ -6,7 +6,10 @@ A free licensed unicode font for Tamil.
 
 [Download ](https://github.com/santhoshtr/meera-tamil/releases/) latest version.
 
-Also available in Debian(sid for now). ```sudo apt-get install fonts-meera-taml```
+Also available in Debian and Ubuntu.
+```bash
+sudo apt-get install fonts-meera-taml
+```
 
 Sample text rendered using Meera Tamil
 
@@ -17,7 +20,7 @@ Authors
 
 * Hussain KH (Typography)
 * Santhosh Thottingal (Featuring)
-* Anilan NG (Calligraphy) 
+* Anilan NG (Calligraphy)
 * AKM Kutty (Linguistics)
 
 Dedicated to Wikipedia and Tamil People (Tamil Pesum Nallulakam).
