@@ -1,3 +1,5 @@
+#!/usr/bin/make -f
+
 fontpath=/usr/share/fonts/truetype/MeeraTamil
 fonts="MeeraTamil"
 all: clean compile webfonts test
@@ -48,6 +50,7 @@ webfonts: compile
 	do \
 		sfntly -w $${font}.ttf $${font}.woff; \
 		sfntly -e -x $${font}.ttf $${font}.eot; \
+		[ -x `which woff2_compress` ] && woff2_compress $${font}.ttf;\
 		echo "Webfonts generated for $${font}"; \
 	done
 	

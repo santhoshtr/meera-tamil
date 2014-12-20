@@ -4,16 +4,17 @@ FullName: Meera Tamil
 FamilyName: Meera Tamil
 Weight: Medium
 Copyright: Digitized data copyright 2012-2014 Meera Tamil project contributors.\n\nDesigned by Hussain KH (Typography), Santhosh Thottingal (Featuring), Anilan NG (Calligraphy) and AKM Kutty (Linguistics).\n\nDedicated to Wikipedia and Tamil People (Tamil Pesum Nallulakam).\n\nLicensed under the SIL Open Font License 1.1 (see file OFL.txt)
-UComments: "2012-6-9: Created." 
+UComments: "2012-6-9: Created."
 Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 102
 Ascent: 1638
 Descent: 410
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
 XUID: [1021 393 960756424 6214922]
 FSType: 0
 OS2Version: 0
@@ -34,14 +35,16 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2CapHeight: 0
+OS2XHeight: 0
 OS2Vendor: 'PfEd'
-Lookup: 4 0 0 "akhnAkhandinTamillookup1"  {"akhnAkhandinTamillookup1 subtable"  } ['akhn' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "halfformSubstitutionlookup5"  {"halfformSubstitutionlookup5 subtable"  } ['half' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "pstsPostBaseSubstitutionslookup"  {"pstsPostBaseSubstitutionslookup subtable"  } ['psts' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "halnHalantFormsinTamillookup4"  {"halnHalantFormsinTamillookup4 subtable"  } ['haln' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "akhnAkhandinTamillookup1" { "akhnAkhandinTamillookup1 subtable"  } ['akhn' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "halfformSubstitutionlookup5" { "halfformSubstitutionlookup5 subtable"  } ['half' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "pstsPostBaseSubstitutionslookup" { "pstsPostBaseSubstitutionslookup subtable"  } ['psts' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "halnHalantFormsinTamillookup4" { "halnHalantFormsinTamillookup4 subtable"  } ['haln' ('tml2' <'dflt' > 'taml' <'dflt' 'TAM ' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Digitized data copyright (c) 2012-2014, Meera Tamil contributors,+AAoA-with reserved font name +ACIA-Meera Tamil+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Digitized data copyright (c) 2012-2014, Meera Tamil contributors,+AAoA-with reserved font name +ACIA-Meera Tamil+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE."
 Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
@@ -60,6 +63,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1024 678 m 0
@@ -108,6 +112,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1022 676 m 0
@@ -175,6 +180,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1266 1738 m 0
@@ -242,6 +248,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1230 638 m 0
@@ -275,6 +282,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 476 454 m 0
@@ -316,6 +324,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1942 432 m 0
@@ -388,6 +397,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 512 m 0
@@ -422,6 +432,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 508 m 0
@@ -458,6 +469,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1126 -178 m 2
@@ -519,6 +531,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 590 2 m 0
@@ -580,6 +593,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 902 296 m 0
@@ -643,6 +657,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1984 584 m 0
@@ -735,6 +750,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 370 352 m 0
@@ -779,6 +795,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 986 676 m 0
@@ -816,6 +833,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 370 352 m 0
@@ -854,6 +872,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1788 648 m 0
@@ -915,6 +934,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1896 672 m 0
@@ -966,6 +986,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1486 -2 m 1
@@ -985,6 +1006,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 942 278 m 0
@@ -1050,6 +1072,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1068 326 m 2
@@ -1101,6 +1124,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1010 500 m 0
@@ -1140,6 +1164,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 646 140 m 0
@@ -1190,6 +1215,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1396 -2 m 1
@@ -1211,6 +1237,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 810 780 m 2
@@ -1241,6 +1268,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 380 302 m 2
@@ -1271,6 +1299,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 874 -2 m 1
@@ -1297,6 +1326,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 260 792 m 2
@@ -1335,6 +1365,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1426 124 m 0
@@ -1376,6 +1407,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 968 278 m 0
@@ -1418,6 +1450,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 840 780 m 2
@@ -1470,6 +1503,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 972 278 m 0
@@ -1510,6 +1544,7 @@ Width: 1804
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 536 144 m 0
@@ -1544,6 +1579,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2148 500 m 1
@@ -1607,6 +1643,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1904 124 m 0
@@ -1657,6 +1694,7 @@ VWidth: 2096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1638 792 m 2
@@ -1720,6 +1758,7 @@ Width: 1176
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1176 892 m 1
@@ -1742,6 +1781,7 @@ Width: 1128
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 662 1700 m 0
@@ -1767,6 +1807,7 @@ Width: 1016
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 676 1744 m 0
@@ -1795,6 +1836,7 @@ Width: 1438
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1080 1078 m 2
@@ -1819,6 +1861,7 @@ Width: 2194
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1570 864 m 0
@@ -1861,6 +1904,7 @@ Width: 1588
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1342 332 m 0
@@ -1895,6 +1939,7 @@ Width: 1492
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1482 408 m 0
@@ -1935,6 +1980,7 @@ Width: 2024
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 894 302 m 0
@@ -1982,6 +2028,7 @@ Width: 3728
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3728 892 m 1
@@ -2067,6 +2114,7 @@ Width: 1206
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 700 1750 m 0
@@ -2130,6 +2178,7 @@ Width: 1710
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 672 1352 m 0
@@ -2175,6 +2224,7 @@ Width: 3616
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3616 892 m 1
@@ -2266,6 +2316,7 @@ Width: 4178
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3112 184 m 0
@@ -2368,6 +2419,7 @@ Width: 524
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 360 1592 m 0
@@ -2384,6 +2436,7 @@ Width: 1064
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1064 760 m 0
@@ -2413,6 +2466,7 @@ Width: 1464
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1008 454 m 2
@@ -2457,6 +2511,7 @@ Width: 1348
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 514 324 m 1
@@ -2493,6 +2548,7 @@ Width: 1484
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 916 1078 m 0
@@ -2527,6 +2583,7 @@ Width: 1508
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1004 454 m 2
@@ -2567,6 +2624,7 @@ Width: 1604
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1280 1078 m 0
@@ -2605,6 +2663,7 @@ Width: 1846
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1846 680 m 1
@@ -2654,6 +2713,7 @@ Width: 1498
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 650 812 m 0
@@ -2691,6 +2751,7 @@ Width: 2240
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1384 1538 m 0
@@ -2733,6 +2794,7 @@ Width: 1904
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1498 862 m 2
@@ -2784,6 +2846,7 @@ Width: 1590
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 852 364 m 2
@@ -2819,6 +2882,7 @@ Width: 1822
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 538 1376 m 0
@@ -2851,6 +2915,7 @@ Width: 2112
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1004 454 m 2
@@ -2916,6 +2981,7 @@ Width: 1668
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 806 300 m 0
@@ -2951,6 +3017,7 @@ Width: 2392
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 796 760 m 2
@@ -3006,6 +3073,7 @@ Width: 4176
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3724 168 m 0
@@ -3086,6 +3154,7 @@ Width: 1430
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 638 152 m 0
@@ -3128,6 +3197,7 @@ Width: 2210
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1660 568 m 0
@@ -3185,6 +3255,7 @@ Width: 3398
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3028 484 m 1
@@ -3262,6 +3333,7 @@ Width: 2910
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2178 1684 m 0
@@ -3315,6 +3387,7 @@ Width: 2438
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1730 1684 m 0
@@ -3374,6 +3447,7 @@ Width: 1616
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 550 184 m 0
@@ -3413,6 +3487,7 @@ Width: 1796
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 580 14 m 0
@@ -3493,6 +3568,7 @@ Width: 1452
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 962 1524 m 0
@@ -3544,6 +3620,7 @@ Width: 1630
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 944 1524 m 0
@@ -3587,6 +3664,7 @@ Width: 1334
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 974 1524 m 0
@@ -3632,6 +3710,7 @@ Width: 1750
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1016 1524 m 0
@@ -3698,6 +3777,7 @@ Width: 2240
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1570 1524 m 0
@@ -3756,6 +3836,7 @@ Width: 1482
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 932 1488 m 0
@@ -3782,6 +3863,7 @@ Width: 3048
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1716 1524 m 0
@@ -3852,6 +3934,7 @@ Width: 1486
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 992 1524 m 0
@@ -3910,6 +3993,7 @@ Width: 1396
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 800 1524 m 0
@@ -3955,6 +4039,7 @@ Width: 2208
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1296 1524 m 0
@@ -4011,6 +4096,7 @@ Width: 1370
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 800 1524 m 0
@@ -4038,6 +4124,7 @@ Width: 1656
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1086 1524 m 0
@@ -4075,6 +4162,7 @@ Width: 1450
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1052 1524 m 0
@@ -4110,6 +4198,7 @@ Width: 1238
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 788 1524 m 0
@@ -4143,6 +4232,7 @@ Width: 1470
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 826 1524 m 0
@@ -4188,6 +4278,7 @@ Width: 1826
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1118 1524 m 0
@@ -4235,6 +4326,7 @@ Width: 2036
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1442 1524 m 0
@@ -4283,6 +4375,7 @@ Width: 1684
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1126 1524 m 0
@@ -4341,6 +4434,7 @@ Width: 1896
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1354 1524 m 0
@@ -4387,6 +4481,7 @@ Width: 2482
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1402 1524 m 0
@@ -4453,6 +4548,7 @@ Width: 2284
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1134 1524 m 0
@@ -4507,6 +4603,7 @@ Width: 2814
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2122 1524 m 0
@@ -4576,6 +4673,7 @@ Width: 3146
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2030 1524 m 0
@@ -4668,6 +4766,7 @@ VWidth: 2096
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2828 496 m 1
@@ -4757,6 +4856,7 @@ Width: 1802
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1376 320 m 2
@@ -4810,6 +4910,7 @@ Width: 1630
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 968 660 m 0
@@ -4849,6 +4950,7 @@ Width: 1478
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1018 320 m 2
@@ -4891,6 +4993,7 @@ Width: 2258
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 984 272 m 0
@@ -4949,6 +5052,7 @@ Width: 1834
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1034 1692 m 0
@@ -4988,6 +5092,7 @@ Width: 3182
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 948 272 m 0
@@ -5065,6 +5170,7 @@ Width: 1874
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1116 320 m 2
@@ -5126,6 +5232,7 @@ Width: 1778
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1046 488 m 0
@@ -5173,6 +5280,7 @@ Width: 1370
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1370 -514 m 1
@@ -5196,6 +5304,7 @@ Width: 2104
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1424 0 m 1
@@ -5238,6 +5347,7 @@ Width: 1448
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 508 142 m 0
@@ -5269,6 +5379,7 @@ Width: 1820
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1376 488 m 0
@@ -5309,6 +5420,7 @@ Width: 1828
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 288 772 m 2
@@ -5355,6 +5467,7 @@ Width: 2094
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1796 300 m 0
@@ -5413,6 +5526,7 @@ Width: 1840
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1542 300 m 0
@@ -5474,6 +5588,7 @@ Width: 2340
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2038 300 m 0
@@ -5533,6 +5648,7 @@ Width: 2434
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1900 -218 m 0
@@ -5593,6 +5709,7 @@ Width: 3044
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2658 656 m 0
@@ -5661,6 +5778,7 @@ Width: 2486
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 288 772 m 2
@@ -5713,6 +5831,7 @@ Width: 3110
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 948 272 m 0
@@ -5782,6 +5901,7 @@ Width: 3708
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3104 1694 m 0
@@ -5856,6 +5976,7 @@ Width: 3254
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 368 m 0
@@ -5945,6 +6066,7 @@ Width: 4000
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1432 742 m 0
@@ -6037,6 +6159,7 @@ Width: 4336
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1604 772 m 2
@@ -6130,6 +6253,7 @@ Width: 4688
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1574 800 m 0
@@ -6248,6 +6372,7 @@ Width: 2186
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1420 122 m 0
@@ -6311,6 +6436,7 @@ Width: 1906
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 952 272 m 0
@@ -6353,6 +6479,7 @@ Width: 2108
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1572 -218 m 0
@@ -6403,6 +6530,7 @@ Width: 2634
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2248 656 m 0
@@ -6462,6 +6590,7 @@ Width: 2450
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 948 272 m 0
@@ -6525,6 +6654,7 @@ Width: 3192
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1864 122 m 0
@@ -6590,6 +6720,7 @@ Width: 2618
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2260 1056 m 2
@@ -6661,6 +6792,7 @@ Width: 3784
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3426 1056 m 2
@@ -6736,6 +6868,7 @@ Width: 4028
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3670 1056 m 2
@@ -6838,6 +6971,7 @@ Width: 2316
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1032 320 m 2
@@ -6905,6 +7039,7 @@ Width: 2884
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 984 272 m 0
@@ -6969,6 +7104,7 @@ Width: 1664
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1136 656 m 0
@@ -7014,6 +7150,7 @@ Width: 3806
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 936 272 m 0
@@ -7097,6 +7234,7 @@ Width: 2522
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1116 320 m 2
@@ -7163,6 +7301,7 @@ Width: 2438
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1046 488 m 0
@@ -7218,6 +7357,7 @@ Width: 1842
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1544 300 m 0
@@ -7260,6 +7400,7 @@ Width: 2432
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1572 760 m 2
@@ -7312,6 +7453,7 @@ Width: 1936
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1638 300 m 0
@@ -7361,6 +7503,7 @@ Width: 2138
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1702 488 m 0
@@ -7410,6 +7553,7 @@ Width: 2834
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1420 122 m 0
@@ -7479,6 +7623,7 @@ Width: 1730
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 812 1300 m 0
@@ -7536,6 +7681,7 @@ Width: 2164
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 968 660 m 0
@@ -7587,6 +7733,7 @@ Width: 1580
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 662 1300 m 0
@@ -7638,6 +7785,7 @@ Width: 2034
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1118 1300 m 0
@@ -7710,6 +7858,7 @@ Width: 2516
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1596 1300 m 0
@@ -7774,6 +7923,7 @@ Width: 1636
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1050 818 m 0
@@ -7808,6 +7958,7 @@ Width: 3240
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2322 1300 m 0
@@ -7883,6 +8034,7 @@ Width: 1746
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 826 1300 m 0
@@ -7946,6 +8098,7 @@ Width: 1662
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 744 1300 m 0
@@ -7998,6 +8151,7 @@ Width: 2470
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1550 1300 m 0
@@ -8060,6 +8214,7 @@ Width: 1676
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1214 1520 m 0
@@ -8095,6 +8250,7 @@ Width: 1948
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1032 1300 m 0
@@ -8137,6 +8293,7 @@ Width: 1840
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 508 142 m 0
@@ -8179,6 +8336,7 @@ Width: 1470
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 550 1300 m 0
@@ -8216,6 +8374,7 @@ Width: 1796
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 880 1300 m 0
@@ -8266,6 +8425,7 @@ Width: 2148
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1244 1300 m 0
@@ -8318,6 +8478,7 @@ Width: 2294
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1374 1300 m 0
@@ -8371,6 +8532,7 @@ Width: 1976
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1060 1300 m 0
@@ -8434,6 +8596,7 @@ Width: 2274
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 952 272 m 0
@@ -8488,6 +8651,7 @@ Width: 2764
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 804 1078 m 0
@@ -8562,6 +8726,7 @@ Width: 2620
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1716 1300 m 0
@@ -8622,6 +8787,7 @@ Width: 3116
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2200 1300 m 0
@@ -8696,6 +8862,7 @@ Width: 3428
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1574 800 m 0
@@ -8795,6 +8962,7 @@ Width: 1454
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 802 1308 m 0
@@ -8856,6 +9024,7 @@ Width: 2068
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1220 1238 m 0
@@ -8912,6 +9081,7 @@ Width: 1396
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 746 1310 m 0
@@ -8966,6 +9136,7 @@ Width: 1910
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1568 1752 m 0
@@ -9040,6 +9211,7 @@ Width: 2240
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1854 656 m 0
@@ -9106,6 +9278,7 @@ Width: 1638
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1238 272 m 0
@@ -9140,6 +9313,7 @@ Width: 3150
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2808 1756 m 0
@@ -9219,6 +9393,7 @@ Width: 1486
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 830 1316 m 0
@@ -9285,6 +9460,7 @@ Width: 1420
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 686 1316 m 0
@@ -9339,6 +9515,7 @@ Width: 2370
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2028 1756 m 0
@@ -9404,6 +9581,7 @@ Width: 1496
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1138 1762 m 0
@@ -9443,6 +9621,7 @@ Width: 1728
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1386 1756 m 0
@@ -9487,6 +9666,7 @@ Width: 1690
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1334 1762 m 0
@@ -9534,6 +9714,7 @@ Width: 1326
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 986 1756 m 0
@@ -9574,6 +9755,7 @@ Width: 1660
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1318 1756 m 0
@@ -9627,6 +9809,7 @@ Width: 2064
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1244 1300 m 0
@@ -9683,6 +9866,7 @@ Width: 2120
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1778 1756 m 0
@@ -9740,6 +9924,7 @@ Width: 1768
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1426 1756 m 0
@@ -9806,6 +9991,7 @@ Width: 2100
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1744 1762 m 0
@@ -9864,6 +10050,7 @@ Width: 2482
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2100 488 m 1
@@ -9941,6 +10128,7 @@ Width: 2472
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2130 1756 m 0
@@ -10003,6 +10191,7 @@ Width: 2980
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2638 1756 m 0
@@ -10080,6 +10269,7 @@ Width: 3146
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2764 484 m 1
@@ -10180,6 +10370,7 @@ Width: 1206
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1040 938 m 1
@@ -10232,6 +10423,8 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
+Fore
 EndChar
 
 StartChar: .notdef
@@ -10239,6 +10432,7 @@ Encoding: 233 -1 189
 Width: 1122
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 0 m 1
@@ -10260,6 +10454,7 @@ Width: 1194
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1194 766 m 0
@@ -10281,6 +10476,7 @@ Width: 700
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 700 0 m 1
@@ -10301,6 +10497,7 @@ Width: 1206
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 730 1558 m 0
@@ -10327,6 +10524,7 @@ Width: 1192
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 220 1168 m 1
@@ -10358,6 +10556,7 @@ Width: 1250
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1250 370 m 1
@@ -10385,6 +10584,7 @@ Width: 1206
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1028 496 m 0
@@ -10414,6 +10614,7 @@ Width: 1202
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1202 496 m 0
@@ -10444,6 +10645,7 @@ Width: 1184
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1184 1388 m 1
@@ -10465,6 +10667,7 @@ Width: 1200
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 262 1160 m 0
@@ -10498,6 +10701,7 @@ Width: 1198
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 658 132 m 0
@@ -10529,6 +10733,7 @@ Width: 466
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 454 374 m 0
@@ -10553,6 +10758,7 @@ Width: 1208
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1208 22 m 1
@@ -10572,6 +10778,7 @@ Width: 1204
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1204 646 m 1
@@ -10593,6 +10800,7 @@ Width: 1208
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1208 464 m 1
@@ -10612,6 +10820,7 @@ Width: 1062
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 632 1400 m 0
@@ -10643,6 +10852,7 @@ Width: 2168
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2168 28 m 1
@@ -10695,6 +10905,7 @@ Width: 692
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 692 1586 m 1
@@ -10714,6 +10925,7 @@ Width: 692
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 692 588 m 0
@@ -10733,6 +10945,7 @@ Width: 876
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 876 1250 m 1
@@ -10760,6 +10973,7 @@ Width: 1334
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1334 422 m 1
@@ -10805,6 +11019,7 @@ Width: 1204
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1204 672 m 1
@@ -10829,6 +11044,7 @@ Width: 466
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 328 156 m 0
@@ -10848,6 +11064,7 @@ Width: 428
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 80 m 0
@@ -10864,6 +11081,7 @@ Width: 620
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 771 1306 m 1
@@ -10880,6 +11098,7 @@ Width: 384
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 384 1436 m 1
@@ -10898,6 +11117,7 @@ Width: 800
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 800 -446 m 1
@@ -10935,6 +11155,7 @@ Width: 360
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 360 -446 m 1
@@ -10951,6 +11172,7 @@ Width: 800
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 248 1546 m 2
@@ -10986,6 +11208,7 @@ Width: 1258
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1258 698 m 1
@@ -11008,6 +11231,7 @@ Width: 614
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 614 -414 m 1
@@ -11028,6 +11252,7 @@ Width: 806
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 806 -266 m 1
@@ -11044,6 +11269,7 @@ Width: 610
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 610 -422 m 1
@@ -11064,6 +11290,7 @@ Width: 1072
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1072 814 m 1
@@ -11083,6 +11310,7 @@ Width: 1206
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1206 422 m 0
@@ -11123,6 +11351,7 @@ Width: 434
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 432 898 m 1
@@ -11148,6 +11377,7 @@ Width: 1956
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1568 610 m 0
@@ -11186,6 +11416,7 @@ Width: 1472
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 766 1546 m 0
@@ -11226,6 +11457,7 @@ Width: 382
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 382 1642 m 1
@@ -11244,6 +11476,7 @@ Width: 1438
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1438 -184 m 1
@@ -11260,6 +11493,7 @@ Width: 662
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 662 1648 m 1
@@ -11287,6 +11521,7 @@ Width: 424
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 424 756 m 0
@@ -11308,6 +11543,7 @@ Width: 3406
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 3048 1056 m 2
@@ -11381,6 +11617,7 @@ Width: 3042
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1492 144 m 0
@@ -11429,6 +11666,7 @@ Width: 3742
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 536 144 m 0
@@ -11496,6 +11734,7 @@ Width: 1804
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 1018 1524 m 0
@@ -11537,6 +11776,7 @@ VWidth: 4096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 -1200 m 1
@@ -11554,6 +11794,7 @@ VWidth: 4096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 940 1124 m 1
@@ -11582,6 +11823,7 @@ VWidth: 0
 GlyphClass: 3
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 2354 1618 m 1
@@ -11661,6 +11903,7 @@ Width: 384
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 1282 m 1
@@ -11681,6 +11924,7 @@ VWidth: 4096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 384 1740 m 1
@@ -11701,6 +11945,7 @@ VWidth: 4096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 1282 m 1
@@ -11729,6 +11974,7 @@ VWidth: 4096
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 662 1740 m 1
@@ -11756,6 +12002,7 @@ Width: 800
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 706 494 m 1
@@ -11773,6 +12020,7 @@ VWidth: 2252
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+Back
 Fore
 SplineSet
 716 1224 m 1
@@ -11807,6 +12055,8 @@ Width: 2048
 VWidth: 0
 Flags: W
 LayerCount: 2
+Back
+Fore
 EndChar
 EndChars
 EndSplineFont
