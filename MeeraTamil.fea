@@ -33,7 +33,6 @@ lookup halfformSubstitutionlookup5 {
     sub \ta_sha \ta_virama  by \ta_sh;
     sub \ta_sa \ta_virama  by \ta_s;
     sub \ta_ha \ta_virama  by \ta_h;
-    sub \ksha \ta_virama  by \ta_ksh;
     sub \ta_ssa \ta_virama  by \ta_ss;
 } halfformSubstitutionlookup5;
 
@@ -159,7 +158,6 @@ lookup halnHalantFormsinTamillookup4 {
     sub \ta_sha \ta_virama  by \ta_sh;
     sub \ta_sa \ta_virama  by \ta_s;
     sub \ta_ha \ta_virama  by \ta_h;
-    sub \ksha \ta_virama  by \ta_ksh;
     sub \ta_ssa \ta_virama  by \ta_ss;
 } halnHalantFormsinTamillookup4;
 
