@@ -1,36 +1,17 @@
 Meera Tamil Font
 ================
 
-A free licensed unicode font for Tamil.
+Meera Tamil is a free licensed unicode font for Tamil Script. This is designed by Anilan N. G. with typography guidance from Hussain K. H. and linguistic guidance from A. K. M. Kutty. The opentype features of the font is compiled by Santhosh Thottingal.
 
-
-[Download ](https://github.com/santhoshtr/meera-tamil/releases/) latest version.
-
-Also available in Debian and Ubuntu.
-```bash
-sudo apt-get install fonts-meera-taml
-```
+The font is maintained by Swathanthra Malayalam Computing project. The source code is available at https://gitlab.com/smc/meera-tamil
 
 Sample text rendered using Meera Tamil
 
 ![Wikipedia Article about Tamil rendered using Meera Tamil](http://thottingal.in/fonts/MeeraTamil/samples/MeeraTamil-Wiki-2.png "Wikipedia Article about Tamil rendered using Meera Tamil")
 
-Authors
--------
-
-* Hussain KH (Typography)
-* Santhosh Thottingal (Featuring)
-* Anilan NG (Calligraphy)
-* AKM Kutty (Linguistics)
-
-Dedicated to Wikipedia and Tamil People (Tamil Pesum Nallulakam).
 
 License:
 --------
 
 This Font is licensed under the SIL Open Font License, Version 1.1. See http://scripts.sil.org/OFL
 
-Issues
--------
-
-Report here : https://github.com/santhoshtr/meera-tamil/issues
