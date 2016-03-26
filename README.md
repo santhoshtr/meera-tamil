@@ -16,3 +16,14 @@ License:
 
 This Font is licensed under the SIL Open Font License, Version 1.1. See http://scripts.sil.org/OFL
 
+Building from source
+--------------------
+1. Install fontforge and python-fontforge
+2. Install the python libraries required for build script:
+    ```
+    pip install -r tools/requirements.txt
+    ```
+3. Build the ttf, woff, woff2 files: 
+   ``` 
+   make
+   ```

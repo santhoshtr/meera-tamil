@@ -2,24 +2,17 @@
 
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts=MeeraTamil
-feature=MeeraTamil.fea
+feature=features/features.fea
 PY=python2.7
 buildscript=tools/build.py
+version=2.0
 default: compile
-all: compile webfonts
+all: compile
 
-compile:
+compile: clean
 	@for font in `echo ${fonts}`;do \
 		echo "Generating $$font.ttf";\
-		$(PY) $(buildscript) $$font.sfd $(feature);\
-	done;
-
-webfonts:compile
-	@echo "Generating webfonts";
-	@for font in `echo ${fonts}`;do \
-		sfntly -w $${font}.ttf $${font}.woff;\
-		sfntly -e -x $${font}.ttf $${font}.eot;\
-		[ -x `which woff2_compress` ] && woff2_compress $${font}.ttf;\
+		$(PY) $(buildscript) $$font.sfd $(feature) $(version);\
 	done;
 
 install: compile
@@ -33,3 +26,9 @@ test: compile
 		echo "Testing font $${font}";\
 		hb-view $${font}.ttf --text-file tests/tests.txt --output-file tests/$${font}.pdf;\
 	done;
+dist:
+	@for font in `echo ${fonts}`;do \
+		cp $${font}.ttf ttf/$${font}.ttf;\
+	done;
+clean:
+	@rm -rf *.ttf *.sfd-* *.woff* *.eot
